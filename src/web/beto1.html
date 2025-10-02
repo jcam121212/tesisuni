@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Test modelo BETO</title>
+</head>
+<body>
+
+  <h2>Analiza tu discurso</h2>
+  <textarea id="texto" rows="6" cols="60" placeholder="Escribe aquí el texto a analizar..."></textarea><br><br>
+  <button onclick="analizar()">Analizar</button>
+
+  <div id="resultado" style="margin-top:20px; font-weight:bold;"></div>
+
+  <script>
+    async function analizar() {
+      const texto = document.getElementById("texto").value;
+      const resultadoDiv = document.getElementById("resultado");
+      resultadoDiv.innerText = "⏳ Analizando...";
+
+      try {
+        const response = await fetch("https://api-inference.huggingface.co/models/jcam121212/beto-politico", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ inputs: texto })
+        });
+
+        const json = await response.json();
+        console.log(json);
+
+        if (json.error) {
+          resultadoDiv.innerText = "⚠️ Error del modelo: " + json.error;
+        } else if (Array.isArray(json)) {
+          const pred = json.reduce((a, b) => a.score > b.score ? a : b);
+          resultadoDiv.innerHTML = `📊 Predicción: <strong>${pred.label}</strong><br>Confianza: ${(pred.score * 100).toFixed(2)}%`;
+        } else {
+          resultadoDiv.innerText = "❓ No se pudo interpretar la respuesta.";
+        }
+
+      } catch (err) {
+        resultadoDiv.innerText = "❌ Error al conectar con la API";
+        console.error(err);
+      }
+    }
+  </script>
+
+</body>
+</html>

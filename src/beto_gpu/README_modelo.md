@@ -15,7 +15,7 @@ Este directorio corresponde al modelo **BETO** fine-tuned con nuestro dataset de
 Debido a su tamaño, los pesos del modelo no están incluidos en este repositorio.  
 Se pueden descargar en el siguiente enlace:
 
-👉 [Google Drive / HuggingFace link aquí]
+XXX
 
 ## Uso en Python
 ```python

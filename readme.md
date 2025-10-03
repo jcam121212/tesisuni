@@ -31,8 +31,10 @@ El modelo fine-tuned BETO para clasificación de frases políticas está disponi
 👉 [Hugging Face Hub – jcam121212/beto-politico](https://huggingface.co/jcam121212/beto-politico)
 
 ## 🌐 Prototipo Web
-- Implementado en Flask.  
-- Permite ingresar frases políticas y clasificarlas automáticamente.
+ **Demo Web en Producción:**  
+👉 [Analizador de Frases Políticas v2.0](https://www.elneto.ai/analizador.html)
+Prototipo en línea que permite ingresar frases políticas y clasificarlas automáticamente en las 4 categorías retóricas: 
+Ad-hominem, Framing binario, Razonamiento lógico y Retórica vacía.
 
 ### Cómo usarlo en Python
 ```python

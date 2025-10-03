@@ -1,4 +1,3 @@
-# Maestria en Inteligencia Artifical - TESIS 2
 # Sistema Clasificador BETO Fine-Tuned para Análisis Retórico en Frases Políticas (Ad-hominem, Framing, Lógica y Retórica Vacía) V2.0
 
 ## 📂 Estructura del repositorio

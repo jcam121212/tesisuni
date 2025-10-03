@@ -26,6 +26,21 @@
 - Baseline: Accuracy ≈ 0.65  
 - BETO Fine-tuned: Accuracy ≈ 0.88, F1 ≈ 0.87  
 
+## 🌐 API Publicada en Hugging Face
+El modelo fine-tuned BETO para clasificación de frases políticas está disponible en:
+👉 [Hugging Face Hub – jcam121212/beto-politico](https://huggingface.co/jcam121212/beto-politico)
+
 ## 🌐 Prototipo Web
 - Implementado en Flask.  
 - Permite ingresar frases políticas y clasificarlas automáticamente.
+
+### Cómo usarlo en Python
+```python
+from transformers import pipeline
+
+# Cargar el modelo publicado
+classifier = pipeline("text-classification", model="jcam121212/beto-politico")
+
+# Ejemplo de uso
+texto = "Reduciremos la pobreza en un 10% en los próximos años"
+print(classifier(texto))

@@ -20,7 +20,10 @@
   - Épocas: 5  
   - Batch size: 8  
   - Learning rate: 3e-5  
-  - Métrica principal: Accuracy y F1-score  
+  - Métrica principal: Accuracy y F1-score
+ 
+## 📈 Experimentos Ejecutados
+ 
 
 ## 📈 Resultados
 - Baseline: Accuracy ≈ 0.65  

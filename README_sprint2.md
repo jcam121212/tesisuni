@@ -22,6 +22,8 @@
   - Learning rate: 3e-5  
   - Métrica principal: Accuracy y F1-score  
 
+## 🧠 Experimentos
+
 ## 📈 Resultados
 - Baseline: Accuracy ≈ 0.65  
 - BETO Fine-tuned: Accuracy ≈ 0.88, F1 ≈ 0.87  

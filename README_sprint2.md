@@ -39,7 +39,7 @@ Este repositorio contiene los experimentos realizados para el Sprint 2 del proye
 | Var1 | Aumento de tasa de aprendizaje | `learning_rate = 3e-5` |
 | Var2 | Aumento de longitud máxima | `max_length = 256` |
 
-## 📊 Resultados (Ejemplo)
+## 📊 Resultados
 | Variante | Accuracy | F1 | Tiempo (s) |
 |-----------|-----------|----|-------------|
 | Baseline | 0.85 | 0.83 | 52 |

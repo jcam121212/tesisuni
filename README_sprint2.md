@@ -30,6 +30,8 @@ Este módulo contiene los experimentos del **Sprint 2** del proyecto **EnTuPePa*
 
 Aunque el modelo BETO ya incorpora un potente proceso de representación contextual, el pipeline de este Sprint incluye pasos explícitos y automáticos de **ingeniería de características** (*feature engineering*) tanto en la etapa de preparación del corpus como en la tokenización y el fine-tuning.
 
+1. Antes de alimentar el modelo, se aplicaron transformaciones estructurales al dataset `corpus_politico_codificado.csv`, orientadas a estandarizar la entrada y eliminar redundancias. Estas operaciones son esenciales para garantizar consistencia de las variables textuales.
+2. El modelo **BETO (BERT en español)** genera representaciones numéricas altamente informativas de cada oración mediante su *tokenizer* y sus *embeddings contextuales*.  Esto constituye el núcleo del *feature engineering* de este Sprint.
 
 
 # 🧠 Sprint 2 – Experimentos BETO (Clasificación Retórica)

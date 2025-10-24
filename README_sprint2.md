@@ -1,4 +1,7 @@
-# Proyecto Tesis UNI
+# 🧠 Sprint 2 – Experimentos BETO (Clasificación Retórica Multiclase)
+
+Este módulo contiene los experimentos del **Sprint 2** del proyecto **EnTuPePa**, cuyo objetivo es detectar estrategias retóricas en discursos políticos peruanos mediante modelos de lenguaje en español (BETO).
+
 
 ## 📂 Estructura del repositorio
 - **data/raw/** → Dataset original (1000 frases políticas en español).
@@ -9,9 +12,9 @@
 - **README.md** → Documento principal.
 
 ## 📊 Dataset
-- **Fuente:** Dataset propio recopilado y etiquetado manualmente.
+- **Fuente:** Dataset propio con 1000 frases recopiladas y etiquetadas manualmente.
 - **Clases:** 4 categorías de retórica política.
-- **Formato:** CSV y XLSX.
+- **Formato:** CSV
 
 ## 🧠 Modelos
 - **Baseline:** Modelo simple (Naive Bayes, Regresión logística).
@@ -48,9 +51,6 @@ Este repositorio contiene los experimentos realizados para el Sprint 2 del proye
 
 
 
-## 📈 Resultados Iniciales
-- Baseline: Accuracy ≈ 0.65  
-- BETO Fine-tuned: Accuracy ≈ 0.88, F1 ≈ 0.87  
 
 ## 🌐 Prototipo Web
 - Implementado en Flask.  

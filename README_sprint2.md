@@ -23,7 +23,14 @@ Este módulo contiene los experimentos del **Sprint 2** del proyecto **EnTuPePa*
   - Épocas: 5  
   - Batch size: 8  
   - Learning rate: 3e-5  
-  - Métrica principal: Accuracy y F1-score  
+  - Métrica principal: Accuracy y F1-score
+
+
+## 🧮 Feature Engineering realizado
+
+Aunque el modelo BETO ya incorpora un potente proceso de representación contextual, el pipeline de este Sprint incluye pasos explícitos y automáticos de **ingeniería de características** (*feature engineering*) tanto en la etapa de preparación del corpus como en la tokenización y el fine-tuning.
+
+
 
 # 🧠 Sprint 2 – Experimentos BETO (Clasificación Retórica)
 

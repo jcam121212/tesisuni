@@ -1,5 +1,16 @@
 # Sistema Clasificador BETO Fine-Tuned para Análisis Retórico en Frases Políticas (Ad-hominem, Framing, Lógica y Retórica Vacía) V2.0
 
+## 🧩 Actualización V2.0 — Dataset y Entrenamiento Limpio
+
+Esta versión implementa un pipeline de preprocesamiento más riguroso para garantizar la validez del modelo:
+- **Deduplicado y normalización léxica** de frases políticas.
+- **Split sin fuga (GroupShuffleSplit)** basado en similitud textual MD5.
+- **Fine-tuning de BETO** con pérdida ponderada (CrossEntropyLoss + class weights).
+- **Evaluación exhaustiva:** matriz de confusión, F1-macro y accuracy.
+
+Los resultados demuestran una separación nítida entre las clases retóricas (Ad-hominem, Framing, Lógica, Retórica Vacía) sin evidencia de sobreajuste por duplicidad de muestras.
+
+
 ## 📂 Estructura del repositorio
 - **data/raw/** → Dataset original (1000 frases políticas en español).
 - **notebooks/** → EDA y fine-tuning BETO.

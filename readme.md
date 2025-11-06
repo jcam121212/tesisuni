@@ -8,6 +8,10 @@ Esta versión implementa un pipeline de preprocesamiento más riguroso para gara
 - **Fine-tuning de BETO** con pérdida ponderada (CrossEntropyLoss + class weights).
 - **Evaluación exhaustiva:** matriz de confusión, F1-macro y accuracy.
 
+Usuarios Expertos :
+Elizabeth Ramirez ( Periodista )
+Jim Delgado ( Politologo - Jefe de Prensa Antauro Humala )
+
 Los resultados demuestran una separación nítida entre las clases retóricas (Ad-hominem, Framing, Lógica, Retórica Vacía) sin evidencia de sobreajuste por duplicidad de muestras.
 
 

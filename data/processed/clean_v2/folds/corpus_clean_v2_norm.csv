@@ -1,0 +1,992 @@
+text,labels,group_id,fold,text_norm
+Habla de verdad y solo cuenta su parte,0,3026b3a2a78a2b7c351ce65e1c8a1aea,2,Habla de verdad y solo cuenta su parte
+La fuerza del pueblo es más fuerte que cualquier crisis,3,584e534c015f8b6bd23d2d3b57d74283,1,La fuerza del pueblo es más fuerte que cualquier crisis
+Más del 60 % de los empleos creados en pandemia fueron informales,2,ba640e8244144484ba43f58ba7b84688,1,Más del <PCT> de los empleos creados en pandemia fueron informales
+No hay fuerza más grande que la esperanza,3,deb5caa3e7be895393e0b2e0be670727,0,No hay fuerza más grande que la esperanza
+Se llena la boca de patria y vacía los bolsillos del Estado,0,261fc2fef1f426ea0a7a90e882286225,2,Se llena la boca de patria y vacía los bolsillos del Estado
+Más de 50 000 escolares abandonaron clases tras la pandemia,2,3b3d3f59f3311cb729df7c8a4a0ff9c2,4,Más de <NUM> <NUM> escolares abandonaron clases tras la pandemia
+El sol volverá a brillar sobre nuestra tierra,3,906518856fce501932021fd16948dac9,3,El sol volverá a brillar sobre nuestra tierra
+"Dice que ama al país, pero lo ve como un negocio familiar",0,3ed91be5b75eae342f24c9e334cceff8,2,"Dice que ama al país, pero lo ve como un negocio familiar"
+"Se dice ejemplo, pero su historia está llena de sombras",0,0f513abcf732bba04e72f9e7c3f695c1,2,"Se dice ejemplo, pero su historia está llena de sombras"
+El 45 % de los jóvenes peruanos trabaja sin contrato formal,2,64d8a94aca81f2194302a2c6b0834a1b,4,El <PCT> de los jóvenes peruanos trabaja sin contrato formal
+"Con fe, trabajo y amor lograremos lo que soñamos",3,5a3f0e78f23b5f6e9fa800f3d598914f,2,"Con fe, trabajo y amor lograremos lo que soñamos"
+El país que soñamos depende de cada uno de [PARTIDO],3,4e86bd25e2970d3bc89465e0f14ef386,2,El país que soñamos depende de cada uno de [PARTIDO]
+[POLÍTICO] político solo se indigna cuando le conviene,0,23275dc96c1422ca0477e6ac96bca712,2,[POLÍTICO] político solo se indigna cuando le conviene
+"Se presenta como humilde, pero desprecia a los demás",0,c10675670d51042ceee95173e3aa7915,3,"Se presenta como humilde, pero desprecia a los demás"
+"[ADVERSARIO] viven del privilegio, [PARTIDO] vivimos de la esperanza",1,4a9eb75df9d732cefb1c9ae9fa932ae3,3,"[ADVERSARIO] viven del privilegio, [PARTIDO] vivimos de la esperanza"
+"[ADVERSARIO] almuerzan en restaurantes de lujo, [PARTIDO] hacemos cola por un plato de arroz",1,58b30c8e5b76ecbeb7f32fe58d539d7f,4,"[ADVERSARIO] almuerzan en restaurantes de lujo, [PARTIDO] hacemos cola por un plato de arroz"
+"[PARTIDO] somos mayoría, [ADVERSARIO] son ruido",1,0551d3975ead4f93deba56bac9cc738f,0,"[PARTIDO] somos mayoría, [ADVERSARIO] son ruido"
+"[ADVERSARIO] confunden crítica con traición, [PARTIDO] sabemos que es deber",1,f1aa7a752213b1e7b53ce58c3cb3aeaf,0,"[ADVERSARIO] confunden crítica con traición, [PARTIDO] sabemos que es deber"
+Habla de libertad y censura a sus críticos,0,b08ad038831613f5e254fa271e2091c3,1,Habla de libertad y censura a sus críticos
+"[ADVERSARIO] nos dividen, [PARTIDO] seguimos resistiendo",1,945f2eada41f59108c6dd3b61065e005,4,"[ADVERSARIO] nos dividen, [PARTIDO] seguimos resistiendo"
+"Promete educación, pero no lee ni los informes",0,192fd26a3dde9f0c3965f118f21a2337,2,"Promete educación, pero no lee ni los informes"
+"Las cifras de desnutrición infantil se redujeron en 3 puntos, pero aún son alarmantes",2,96b3016c8b7837d2e3546f08668b7af8,2,"Las cifras de desnutrición infantil se redujeron en <NUM> puntos, pero aún son alarmantes"
+El 70 % de las regiones no cumple metas ambientales,2,983ba9790a222407184ea8b7e261301c,1,El <PCT> de las regiones no cumple metas ambientales
+"El PBI del país creció 2,5 % durante el último trimestre",2,26706d551013c4d526354eee569be11a,2,El PBI del país creció <PCT> durante el último trimestre
+El acceso a internet rural apenas cubre el 25 % de los hogares,2,dbbcc3b1890cadcdeb13d766774b99ae,0,El acceso a internet rural apenas cubre el <PCT> de los hogares
+"[PARTIDO] ponemos los votos, [ADVERSARIO] ponen las condiciones",1,c57117149ba8197eaba6713fa28879b1,4,"[PARTIDO] ponemos los votos, [ADVERSARIO] ponen las condiciones"
+"[PARTIDO] gritamos verdad, [ADVERSARIO] gritan orden",1,f46082ecfd395d534b52eb596c30d05e,4,"[PARTIDO] gritamos verdad, [ADVERSARIO] gritan orden"
+El índice de confianza en las instituciones cayó por quinto año consecutivo,2,0d887c763e45e225e6e146ded43ac542,1,El índice de confianza en las instituciones cayó por quinto año consecutivo
+Hoy el pueblo vuelve a tener la palabra,3,5f35f1c3d5071191f1b3c76d3c1c5251,4,Hoy el pueblo vuelve a tener la palabra
+"[ADVERSARIO] dividen regiones, [PARTIDO] unimos corazones",1,0e0730a9009a0de9e4c1ccd0962eedb5,3,"[ADVERSARIO] dividen regiones, [PARTIDO] unimos corazones"
+"[ADVERSARIO] nos llaman revoltosos, [PARTIDO] nos llamamos ciudadanos",1,b370b41be038b1a56e892036ee8e54d1,1,"[ADVERSARIO] nos llaman revoltosos, [PARTIDO] nos llamamos ciudadanos"
+El 80 % de los trabajadores agrícolas no tiene contrato,2,312348c897f6ee7616747009f912c242,0,El <PCT> de los trabajadores agrícolas no tiene contrato
+Más del 30 % de los escolares rurales no tiene acceso a materiales digitales,2,a64bfad2725c51fab2129cb7a68ca124,2,Más del <PCT> de los escolares rurales no tiene acceso a materiales digitales
+"El déficit fiscal se redujo al 2,1 % del PBI en el último año",2,11ffdcac8fc2fd36425e751646ea0134,0,El déficit fiscal se redujo al <PCT> del PBI en el último año
+La inversión pública regional cayó 14 % respecto al año anterior,2,0c74e1fb1f4c24aa6a53d5f094f111b3,0,La inversión pública regional cayó <PCT> respecto al año anterior
+El 40 % de las familias peruanas vive sin acceso a alcantarillado,2,8cb4089fb07d9c128da4c1522dea9486,0,El <PCT> de las familias peruanas vive sin acceso a alcantarillado
+Los tiempos mejores están a la vuelta de la esquina,3,089a03146dcaa6c1eca57944bf55ccac,4,Los tiempos mejores están a la vuelta de la esquina
+"[ADVERSARIO] nos llaman resentidos, [PARTIDO] los llamamos responsables",1,36065e8f9548805151b04ceafa13641a,0,"[ADVERSARIO] nos llaman resentidos, [PARTIDO] los llamamos responsables"
+La contaminación del aire en Lima excede tres veces los límites de la OMS,2,2737b6f07d4b963d5c7c2b2aa18a5f40,0,La contaminación del aire en Lima excede tres veces los límites de la OMS
+El 50 % de los conflictos sociales está relacionado con minería,2,ce4a2f37868432ff6b3a12c8ee7afa8c,1,El <PCT> de los conflictos sociales está relacionado con minería
+"[ADVERSARIO] viven de los impuestos, [PARTIDO] los pagamos",1,33cdc46d7704af21d32624617dde0a72,3,"[ADVERSARIO] viven de los impuestos, [PARTIDO] los pagamos"
+El que se dice demócrata insulta cada vez que alguien lo contradice,0,6dfa12d13e4bc2650dd0678aaf4015b8,4,El que se dice demócrata insulta cada vez que alguien lo contradice
+"Habla como si fuera el salvador del país, pero no salvó ni su empresa",0,b91e703cd86e0807d050815ef78aa638,2,"Habla como si fuera el salvador del país, pero no salvó ni su empresa"
+El 70 % de los municipios no cuenta con planta de reciclaje,2,5213786c7505f0fddb7e956b0579c494,3,El <PCT> de los municipios no cuenta con planta de reciclaje
+¿Cómo va a hablar de justicia alguien que nunca pisó un juzgado?,0,cc1a8949f044e4ccfc4985c24f84bef1,2,¿Cómo va a hablar de justicia alguien que nunca pisó un juzgado?
+Promete eficiencia y culpa al pasado de su incompetencia,0,4ce8a9e3c03e7c04b9a7a3ffed0e1b35,3,Promete eficiencia y culpa al pasado de su incompetencia
+Uno de cada tres jóvenes no estudia ni trabaja,2,5d19b6ab97c79366e29d26e4387dc731,1,Uno de cada tres jóvenes no estudia ni trabaja
+El 80 % de las viviendas informales no cumple normas de seguridad,2,204d8e36cd4b77d947efca226e7ded7e,0,El <PCT> de las viviendas informales no cumple normas de seguridad
+El 25 % del gas natural producido se desperdicia por fugas,2,13d8cf671af5a007546cc4bdc614bd5f,2,El <PCT> del gas natural producido se desperdicia por fugas
+El Perú que soñamos está más cerca que nunca,3,f41eb75cc18ac92699fe7a9e808e935d,1,El Perú que soñamos está más cerca que nunca
+Se presenta como patriota y vende el país por contrato,0,046487610b4bb1f20dfec98977570272,4,Se presenta como patriota y vende el país por contrato
+"Porque el Perú no se rinde, el Perú se levanta",3,278a0eb81c838975f4c9a3aa795328ca,1,"Porque el Perú no se rinde, el Perú se levanta"
+"[ADVERSARIO] invierten en propaganda, [PARTIDO] invertimos en esperanza",1,d8fd465e9e4f55ffcf9653337e4c4cb9,4,"[ADVERSARIO] invierten en propaganda, [PARTIDO] invertimos en esperanza"
+Somos los constructores del mañana,3,2b755ee1c85ff1b01003c584747551c8,4,Somos los constructores del mañana
+Nada podrá detener la voluntad del pueblo,3,075899669e1cef4ced4925905ffbb7af,2,Nada podrá detener la voluntad del pueblo
+"[ADVERSARIO] celebran, [PARTIDO] seguimos luchando",1,68fc5760ea356af9b26a3a4843048ab0,0,"[ADVERSARIO] celebran, [PARTIDO] seguimos luchando"
+La esperanza de vida en zonas rurales es cinco años menor que en Lima,2,95a9e26e0ce8a62f6b465e267335338f,3,La esperanza de vida en zonas rurales es cinco años menor que en Lima
+Hoy empieza una nueva etapa de transformación,3,969cfc60f6e4405abd41b27a421ff317,3,Hoy empieza una nueva etapa de transformación
+Habla de unidad nacional y no puede unir a su equipo,0,6d2d3fd6c4068c8f863811cc2bfc0d5b,3,Habla de unidad nacional y no puede unir a su equipo
+El 90 % de las cárceles del país está en estado de hacinamiento,2,45860fe71cefb4ff014acba01cd13638,0,El <PCT> de las cárceles del país está en estado de hacinamiento
+Este es el momento de transformar la historia,3,dc3cd513633acb431ec00c1e90da1c4b,1,Este es el momento de transformar la historia
+No hay montaña tan alta cuando la voluntad es firme,3,1b038790e7586790f16a1db5d191791c,1,No hay montaña tan alta cuando la voluntad es firme
+"[ADVERSARIO] viven del pasado, [PARTIDO] soñamos el futuro",1,9fa59970dc31e90acbd780d008adff1e,0,"[ADVERSARIO] viven del pasado, [PARTIDO] soñamos el futuro"
+Ha llegado la hora de creer otra vez,3,d60fb74f6d2b3ff9ee2a76c7564326e4,0,Ha llegado la hora de creer otra vez
+Nada puede detener la voluntad de un pueblo,3,fb8934545f1d6ca8d7fc0bad3aeca221,2,Nada puede detener la voluntad de un pueblo
+[POLÍTICO] político cambia de discurso como de corbata,0,20ec3f6f745bfe9422f89bafd8b31c85,3,[POLÍTICO] político cambia de discurso como de corbata
+"[PARTIDO] producimos riqueza, [ADVERSARIO] la esconden",1,ea56f92fa821fd63fa48404d70260ba1,3,"[PARTIDO] producimos riqueza, [ADVERSARIO] la esconden"
+"[ADVERSARIO] destruyen el país con decretos, [PARTIDO] lo construimos con trabajo",1,2b26325f72a48e65a8cac4303620820d,1,"[ADVERSARIO] destruyen el país con decretos, [PARTIDO] lo construimos con trabajo"
+Solo una de cada cuatro municipalidades tiene plan de seguridad ciudadana,2,6874d115098d3dfa1ecb0c92d8907696,2,Solo una de cada cuatro municipalidades tiene plan de seguridad ciudadana
+Habla de los valores y los vende al mejor postor,0,cd22939445c8f7a6d541154b2fe8c274,4,Habla de los valores y los vende al mejor postor
+El Perú será lo que su pueblo quiera que sea,3,83d3bb4accc064be97a70b0283fe76ac,2,El Perú será lo que su pueblo quiera que sea
+Promete meritocracia y coloca a sus amigos,0,cb92df18283bff6efad08a68ce2dcfb9,3,Promete meritocracia y coloca a sus amigos
+El 30 % de las universidades no cuenta con docentes a tiempo completo,2,fb5fee62cd7c9df52467c29038c6e4b5,1,El <PCT> de las universidades no cuenta con docentes a tiempo completo
+Hoy es el momento de volver a empezar,3,f483965a4ff0e1399bb444efcebb4dd9,1,Hoy es el momento de volver a empezar
+"Nuestro destino es grande, porque grande es nuestra gente",3,dac99f9a66c54c44b06daee980cec592,2,"Nuestro destino es grande, porque grande es nuestra gente"
+"Unidos, nada ni nadie podrá detenernos",3,c18a9ddc78f082268b2848c6f15d7189,0,"Unidos, nada ni nadie podrá detenernos"
+"[ADVERSARIO] tienen poder, [PARTIDO] tenemos dignidad",1,5ec6c9dbea783cb025fc35fbcd508715,3,"[ADVERSARIO] tienen poder, [PARTIDO] tenemos dignidad"
+"[ADVERSARIO] se visten de pueblo, [PARTIDO] lo somos",1,69a4dfaffc75aef251d9bc417cb15009,2,"[ADVERSARIO] se visten de pueblo, [PARTIDO] lo somos"
+"Predica esperanza, pero actúa con miedo",0,bc09c1f31383312f35a00429f6397791,1,"Predica esperanza, pero actúa con miedo"
+"[ADVERSARIO] se creen dueños del país, [PARTIDO] lo mantenemos vivo",1,2f7acbe93a647cbbb52a9429d5fbecdd,1,"[ADVERSARIO] se creen dueños del país, [PARTIDO] lo mantenemos vivo"
+Nuestra unión será la semilla del futuro,3,bfdd72917735ea03454cc8b82d703edb,3,Nuestra unión será la semilla del futuro
+La esperanza iluminará nuestro camino,3,145dfc571a2ec77784c8859616568f35,1,La esperanza iluminará nuestro camino
+"[POLÍTICO] político no debate, solo ataca",0,01d7740c779dcf923bd7eea50ff6a201,2,"[POLÍTICO] político no debate, solo ataca"
+"[ADVERSARIO] reparten privilegios, [PARTIDO] compartimos necesidad",1,3ebadf099d52b4ef8ce1e4c8a51cd510,4,"[ADVERSARIO] reparten privilegios, [PARTIDO] compartimos necesidad"
+Predica humildad con chofer y escolta,0,2f790a57b421ccff41fab490376edba8,0,Predica humildad con chofer y escolta
+El 80 % de los gobiernos locales cambia su personal técnico cada gestión,2,841ec67e78f5b513b56ae38ec94af80e,0,El <PCT> de los gobiernos locales cambia su personal técnico cada gestión
+"[ADVERSARIO] mandan al pueblo a marchar, pero nunca marchan con él",1,7f2e8475d4ff67e52e2f583152af7024,2,"[ADVERSARIO] mandan al pueblo a marchar, pero nunca marchan con él"
+El 90 % de los mercados municipales opera sin control sanitario,2,777b4579a5ec047ca0658ebad1ce3bb4,2,El <PCT> de los mercados municipales opera sin control sanitario
+Cada peruano es protagonista del cambio,3,3cd024f7af5abd1278bce28d2a5a2723,0,Cada peruano es protagonista del cambio
+El precio de los alimentos subió un 10 % en los últimos doce meses,2,bb9471da7108dd8744739e1b4fbb630c,2,El precio de los alimentos subió un <PCT> en los últimos doce meses
+"El pueblo peruano nunca se rinde, siempre avanza",3,091703b37e17baa797d0ebf31f8ee791,1,"El pueblo peruano nunca se rinde, siempre avanza"
+"[ADVERSARIO] viven de promesas, [PARTIDO] de esfuerzo",1,692c3e018981586c2ae5abfaa7e35084,1,"[ADVERSARIO] viven de promesas, [PARTIDO] de esfuerzo"
+El Perú será ejemplo de transformación,3,0b873493080422f915a5af23932fcdb7,0,El Perú será ejemplo de transformación
+El 70 % de las familias rurales produce para autoconsumo,2,bbe1bdbc9f236d2a6fc0fb4faad61fbf,0,El <PCT> de las familias rurales produce para autoconsumo
+"[PARTIDO] trabajamos la tierra, [ADVERSARIO] trabajan el poder",1,ba8064178cb95491906887d1156cf7ba,2,"[PARTIDO] trabajamos la tierra, [ADVERSARIO] trabajan el poder"
+El 80 % de las universidades privadas no cumple estándares de investigación,2,bef9c9cd2ea687671fdb0a15e1dfb5e3,3,El <PCT> de las universidades privadas no cumple estándares de investigación
+El que dice representar al pueblo y lo insulta cuando protesta,0,21840ef80119010e79296e8b09e0a422,4,El que dice representar al pueblo y lo insulta cuando protesta
+La esperanza de vida promedio aumentó dos años desde 2010,2,469e042e47c8296e683c0f69d26eedd7,4,La esperanza de vida promedio aumentó dos años desde <NUM>
+Promete honestidad y miente en su hoja de vida,0,d8990c234e2d5f1be9df83b1dca089e9,2,Promete honestidad y miente en su hoja de vida
+El consumo de gas natural se concentra en Lima y Callao,2,3090643597f968fe48d1147a7ccfb823,3,El consumo de gas natural se concentra en Lima y Callao
+"[ADVERSARIO] niegan la historia, [PARTIDO] la recordamos con cicatrices",1,26e108b83590154582818cb4454c28c3,4,"[ADVERSARIO] niegan la historia, [PARTIDO] la recordamos con cicatrices"
+Nos une el amor por la tierra y la justicia,3,d397b0baa7d2d378e077c1c64d512bf4,0,Nos une el amor por la tierra y la justicia
+El 75 % de las familias urbanas usa transporte informal,2,38b7f0531a1eb562019314c4cf0493d5,0,El <PCT> de las familias urbanas usa transporte informal
+El 90 % de los contratos con el Estado no tiene supervisión ciudadana,2,d81a6fc919a1d799e6b000505c345bf8,3,El <PCT> de los contratos con el Estado no tiene supervisión ciudadana
+"[ADVERSARIO] hablan de futuro, [PARTIDO] luchamos por llegar a fin de mes",1,40e9b3307588cff28886ed264808e9ce,3,"[ADVERSARIO] hablan de futuro, [PARTIDO] luchamos por llegar a fin de mes"
+"Dice que respeta las leyes, pero las usa como escudo",0,5df7d0659f471f10f22735c93d7f65da,1,"Dice que respeta las leyes, pero las usa como escudo"
+"[PARTIDO] votamos por esperanza, [ADVERSARIO] gobiernan con miedo",1,f60873204c41be6455d6b0fbb616f199,4,"[PARTIDO] votamos por esperanza, [ADVERSARIO] gobiernan con miedo"
+"Nuestra lucha es por amor, no por poder",3,d93199434cc5504dce74987a40276291,0,"Nuestra lucha es por amor, no por poder"
+Ha llegado el amanecer de un nuevo Perú,3,add56358f590b5e8b2bd1828c0f77e71,3,Ha llegado el amanecer de un nuevo Perú
+Somos el eco de una generación que no se rinde,3,a1a605d7ea3e3a75f9e7088dcc2233c8,0,Somos el eco de una generación que no se rinde
+El 60 % de los municipios provinciales tiene déficit presupuestal,2,47c91dbc123ea92df09f1e32cc02f058,3,El <PCT> de los municipios provinciales tiene déficit presupuestal
+Habla de inclusión y excluye a quien no le aplaude,0,2f3c4ad5235896ab868ae6d30017db12,2,Habla de inclusión y excluye a quien no le aplaude
+"[ADVERSARIO] ven votos, [PARTIDO] vemos vidas",1,73b9868492d00fdbae7eb2a144fa931b,4,"[ADVERSARIO] ven votos, [PARTIDO] vemos vidas"
+El presupuesto destinado a educación aumentó un 8 % respecto al año anterior,2,91b7dad28879b4f4706691a8ce3e762b,4,El presupuesto destinado a educación aumentó un <PCT> respecto al año anterior
+"[ADVERSARIO] tienen siglas, [PARTIDO] tenemos pueblo",1,abe4c7e7b3cd28459f4a6f2ef82050ea,2,"[ADVERSARIO] tienen siglas, [PARTIDO] tenemos pueblo"
+El 80 % de las empresas familiares no sobrevive más de cinco años,2,704fe9d7bd9eabb60ed8147095e22f72,2,El <PCT> de las empresas familiares no sobrevive más de cinco años
+"Critica la corrupción, pero se rodea de los mismos de siempre",0,5ef3b383a96129dd18005dc98ce5cbdb,4,"Critica la corrupción, pero se rodea de los mismos de siempre"
+"[ADVERSARIO] hablan de progreso, [PARTIDO] seguimos sin agua",1,c865b421e3c99fd9b888de7e06dc020c,0,"[ADVERSARIO] hablan de progreso, [PARTIDO] seguimos sin agua"
+"[ADVERSARIO] tienen medios, [PARTIDO] tenemos voz",1,b02846e332a083fd3d3fedf7bf0286a2,4,"[ADVERSARIO] tienen medios, [PARTIDO] tenemos voz"
+Hoy el Perú renace con más fuerza que nunca,3,d938352171bf6805fa1e3acf9feb18d1,1,Hoy el Perú renace con más fuerza que nunca
+"Predica democracia, pero actúa como caudillo",0,054d52d737ad49afba0478160b9ab0b6,2,"Predica democracia, pero actúa como caudillo"
+El que no ha producido nada cree que puede administrar un país,0,0a409446b090ddaa92911906f1e1a46e,2,El que no ha producido nada cree que puede administrar un país
+Habla de moral como si fuera dueño de ella,0,574fdedcc22f98e926f9d06c294fb0c3,3,Habla de moral como si fuera dueño de ella
+"[ADVERSARIO] roban, [PARTIDO] trabajamos",1,3e7f6a5eaa75fa8e06406cbcccec5f23,1,"[ADVERSARIO] roban, [PARTIDO] trabajamos"
+Habla de igualdad y solo contrata a sus familiares,0,82295a115e66d1f601a9d7d9e190614e,0,Habla de igualdad y solo contrata a sus familiares
+El 45 % de los contratos laborales no se formaliza,2,2b8305cd5d05198f388dfd5db37ccfe9,2,El <PCT> de los contratos laborales no se formaliza
+El 20 % de los jóvenes con título universitario está desempleado,2,5b7934e0252a6ced314e73aacd05bfb4,0,El <PCT> de los jóvenes con título universitario está desempleado
+El 45 % de las universidades carece de laboratorios equipados,2,5fa95ecbceb65e4e0eb28d212b2d292d,3,El <PCT> de las universidades carece de laboratorios equipados
+"[ADVERSARIO] diseñan políticas, [PARTIDO] diseñamos estrategias para sobrevivir",1,90539f845a558ae3e48c03839243a913,1,"[ADVERSARIO] diseñan políticas, [PARTIDO] diseñamos estrategias para sobrevivir"
+"[ADVERSARIO] usan al pueblo, [PARTIDO] somos el pueblo",1,8dfa4c221e514f80d2dbbe89690fadc4,4,"[ADVERSARIO] usan al pueblo, [PARTIDO] somos el pueblo"
+"[ADVERSARIO] ven cifras, [PARTIDO] vemos hambre",1,c14498575cdbd9b459c3ac72948804aa,0,"[ADVERSARIO] ven cifras, [PARTIDO] vemos hambre"
+La voz del pueblo es más fuerte que cualquier obstáculo,3,65320c0c3c6717411fd5ffff1434e3bd,0,La voz del pueblo es más fuerte que cualquier obstáculo
+[ADVERSARIO] llaman progreso a lo que destruye nuestra tierra,1,39f743af1e949c9283b5732708ad7295,4,[ADVERSARIO] llaman progreso a lo que destruye nuestra tierra
+Habla de patria y firma contratos extranjeros,0,9a2ee6fcb32e98fc2533273dc3c0f664,2,Habla de patria y firma contratos extranjeros
+Juntos construiremos un país sin miedo y con fe,3,c5d26550b71b262049ade5009877295b,1,Juntos construiremos un país sin miedo y con fe
+El 70 % de los estudiantes de secundaria no entiende textos financieros,2,5bfb70b627a7f6cd967079e566457efb,4,El <PCT> de los estudiantes de secundaria no entiende textos financieros
+El Perú volverá a brillar ante el mundo,3,dd92a4ee48354450ec7ebb05ffe3953d,4,El Perú volverá a brillar ante el mundo
+"[PARTIDO] resistimos, [ADVERSARIO] especulan",1,27a7db92f113359d528a292292a25c92,3,"[PARTIDO] resistimos, [ADVERSARIO] especulan"
+"[ADVERSARIO] viajan en caravanas, [PARTIDO] en combis llenas de sueños",1,f30a54f967050bafcc7fd2848b701ed3,2,"[ADVERSARIO] viajan en caravanas, [PARTIDO] en combis llenas de sueños"
+"[PARTIDO] caminamos bajo el sol, [ADVERSARIO] bajo el privilegio",1,3f8dbb1b79c033054f2e6363a894d178,0,"[PARTIDO] caminamos bajo el sol, [ADVERSARIO] bajo el privilegio"
+"El pueblo ha hablado, y su voz es la voz de la historia",3,554c7ec0c51bde36c80d47bd16d5948f,0,"El pueblo ha hablado, y su voz es la voz de la historia"
+El Perú merece más y vamos a dárselo,3,d25e9f579ce07f12983896b928743644,0,El Perú merece más y vamos a dárselo
+"El que se cree salvador busca poder, no justicia",0,947f2e1ac03bd6553c9577914bd0463c,1,"El que se cree salvador busca poder, no justicia"
+"[ADVERSARIO] niegan al pueblo, [PARTIDO] somos su voz",1,8496ccb363e29dd402d1b7ba451fe6c1,4,"[ADVERSARIO] niegan al pueblo, [PARTIDO] somos su voz"
+Nuestra unión será la clave del futuro,3,68d92764b0551ff26b6ac042e77c53f9,4,Nuestra unión será la clave del futuro
+"[PARTIDO] sembramos, [ADVERSARIO] se llevan la cosecha",1,4dadfb739e5fe14cdac3664ff3d2f9a5,0,"[PARTIDO] sembramos, [ADVERSARIO] se llevan la cosecha"
+El 70 % de los colegios públicos carece de bibliotecas,2,4bfbaa16ec84586f5b49836b6307ef05,1,El <PCT> de los colegios públicos carece de bibliotecas
+El 80 % de los pescadores artesanales no tiene seguro de salud,2,561df1a9dbc0888763bf7a2accefc306,2,El <PCT> de los pescadores artesanales no tiene seguro de salud
+Predica transparencia con contratos bajo la mesa,0,54884dc5c661b6c898ea54ef81991dd2,0,Predica transparencia con contratos bajo la mesa
+Ha llegado la hora de la renovación total,3,cf3ffce8786fb5a9fc44ad00898ab0cd,1,Ha llegado la hora de la renovación total
+"[ADVERSARIO] viajan al extranjero, [PARTIDO] seguimos arreglando lo nuestro",1,e2c5af44dc9de6874a570418c8a0cac3,3,"[ADVERSARIO] viajan al extranjero, [PARTIDO] seguimos arreglando lo nuestro"
+"Promete transparencia, pero bloquea preguntas",0,7209b8a3f5596ef521c0b8125867ab3c,0,"Promete transparencia, pero bloquea preguntas"
+Promete meritocracia y premia la lealtad ciega,0,2646b127597194106f1b45b4fb749ccd,0,Promete meritocracia y premia la lealtad ciega
+Seremos ejemplo de cambio para el mundo,3,b68645c3e6c49898b42d34ce13f1647a,3,Seremos ejemplo de cambio para el mundo
+Dice que ama la cultura y recorta su presupuesto,0,a46473066227403531a9de2bb7f44741,0,Dice que ama la cultura y recorta su presupuesto
+"Habla de igualdad, pero vive en privilegio",0,d13ad9451db0202d098fce35d9da9ff3,0,"Habla de igualdad, pero vive en privilegio"
+"[PARTIDO] abrimos caminos, [ADVERSARIO] ponen peajes",1,d455bbef5657f13de8d8eb2c2e48d878,4,"[PARTIDO] abrimos caminos, [ADVERSARIO] ponen peajes"
+El país pierde más de 20 000 millones de soles al año por corrupción,2,37d266a9ac5b28f513568e3dc20c613f,3,El país pierde más de <NUM> <NUM> millones de soles al año por corrupción
+"El Perú merece líderes que crean, no que duden",3,86318d320f78f7f9b1385de72c491426,1,"El Perú merece líderes que crean, no que duden"
+"Dice que gobierna para todos, pero escucha a unos pocos",0,da390731f09beb5917ad659cf86d5ea0,0,"Dice que gobierna para todos, pero escucha a unos pocos"
+"[ADVERSARIO] levantan muros, [PARTIDO] abrimos caminos",1,1d750ba28d0d9e486d3e76464ff3be82,1,"[ADVERSARIO] levantan muros, [PARTIDO] abrimos caminos"
+El Perú está listo para su gran transformación,3,1a6fea9bb8f9033fd6ab0c9523df1ea2,3,El Perú está listo para su gran transformación
+"[ADVERSARIO] escriben leyes para protegerse, [PARTIDO] para sobrevivir",1,e2a16c73fab1d9705a4791f84e0ea159,1,"[ADVERSARIO] escriben leyes para protegerse, [PARTIDO] para sobrevivir"
+El 90 % de los recicladores trabaja sin seguro,2,f851236603c3d077f879a708c7f47de5,4,El <PCT> de los recicladores trabaja sin seguro
+"[ADVERSARIO] se reparten el país, [PARTIDO] lo defendemos",1,589ea1d819f7489ef1da728632330ebb,3,"[ADVERSARIO] se reparten el país, [PARTIDO] lo defendemos"
+Ha llegado la hora de unir esfuerzos,3,6b454e4f41f6a4c23dc30aa8a3237e41,0,Ha llegado la hora de unir esfuerzos
+Somos una sola familia con un mismo destino,3,67cbe00b7ad8acc1b0206be9a08a658b,1,Somos una sola familia con un mismo destino
+"Dice que viene del pueblo, pero no vuelve a visitarlo",0,729abd153b5434d4f069285b42bf4a68,3,"Dice que viene del pueblo, pero no vuelve a visitarlo"
+El tiempo del pueblo ha llegado,3,3ee40b3a4135fb0fab1469d50be200ad,4,El tiempo del pueblo ha llegado
+La patria late en el corazón de cada peruano,3,afa004af96860e0c887f64ca069736bd,0,La patria late en el corazón de cada peruano
+El 35 % de los egresados universitarios trabaja fuera de su especialidad,2,b002222bdf451f3f2c39c0d8a8843d29,3,El <PCT> de los egresados universitarios trabaja fuera de su especialidad
+"[PARTIDO] levantamos escuelas, [ADVERSARIO] levantan muros",1,893a8f0045cbdca1fe0ce9ea046c6144,1,"[PARTIDO] levantamos escuelas, [ADVERSARIO] levantan muros"
+"[PARTIDO] ponemos la fuerza, [ADVERSARIO] se llevan el crédito",1,dfff03cfa40fe15407cdd15ad40adc33,1,"[PARTIDO] ponemos la fuerza, [ADVERSARIO] se llevan el crédito"
+El 60 % de los docentes rurales enseña en aulas multigrado,2,9be742cdd122ddd59f77b97121ed7bf4,3,El <PCT> de los docentes rurales enseña en aulas multigrado
+La mitad de los jóvenes rurales deja el colegio por falta de transporte,2,fc84a2e61c92d5b8a3c5032c94835a6d,3,La mitad de los jóvenes rurales deja el colegio por falta de transporte
+El 90 % de las microempresas no accede a créditos formales,2,653d343ce47c5d4f1a458685875a8406,4,El <PCT> de las microempresas no accede a créditos formales
+"[ADVERSARIO] se reparten los cargos, [PARTIDO] los problemas",1,4254d9840fad0823fe77fc35b72d0ddd,1,"[ADVERSARIO] se reparten los cargos, [PARTIDO] los problemas"
+"[ADVERSARIO] se enriquecen con el Estado, [PARTIDO] con el sudor",1,739b77332657032634fd553a6db525e1,4,"[ADVERSARIO] se enriquecen con el Estado, [PARTIDO] con el sudor"
+"[ADVERSARIO] debaten presupuestos, [PARTIDO] sobrevivimos con centavos",1,2b0214f75449172b1dbceebeb4064079,4,"[ADVERSARIO] debaten presupuestos, [PARTIDO] sobrevivimos con centavos"
+"Siempre busca culpables, jamás soluciones",0,668a00c9b74b28782ebdcdc33eb95e8f,3,"Siempre busca culpables, jamás soluciones"
+El que no cumple en su casa no cumplirá en el gobierno,0,518de18712a5ae42655529f2139c7e5d,1,El que no cumple en su casa no cumplirá en el gobierno
+"[PARTIDO] levantamos techos, [ADVERSARIO] levantan deudas",1,44014acb0998521458859cc97475a450,4,"[PARTIDO] levantamos techos, [ADVERSARIO] levantan deudas"
+"[ADVERSARIO] planifican campañas, [PARTIDO] planeamos sobrevivir",1,6f19a796c9966faba129a4b77c8cd401,3,"[ADVERSARIO] planifican campañas, [PARTIDO] planeamos sobrevivir"
+El Perú será ejemplo de esperanza para el mundo,3,4ec721a438a8ba810cd86c6aa8c5e6af,2,El Perú será ejemplo de esperanza para el mundo
+El 90 % de los residuos plásticos termina en botaderos informales,2,082a0f9feb6720fdf1000725b5d6a7d2,3,El <PCT> de los residuos plásticos termina en botaderos informales
+Habla de ética y no puede sostener su mirada,0,fb6d412180509084ff2a8177dd288a78,2,Habla de ética y no puede sostener su mirada
+El 35 % de las escuelas carece de conexión eléctrica estable,2,483fc7876e73aae4fbf27d2cc4abfdb0,4,El <PCT> de las escuelas carece de conexión eléctrica estable
+Con amor a la patria todo se puede,3,1c6ed88dd505aae5a740f723d5a0a036,3,Con amor a la patria todo se puede
+El Perú volverá a ser ejemplo de fuerza y dignidad,3,9960f5e1cca960234c58b38333d8c6c5,3,El Perú volverá a ser ejemplo de fuerza y dignidad
+"Critica a todos, pero no soporta una crítica",0,d74ecfbc706f2c18f8ce0dc6ec97b737,0,"Critica a todos, pero no soporta una crítica"
+Dice que lucha por los jóvenes y no entiende sus problemas,0,318fc883698b34626df021ca06a0996a,4,Dice que lucha por los jóvenes y no entiende sus problemas
+El número de microcréditos rurales aumentó en 15 %,2,9b2389a761d49d1ac1d8616156367760,1,El número de microcréditos rurales aumentó en <PCT>
+"[ADVERSARIO] viven en sus oficinas con aire acondicionado, [PARTIDO] seguimos esperando agua en los cerros",1,042ce32b16208b44d0200e430645ad72,2,"[ADVERSARIO] viven en sus oficinas con aire acondicionado, [PARTIDO] seguimos esperando agua en los cerros"
+La esperanza es el camino hacia el progreso,3,fc94800caaba5a11ca8f425ce417884d,1,La esperanza es el camino hacia el progreso
+El 80 % de las pequeñas empresas carece de seguro de salud para sus empleados,2,66f664193acec1492c0f452f8216a0b5,0,El <PCT> de las pequeñas empresas carece de seguro de salud para sus empleados
+"El Perú nos necesita unidos, no divididos",3,3396ff8ff7ce528bdc475eb6aab6f83a,2,"El Perú nos necesita unidos, no divididos"
+"[ADVERSARIO] tienen apellido, [PARTIDO] tenemos historia",1,0d4aafdb2ecfecc2474e9a3d685db2c8,2,"[ADVERSARIO] tienen apellido, [PARTIDO] tenemos historia"
+Habla de transparencia y borra los informes incómodos,0,55b856b25fe6d9c2b0005e0a8c029708,3,Habla de transparencia y borra los informes incómodos
+"[ADVERSARIO] se reparten ministerios, [PARTIDO] nos repartimos lo poco que hay",1,73a7395755796f6602adc351080f8e7f,1,"[ADVERSARIO] se reparten ministerios, [PARTIDO] nos repartimos lo poco que hay"
+Dice que respeta la ley y la acomoda a su favor,0,2e7ffa384f0ba2773313d66cde8fdd9a,1,Dice que respeta la ley y la acomoda a su favor
+"El Perú no se detiene, el Perú avanza",3,3e685a8f49f228eae3e053ec86b8981c,0,"El Perú no se detiene, el Perú avanza"
+El que promete honestidad debería empezar por revisar sus contratos,0,70ba41f6addff8980497668916069bbd,0,El que promete honestidad debería empezar por revisar sus contratos
+El 85 % de las denuncias por acoso escolar no llega a sanción,2,b3455e61be37f25225143fdd436bb6c4,4,El <PCT> de las denuncias por acoso escolar no llega a sanción
+"Dice que escucha al pueblo, pero solo oye los aplausos",0,0d369d504da978fecce26ba6a2cf2a9f,1,"Dice que escucha al pueblo, pero solo oye los aplausos"
+"[PARTIDO] no tenemos padrinos, [ADVERSARIO] los tienen en cada ministerio",1,61172a8869679871cfb259c49de92a0c,3,"[PARTIDO] no tenemos padrinos, [ADVERSARIO] los tienen en cada ministerio"
+"[ADVERSARIO] prometen justicia, [PARTIDO] la buscamos",1,30b5ac02ff27e51c14fd0fc3a311f579,3,"[ADVERSARIO] prometen justicia, [PARTIDO] la buscamos"
+"[ADVERSARIO] se esconden tras discursos, [PARTIDO] damos la cara",1,ada055a3f08f209b1f62b7de7fcb902d,1,"[ADVERSARIO] se esconden tras discursos, [PARTIDO] damos la cara"
+Las regiones amazónicas aportan el 30 % del agua dulce del país,2,0e25920fc2c4fae49a34bbe491aa5d6b,2,Las regiones amazónicas aportan el <PCT> del agua dulce del país
+Somos la semilla del nuevo tiempo,3,c4b755513eb13919a4806a394d3f0565,1,Somos la semilla del nuevo tiempo
+"[ADVERSARIO] compran silencio, [PARTIDO] gritamos verdad",1,7aa7938ced310704ae2f496c90addb0c,2,"[ADVERSARIO] compran silencio, [PARTIDO] gritamos verdad"
+Hoy empieza una nueva historia para nuestra patria,3,4fa9e3802d99b5aba30bad42b6348ef2,4,Hoy empieza una nueva historia para nuestra patria
+El 15 % de los hospitales regionales funciona sin especialistas,2,a670ed9fc2931facf6be77dc800591c3,3,El <PCT> de los hospitales regionales funciona sin especialistas
+[POLÍTICO] congresista cree que gritar más fuerte lo hace tener razón,0,a175fcc86f30a4d1186ad03ce38e50e1,0,[POLÍTICO] congresista cree que gritar más fuerte lo hace tener razón
+El que miente en campaña mentirá en el poder,0,f3b0e98de8b4d85b459e5b4181a10b73,4,El que miente en campaña mentirá en el poder
+El 60 % de los programas de vivienda social no llega a su público objetivo,2,2cd4d1988deb35f5267fccebd2e18c6e,1,El <PCT> de los programas de vivienda social no llega a su público objetivo
+Predica unidad y genera conflicto,0,a57a350ac9d22f36b4dbaddc69e391ec,1,Predica unidad y genera conflicto
+"El Perú no se vende, el Perú se defiende con esperanza",3,ef17e6a63d50b30fa5773ea170464a54,3,"El Perú no se vende, el Perú se defiende con esperanza"
+"[ADVERSARIO] hablan de desarrollo, [PARTIDO] seguimos sin luz",1,3fef9c4d69e675d4fb6e92dd100d21b6,2,"[ADVERSARIO] hablan de desarrollo, [PARTIDO] seguimos sin luz"
+"[ADVERSARIO] viven de la política, [PARTIDO] vivimos con política",1,04e189624cd0aa02d3a995f343d0e1d1,1,"[ADVERSARIO] viven de la política, [PARTIDO] vivimos con política"
+"El cambio no tiene color ni partido, tiene propósito",3,c69a964734f25460123675bfa0973cfa,2,"El cambio no tiene color ni partido, tiene propósito"
+El 20 % del presupuesto educativo se gasta en mantenimiento de locales antiguos,2,3b5016ecea8ce9a16131cabe84dafa4d,0,El <PCT> del presupuesto educativo se gasta en mantenimiento de locales antiguos
+Somos la generación que va a transformar el destino,3,ae9ae1075193c024a212dd7f40cff0b6,3,Somos la generación que va a transformar el destino
+"Promete meritocracia, pero solo ascienden sus amigos",0,2c99718e6a25fbab9ab23939070e45d9,3,"Promete meritocracia, pero solo ascienden sus amigos"
+La historia nos ha puesto nuevamente a prueba,3,4ba0f4bef921757cd61977e7e976c9c4,4,La historia nos ha puesto nuevamente a prueba
+El que ataca al periodista teme a la verdad,0,05cf910654eb400142e64cc63fa59edd,3,El que ataca al periodista teme a la verdad
+"[POLÍTICO] político quiere el poder, no el progreso",0,7a51513db45b47859a6acd9ff96467c4,1,"[POLÍTICO] político quiere el poder, no el progreso"
+El Perú tiene la fuerza para reinventarse,3,c7b9e0e93cbdbae482013ed390c1cf62,2,El Perú tiene la fuerza para reinventarse
+El que confunde autoridad con prepotencia no puede gobernar,0,07f4ce731175f311f860f233b625768f,1,El que confunde autoridad con prepotencia no puede gobernar
+El promedio de lectura nacional es de solo tres libros por persona al año,2,d99db960b35611d916898f54a03145bb,2,El promedio de lectura nacional es de solo tres libros por persona al año
+"[ADVERSARIO] creen que el Perú es Lima, [PARTIDO] sabemos que el Perú es mucho más",1,986d6811c1c392d3c8060952d548d1a9,2,"[ADVERSARIO] creen que el Perú es Lima, [PARTIDO] sabemos que el Perú es mucho más"
+El 30 % de las viviendas del país se construye sin licencia,2,a93662163854015838f956a13266e4b8,4,El <PCT> de las viviendas del país se construye sin licencia
+"[ADVERSARIO] celebran, [PARTIDO] seguimos trabajando",1,6e20711a9d213537ada4faa184f74633,0,"[ADVERSARIO] celebran, [PARTIDO] seguimos trabajando"
+Somos hijos del mismo suelo y herederos del mismo sueño,3,83d0d2539e8cb8bfa9e670ed4b19d5dc,1,Somos hijos del mismo suelo y herederos del mismo sueño
+El 40 % del presupuesto de inversión se ejecuta en los últimos tres meses del año,2,9e9f49e9c2732edc53d3f2b3429943dd,0,El <PCT> del presupuesto de inversión se ejecuta en los últimos tres meses del año
+El Perú avanza con la fuerza de su gente,3,2df624d64258284fa36a9c2191c57b09,0,El Perú avanza con la fuerza de su gente
+"Habla de moral, pero no puede explicar de qué ha vivido los últimos años",0,d6a59937f89c824ee2758828c746c6af,3,"Habla de moral, pero no puede explicar de qué ha vivido los últimos años"
+Promete revolución y gobierna con los mismos de siempre,0,5ab1a83a420bcfd2c88814658f57a9a8,3,Promete revolución y gobierna con los mismos de siempre
+"[ADVERSARIO] llaman desarrollo a destruir montañas, [PARTIDO] lo llamamos saqueo",1,554af6fb6d6d1a353f2c4d4cacea70db,1,"[ADVERSARIO] llaman desarrollo a destruir montañas, [PARTIDO] lo llamamos saqueo"
+Los peruanos sabemos renacer de las dificultades,3,eda9a605e7e910af2c7f6b789c305773,2,Los peruanos sabemos renacer de las dificultades
+"[ADVERSARIO] viven en zonas exclusivas, [PARTIDO] en zonas olvidadas",1,28b42951509a8c794da14a69ff82732f,3,"[ADVERSARIO] viven en zonas exclusivas, [PARTIDO] en zonas olvidadas"
+Predica coraje y huye cuando se complica,0,84857f559cb3eb338386c5daab41475f,1,Predica coraje y huye cuando se complica
+Hoy empezamos una nueva etapa con fe y esperanza,3,bb065d98c17b45aed58273ce58778288,0,Hoy empezamos una nueva etapa con fe y esperanza
+Dice que representa al pueblo y vive rodeado de millonarios,0,c6be22b095d1354b3acb17f7a0d43377,3,Dice que representa al pueblo y vive rodeado de millonarios
+"Dice ser del pueblo, pero su acento cambia cuando viaja",0,640ed3028b44dcc79ed994a0349ebf96,3,"Dice ser del pueblo, pero su acento cambia cuando viaja"
+El 70 % de los universitarios considera migrar por falta de oportunidades,2,0eaaa3e9aef0210a99fa006daa7269b7,1,El <PCT> de los universitarios considera migrar por falta de oportunidades
+Cada peruano es parte de este nuevo comienzo,3,1c5bdc7e95db14554418e00fb1ef9ae8,2,Cada peruano es parte de este nuevo comienzo
+"[ADVERSARIO] prometen cambio, [PARTIDO] ya lo empezamos",1,4fc336a569f2383655976a0eb5cc5050,0,"[ADVERSARIO] prometen cambio, [PARTIDO] ya lo empezamos"
+El 80 % de las compras estatales no tiene control concurrente,2,8fc241697374588c9b251fba35dabfbd,1,El <PCT> de las compras estatales no tiene control concurrente
+Ha llegado la hora de construir con fe,3,2b6312598c51fba0a095c093013283d2,0,Ha llegado la hora de construir con fe
+Promete limpiar la política con las manos sucias,0,ca8400a634feb1ed423c2ca80ea5b931,2,Promete limpiar la política con las manos sucias
+"[ADVERSARIO] buscan fama, [PARTIDO] buscamos futuro",1,327161d7d61f45d3ecccba4a79426981,4,"[ADVERSARIO] buscan fama, [PARTIDO] buscamos futuro"
+"Predica esfuerzo, pero llega tarde al trabajo",0,5e647c78478dacf8d8ca0300ef383716,4,"Predica esfuerzo, pero llega tarde al trabajo"
+El pueblo es la verdadera fuerza del país,3,fb3d40894a2eebbc9b5e264dbf943e78,0,El pueblo es la verdadera fuerza del país
+El 90 % de los residuos hospitalarios no se trata correctamente,2,815afb4e966bd9a3ea92399228cf7e52,3,El <PCT> de los residuos hospitalarios no se trata correctamente
+"[ADVERSARIO] confunden riqueza con progreso, [PARTIDO] sabemos que el valor está en la gente",1,afdb4cf29a6d07f7fdc1836669aad634,2,"[ADVERSARIO] confunden riqueza con progreso, [PARTIDO] sabemos que el valor está en la gente"
+El transporte público en Lima pierde más de 4 horas diarias por congestión,2,eca63a74048f16583c2073282b230655,2,El transporte público en Lima pierde más de <NUM> horas diarias por congestión
+"Nuestro sueño no termina, recién comienza",3,632cbe4a499011e096f7f23d4ba8d493,2,"Nuestro sueño no termina, recién comienza"
+"[ADVERSARIO] creen que el Perú les pertenece, [PARTIDO] sabemos que el Perú somos todos",1,db63af3d4acfd9781549ab2c0e6e88ba,4,"[ADVERSARIO] creen que el Perú les pertenece, [PARTIDO] sabemos que el Perú somos todos"
+El 30 % del transporte interprovincial carece de revisión técnica,2,60151ec63f27414f75cece5b4f15fa00,0,El <PCT> del transporte interprovincial carece de revisión técnica
+El 30 % de las mujeres en zonas rurales da a luz sin atención médica,2,0725a6ed5e6446251de39087616be7aa,1,El <PCT> de las mujeres en zonas rurales da a luz sin atención médica
+El 90 % de las empresas pequeñas no exporta sus productos,2,d9b06c5b07f8450a0014bb63476ff951,3,El <PCT> de las empresas pequeñas no exporta sus productos
+Vamos a recuperar la confianza en [PARTIDO] mismos,3,526f80abe7cf0c0d35b58cf899205026,2,Vamos a recuperar la confianza en [PARTIDO] mismos
+"El Perú no se apaga, el Perú brilla con su gente",3,88f469a7c46a140feb0cafb553842175,3,"El Perú no se apaga, el Perú brilla con su gente"
+"El que se autoproclama salvador del pueblo, lo usa como escalera",0,2d51f7c51a14af187a8d0b2afffffadc,4,"El que se autoproclama salvador del pueblo, lo usa como escalera"
+La esperanza es el motor que nos mueve hacia adelante,3,1821bc11a4c42bdf986d1eaaeee12fcd,3,La esperanza es el motor que nos mueve hacia adelante
+El Perú está despertando hacia un nuevo amanecer,3,5ba886a1eae9ba70ac13c78cf74c5199,1,El Perú está despertando hacia un nuevo amanecer
+Somos un pueblo que siempre se levanta,3,801ad59e4d93b7c84b793571d659b8f6,0,Somos un pueblo que siempre se levanta
+Los que hoy dan lecciones fueron los primeros en robarle al país,0,7c28c8c119678bffd594e6eef5ee2c63,3,Los que hoy dan lecciones fueron los primeros en robarle al país
+"Predica humildad, pero vive de la adulación",0,c363f4be7f9c47d526eb148c6860ba5b,2,"Predica humildad, pero vive de la adulación"
+El número de becas universitarias aumentó un 12 % durante el último quinquenio,2,4e1441341788a4cbea58cd388aa011ee,0,El número de becas universitarias aumentó un <PCT> durante el último quinquenio
+"Habla de futuro, pero su pensamiento está anclado en el pasado",0,2d1baaac87a7ccd2fbdbc0bebc9640d4,3,"Habla de futuro, pero su pensamiento está anclado en el pasado"
+Nuestro compromiso es con la historia y con la patria,3,635a89a1e0a3b3423023a6ecb428d0f0,3,Nuestro compromiso es con la historia y con la patria
+El 90 % de las comunidades nativas no tiene sistema de saneamiento,2,865c9d18a797d4702551e8cc63cce926,2,El <PCT> de las comunidades nativas no tiene sistema de saneamiento
+"[ADVERSARIO] discuten poder, [PARTIDO] discutimos pan",1,7bd4c8a3d665bc264be6fffdd237d3a0,1,"[ADVERSARIO] discuten poder, [PARTIDO] discutimos pan"
+"Dice que ama la democracia, pero gobierna con decretos",0,ad08344a1231866bc8028280182aaef4,2,"Dice que ama la democracia, pero gobierna con decretos"
+"[PARTIDO] cumplimos las leyes, [ADVERSARIO] las escriben a su medida",1,25fe6e807ace99f25b09cc80aa5eb9e9,1,"[PARTIDO] cumplimos las leyes, [ADVERSARIO] las escriben a su medida"
+"Dice que defiende al pueblo, pero teme al pueblo",0,07c59b3d9f252c1194e7defeec0572c3,0,"Dice que defiende al pueblo, pero teme al pueblo"
+El 30 % de los contratos públicos fue observado por la Contraloría,2,41f8c285d4c975e752c57822fe15c1ac,4,El <PCT> de los contratos públicos fue observado por la Contraloría
+El 80 % de los pescadores artesanales trabaja sin seguro,2,57cc11b5bc78dedc954367207cc89d11,0,El <PCT> de los pescadores artesanales trabaja sin seguro
+El 20 % de las familias peruanas vive en situación de hacinamiento,2,404c55e1f0bf7523d3f547bbc6395ac3,1,El <PCT> de las familias peruanas vive en situación de hacinamiento
+"Dice que lucha por el cambio, pero teme perder el poder",0,1a4ec3020d071ca4ccbca40097ca4d44,0,"Dice que lucha por el cambio, pero teme perder el poder"
+"[ADVERSARIO] nos llaman revoltosos, [PARTIDO] nos llamamos conscientes",1,0f826b674402a07b6a0ce8f88725e565,3,"[ADVERSARIO] nos llaman revoltosos, [PARTIDO] nos llamamos conscientes"
+"[ADVERSARIO] aplauden desde el palco, [PARTIDO] sudamos en la cancha",1,c9b821ecf970be20463f81d43dcdd9fd,2,"[ADVERSARIO] aplauden desde el palco, [PARTIDO] sudamos en la cancha"
+"[ADVERSARIO] exigen respeto, [PARTIDO] lo ganamos trabajando",1,0b2a7f42933111506e09131e4a77cadb,2,"[ADVERSARIO] exigen respeto, [PARTIDO] lo ganamos trabajando"
+"[ADVERSARIO] viven en silencio, [PARTIDO] hablamos por los que no pueden",1,668f98710b6e5e2f0b9382f79f7fdeef,4,"[ADVERSARIO] viven en silencio, [PARTIDO] hablamos por los que no pueden"
+El Perú volverá a ponerse de pie,3,921bad20d75592e02e4f02107513bd25,1,El Perú volverá a ponerse de pie
+Creer es la primera revolución,3,4cfa950dcdfb95b8bae5425840a444c8,4,Creer es la primera revolución
+El Perú no se detiene ante las dificultades,3,ead533d57ba589ec8f4a6836a387eef7,1,El Perú no se detiene ante las dificultades
+La fuerza del cambio está en el alma de nuestra gente,3,ba0ea6eee513f67417e138c82c35a4df,0,La fuerza del cambio está en el alma de nuestra gente
+Ha llegado el tiempo de creer en un futuro mejor,3,0d0192180001ebc0eb7107845391bfe5,4,Ha llegado el tiempo de creer en un futuro mejor
+No se puede confiar en alguien que solo aparece en campaña,0,b1f01961888902a187c06cdbae18eb0c,3,No se puede confiar en alguien que solo aparece en campaña
+"Dice que representa al cambio, pero teme perder privilegios",0,c46ec0375cd35a7f6a4c1e813d638b31,0,"Dice que representa al cambio, pero teme perder privilegios"
+El 45 % de los hogares rurales cocina con leña,2,b4b07d2c7079ab7a9a745528e61fbea5,2,El <PCT> de los hogares rurales cocina con leña
+La fe en el pueblo es la base de nuestro futuro,3,303c1da58424dfa813501e5780092372,0,La fe en el pueblo es la base de nuestro futuro
+El 60 % de las viviendas en zonas altoandinas no tiene aislante térmico,2,1ba1244cf9c57864e0008be44de1f48b,4,El <PCT> de las viviendas en zonas altoandinas no tiene aislante térmico
+"[PARTIDO] damos la cara, [ADVERSARIO] ponen portavoces",1,6cbae442a90ad6c3707df6b8a96e2c49,3,"[PARTIDO] damos la cara, [ADVERSARIO] ponen portavoces"
+"[ADVERSARIO] heredan privilegios, [PARTIDO] merecemos oportunidades",1,99a648fcee3c549088545ec760cbf7ea,0,"[ADVERSARIO] heredan privilegios, [PARTIDO] merecemos oportunidades"
+El 75 % de las escuelas no cuenta con acceso a internet estable,2,099ca04e3b5c0613a96c91ad0d8557b3,1,El <PCT> de las escuelas no cuenta con acceso a internet estable
+"[ADVERSARIO] hablan en inglés, [PARTIDO] en verdad",1,cb614c77cec4831bb66f3212a220c1a8,4,"[ADVERSARIO] hablan en inglés, [PARTIDO] en verdad"
+La informalidad tributaria genera pérdidas de más de 30 000 millones de soles,2,bd26a8d75fdfc0e80bd95fe560e94908,1,La informalidad tributaria genera pérdidas de más de <NUM> <NUM> millones de soles
+"[ADVERSARIO] olvidan al pueblo, [PARTIDO] somos el pueblo",1,2d9da363fa83d7395552688f565575d1,4,"[ADVERSARIO] olvidan al pueblo, [PARTIDO] somos el pueblo"
+Nuestra fuerza está en la unidad,3,65460ccca12fece1bc1f4221209c92e5,1,Nuestra fuerza está en la unidad
+El 60 % de las viviendas rurales carece de título de propiedad,2,c5e0826f9351f984bec36c9ec0fc5d99,2,El <PCT> de las viviendas rurales carece de título de propiedad
+[PARTIDO] seguimos trabajando [ADVERSARIO] descansan,1,119dccd92837caded9b0d9da738d0b41,4,[PARTIDO] seguimos trabajando [ADVERSARIO] descansan
+"[ADVERSARIO] duermen tranquilos, [PARTIDO] no dormimos por miedo",1,6f879ed52574ad19c75faff8bb99587c,0,"[ADVERSARIO] duermen tranquilos, [PARTIDO] no dormimos por miedo"
+Cada esfuerzo cuenta en la construcción del futuro,3,7fda726ab26a8e52dc136b44b6d13a63,3,Cada esfuerzo cuenta en la construcción del futuro
+"[ADVERSARIO] escriben discursos, [PARTIDO] escribimos historia",1,07d94dbf7a8e9d2aee0c749867ef3cfb,2,"[ADVERSARIO] escriben discursos, [PARTIDO] escribimos historia"
+"Predica humildad, pero cobra privilegios",0,557ef349dd42ae8b13479e8e1ecbddfb,2,"Predica humildad, pero cobra privilegios"
+"[ADVERSARIO] compran la verdad, [PARTIDO] la gritamos sin micrófono",1,33153ee7d993120fc0182c169a4495b8,1,"[ADVERSARIO] compran la verdad, [PARTIDO] la gritamos sin micrófono"
+El 70 % de los funcionarios públicos no tiene evaluación de desempeño,2,ef63024d07573f73df6e0feb3bc079ae,2,El <PCT> de los funcionarios públicos no tiene evaluación de desempeño
+Predica modernidad y gobierna con viejas mañas,0,4b53622bdc1a51dd6bd2ba5de8caf9d9,1,Predica modernidad y gobierna con viejas mañas
+"Dice que no es político, pero vive de la política",0,c478074981a11c757a7f4f1ffd1cec8f,3,"Dice que no es político, pero vive de la política"
+"Predica respeto, pero grita cuando no lo obedecen",0,525c0a3c0ea8cd6f84b854119709334b,1,"Predica respeto, pero grita cuando no lo obedecen"
+"La esperanza no se apaga, se multiplica",3,4a57ea1c98648372899689510924b20e,3,"La esperanza no se apaga, se multiplica"
+El 55 % del agua potable se distribuye sin tratamiento adecuado,2,dbbba85678980bef1d647db43eff03d3,0,El <PCT> del agua potable se distribuye sin tratamiento adecuado
+Nuestra unión será la herencia más grande para el futuro,3,7e5c9cafa55cc627dd23dca71ec5f8a5,4,Nuestra unión será la herencia más grande para el futuro
+El amor a la patria nos unirá como hermanos,3,1aa65bd2e31442127777fdc742e4b913,4,El amor a la patria nos unirá como hermanos
+El 70 % de los peruanos siente inseguridad al caminar de noche,2,8562a2497866429f3b5c090863c93253,0,El <PCT> de los peruanos siente inseguridad al caminar de noche
+"Nuestra misión es grande, pero nuestra fe es más grande aún",3,ef62f6ecac6921a49d179ab4bc4d630e,1,"Nuestra misión es grande, pero nuestra fe es más grande aún"
+Habla de honestidad con cuentas en paraísos fiscales,0,d5200220e4a703cc15abba3492ee6c58,2,Habla de honestidad con cuentas en paraísos fiscales
+"[ADVERSARIO] destruyen puentes, [PARTIDO] los construimos",1,3215d39e723e806c5f4ef92c27959b45,0,"[ADVERSARIO] destruyen puentes, [PARTIDO] los construimos"
+"La victoria será del pueblo, porque el pueblo nunca se rinde",3,6b8f0ccb820ab9b4e0773cee49408cab,1,"La victoria será del pueblo, porque el pueblo nunca se rinde"
+"En 2024, las exportaciones mineras representaron el 60 % del total nacional",2,0ca09d4ea863bbdef0c3d2fb9584da38,3,"En <NUM> , las exportaciones mineras representaron el <PCT> del total nacional"
+"Somos un país de trabajo, no de excusas",3,f05ed1895645dbc71bddeca89d502578,0,"Somos un país de trabajo, no de excusas"
+"[POLÍTICO] candidato solo sabe hablar, pero nunca ha trabajado en su vida",0,cbbf561dcf83571572e819125b2421ce,0,"[POLÍTICO] candidato solo sabe hablar, pero nunca ha trabajado en su vida"
+El pueblo ha despertado y ya no volverá a dormir,3,f21a81b1c8d340fadaa4d998ff7c5b5e,3,El pueblo ha despertado y ya no volverá a dormir
+"[ADVERSARIO] celebran sus victorias, [PARTIDO] pagamos sus derrotas",1,5096baf560102547df2036e1b90ee4da,3,"[ADVERSARIO] celebran sus victorias, [PARTIDO] pagamos sus derrotas"
+"En la sierra, la mortalidad materna duplica la tasa nacional",2,404890e0d2239d0cdf5ee5b3a392dcea,0,"En la sierra, la mortalidad materna duplica la tasa nacional"
+Vamos a devolverle al Perú su orgullo,3,9d8d4ea996e2b5e1f9e0f1d323b60450,4,Vamos a devolverle al Perú su orgullo
+El 40 % de los peruanos desconfía del sistema judicial,2,00339d595fd79e27e4514425b779d94a,0,El <PCT> de los peruanos desconfía del sistema judicial
+La fe nos guiará hacia un nuevo amanecer,3,4c5ecc200fcf66fa6839059814f156a8,1,La fe nos guiará hacia un nuevo amanecer
+Nadie podrá detener la fuerza de un pueblo unido,3,77c475fd810874a72130e3cb5d1ea036,3,Nadie podrá detener la fuerza de un pueblo unido
+"Predica coraje, pero tiembla ante el poder real",0,302af0ba6cf05cbf52c7a3111a3eb4b2,3,"Predica coraje, pero tiembla ante el poder real"
+"Se indigna por corrupción ajena, pero la suya la llama “error administrativo”",0,206a99f2799a64a07e2f2590b14be879,1,"Se indigna por corrupción ajena, pero la suya la llama “error administrativo”"
+El 25 % de los estudiantes universitarios abandona por falta de recursos,2,a8780a207ad928cce790498a31f8acfe,2,El <PCT> de los estudiantes universitarios abandona por falta de recursos
+Hoy comienza el tiempo del pueblo,3,43304900cc6239d64ceee475d9a43975,2,Hoy comienza el tiempo del pueblo
+"[ADVERSARIO] manipulan cifras, [PARTIDO] vivimos realidades",1,e1facbb05dee2af4d9f307ca99c15a4b,4,"[ADVERSARIO] manipulan cifras, [PARTIDO] vivimos realidades"
+Se hace llamar revolucionario y vive del sistema,0,a8a15e877e6924a539889260c8535def,3,Se hace llamar revolucionario y vive del sistema
+"[ADVERSARIO] temen perder elecciones, [PARTIDO] tememos perder derechos",1,1b8e3dd02ef80d2c78053eebde488f89,1,"[ADVERSARIO] temen perder elecciones, [PARTIDO] tememos perder derechos"
+Habla de libertad y prohíbe marchas,0,998eeb4714044283768ef199ddcbe9e5,4,Habla de libertad y prohíbe marchas
+El Perú renace con la fuerza de su gente,3,2aa52d3eec379c5a892c9ff7080c629a,0,El Perú renace con la fuerza de su gente
+"[PARTIDO] resistimos, [ADVERSARIO] se justifican",1,4c9ba7bd8f645b857c0e3273a28a4df9,0,"[PARTIDO] resistimos, [ADVERSARIO] se justifican"
+Se presenta como víctima para esconder sus fracasos,0,5fa454695f67e8094e4f6219c7ff2156,2,Se presenta como víctima para esconder sus fracasos
+"Los sueños del pueblo no se negocian, se cumplen",3,a81f0499238984139e35f4efdeecaed0,4,"Los sueños del pueblo no se negocian, se cumplen"
+"Dice que representa al campo, pero no distingue una chacra de un jardín",0,3207baedfdd8490ee0c8431231ed75cf,4,"Dice que representa al campo, pero no distingue una chacra de un jardín"
+Juntos derrotaremos la indiferencia,3,80ed6114b161d247f77fa9258947548f,1,Juntos derrotaremos la indiferencia
+Nuestra historia está marcada por la esperanza,3,3c6709e2b8f78d314cd8bdd12365559a,3,Nuestra historia está marcada por la esperanza
+Somos la voz de los que nunca fueron escuchados,3,b233b382fa9f8ac50f4e78dbe2179158,0,Somos la voz de los que nunca fueron escuchados
+"Dice que no roba, pero “se equivoca” al declarar",0,3a1656f97910ce91d1468590886d62bb,0,"Dice que no roba, pero “se equivoca” al declarar"
+El Perú será la patria que siempre soñamos,3,5f5bc97ec39a073bf8d8f0140874fd09,0,El Perú será la patria que siempre soñamos
+El 20 % de los peruanos mayores de 60 años vive solo,2,d125a7125589b9d54b1c824920e66ffe,1,El <PCT> de los peruanos mayores de <NUM> años vive solo
+Critica la improvisación y gobierna improvisando,0,4fd58b4595e9ea83e18aee63e42b2752,1,Critica la improvisación y gobierna improvisando
+Creer en el Perú es creer en [PARTIDO] mismos,3,1eeb5591f4e9424cad7c1f12fa6e065a,2,Creer en el Perú es creer en [PARTIDO] mismos
+Predica patriotismo y se va del país cuando hay crisis,0,52344dc0361b095d79a7884ce515d4fc,0,Predica patriotismo y se va del país cuando hay crisis
+"Se presenta como independiente, pero depende de los financistas de siempre",0,2d78a19e891dbea8d0f0b751f5248a4b,0,"Se presenta como independiente, pero depende de los financistas de siempre"
+Más del 70 % de los incendios forestales son provocados por el hombre,2,f63f8842d7fea8f5156252dc281f6652,3,Más del <PCT> de los incendios forestales son provocados por el hombre
+Habla de patria y no sabe su himno completo,0,98078108b57eeefac3cf7878ce41fee3,0,Habla de patria y no sabe su himno completo
+"Nuestro compromiso es servir, no prometer",3,82ae7ac24f52a5c84c86223bf613c680,4,"Nuestro compromiso es servir, no prometer"
+"[PARTIDO] sentimos la crisis, [ADVERSARIO] la comentan desde sus despachos",1,caa65e74e26793fde52dede7801ec817,3,"[PARTIDO] sentimos la crisis, [ADVERSARIO] la comentan desde sus despachos"
+Habla de justicia y se rodea de jueces amigos,0,288250d5837dabff1625a442f526532e,1,Habla de justicia y se rodea de jueces amigos
+"Hoy más que nunca, el cambio es posible",3,2d9d8b5728a1d16a62dc64fc9fe0f0b5,3,"Hoy más que nunca, el cambio es posible"
+Habla de trabajo y vive del Estado,0,f25313797d1788ac91f650d91b65078c,0,Habla de trabajo y vive del Estado
+Habla de renovación y recicla los mismos discursos,0,7168e828c42a9b8d9ac58757c5f2a3a8,4,Habla de renovación y recicla los mismos discursos
+El que se cree estadista no puede ni manejar su propia familia política,0,ac059f2ca9f70069e33eac74fd53fe21,1,El que se cree estadista no puede ni manejar su propia familia política
+El 40 % del agua utilizada en agricultura se desperdicia,2,ac00a313dd5df9df54d36e7c78737c3d,3,El <PCT> del agua utilizada en agricultura se desperdicia
+Hoy empieza el futuro que tanto soñamos,3,fd9f910bb756f7b6b9cedc92ed353d0d,2,Hoy empieza el futuro que tanto soñamos
+"Promete cambio, pero tiene el mismo discurso de hace veinte años",0,117ee35dc1eb15f4ba8a82250abf8858,4,"Promete cambio, pero tiene el mismo discurso de hace veinte años"
+El 65 % de los hogares rurales cocina con biomasa,2,2017a873cd2be0e1c00fae98828211b6,3,El <PCT> de los hogares rurales cocina con biomasa
+"[ADVERSARIO] miden el éxito con dinero, [PARTIDO] con dignidad",1,7c338a7f7b322af3d0d6e3b47bb18f37,0,"[ADVERSARIO] miden el éxito con dinero, [PARTIDO] con dignidad"
+Promete unidad nacional y genera bandos,0,4468a575084a3ead9378f24e352d74c2,4,Promete unidad nacional y genera bandos
+Habla de moral y su pasado es un escándalo,0,b877bc2eb18a0219599203512ef9e160,0,Habla de moral y su pasado es un escándalo
+"[ADVERSARIO] viven del miedo, [PARTIDO] de la esperanza",1,535be375b6444d8d6193d16be30d7d5a,2,"[ADVERSARIO] viven del miedo, [PARTIDO] de la esperanza"
+"Promete cambio, pero teme al verdadero cambio",0,e124289947ac121def732109d3a269c1,2,"Promete cambio, pero teme al verdadero cambio"
+Predica paz y siembra discordia,0,9d119caf06bcfaecec1d59b6e6a30782,3,Predica paz y siembra discordia
+Somos el presente que construye el futuro,3,b9da94a4f2574890bbbefbb0e7f02bb1,1,Somos el presente que construye el futuro
+El 60 % de las mujeres rurales trabaja sin remuneración,2,5bdb29e263bfab328a2191974aea95a6,3,El <PCT> de las mujeres rurales trabaja sin remuneración
+"Promete cambio, pero mantiene a los mismos corruptos",0,cffc5b375dbb07bee81191e0685ad289,2,"Promete cambio, pero mantiene a los mismos corruptos"
+"[ADVERSARIO] viven del miedo, [PARTIDO] del valor",1,030b5a77f8a63d8b4a84bba884705fd0,1,"[ADVERSARIO] viven del miedo, [PARTIDO] del valor"
+Somos herederos de una gran nación,3,2b47612e24d2f393e6bf65248b3f5c74,4,Somos herederos de una gran nación
+Habla de derechos y olvida los deberes,0,268d3d0d02ec5c48f776c1610a6099e3,3,Habla de derechos y olvida los deberes
+No puedes creerle a quien promete justicia y vive de la impunidad,0,a846d6b06b237fb3c13caaf6537059d3,1,No puedes creerle a quien promete justicia y vive de la impunidad
+El gasto en salud pública creció 4 % en términos reales,2,a1942a8f5aab82b58a27dd3aa0d815bf,4,El gasto en salud pública creció <PCT> en términos reales
+"El que habla de ética, pero su campaña está llena de favores",0,d217a5f852714169d86c97cdd1dc9282,1,"El que habla de ética, pero su campaña está llena de favores"
+La mitad de los peruanos considera que la democracia no funciona,2,44b7017189934226555737812781cdc0,3,La mitad de los peruanos considera que la democracia no funciona
+Habla de austeridad y gasta millones en propaganda,0,2a9a7487f4ab63472322865fd17564be,3,Habla de austeridad y gasta millones en propaganda
+Somos hijos del esfuerzo y del coraje,3,c32c62fbec8df74f29dce6f16023acf8,4,Somos hijos del esfuerzo y del coraje
+El pueblo peruano es invencible cuando se une,3,39a4d9f6cf3caec1e5d5e3314510250c,2,El pueblo peruano es invencible cuando se une
+El 90 % de las municipalidades distritales no tiene plan urbano actualizado,2,9f6be78e62e50e5797ec511625f8dd4a,4,El <PCT> de las municipalidades distritales no tiene plan urbano actualizado
+"[ADVERSARIO] usan la bandera como adorno, [PARTIDO] la llevamos en el corazón",1,1ccef75ba813912a8e78e620d496251b,4,"[ADVERSARIO] usan la bandera como adorno, [PARTIDO] la llevamos en el corazón"
+No se puede confiar en quien cambia de opinión según la encuesta,0,efda3c4d1b781b81c1ddfb9e95398c95,3,No se puede confiar en quien cambia de opinión según la encuesta
+El 70 % de las muertes en carretera se debe a imprudencia del conductor,2,65023c4980b64e34ad833c8aae40db14,1,El <PCT> de las muertes en carretera se debe a imprudencia del conductor
+La informalidad laboral afecta a siete de cada diez trabajadores,2,9dee243950679ca0656ec49282e1a3fa,4,La informalidad laboral afecta a siete de cada diez trabajadores
+"En Lima, el tiempo promedio de traslado diario supera las dos horas",2,521c8b15469af78474a18c4eef26f762,4,"En Lima, el tiempo promedio de traslado diario supera las dos horas"
+El 60 % de los contratos mineros tiene más de diez años sin revisión,2,9b0698345d6a629c0f4c409b46e2f8cd,0,El <PCT> de los contratos mineros tiene más de diez años sin revisión
+"[ADVERSARIO] tienen abogados, [PARTIDO] tenemos conciencia",1,89af3265b157a21586366987843ad874,0,"[ADVERSARIO] tienen abogados, [PARTIDO] tenemos conciencia"
+"El cambio no depende de unos pocos, sino de todos",3,da32998b9e4e9129f2cfe6c93e303a10,3,"El cambio no depende de unos pocos, sino de todos"
+No se puede confiar en quien usa la religión para ganar votos,0,c262a155ce5789e6fd50124c4dc561d8,3,No se puede confiar en quien usa la religión para ganar votos
+La esperanza del pueblo será eterna,3,b50e30aea2cd842ffff3b33fb0873d0f,1,La esperanza del pueblo será eterna
+El 30 % de los médicos labora en condiciones precarias,2,9dd5bc6d5af61685c449c64fcc23aed6,2,El <PCT> de los médicos labora en condiciones precarias
+"[ADVERSARIO] reparten licitaciones, [PARTIDO] compartimos ollas comunes",1,73c676e25f8b90097d166c1a7766d54d,0,"[ADVERSARIO] reparten licitaciones, [PARTIDO] compartimos ollas comunes"
+El 55 % de los hogares gasta más de la mitad de su ingreso en alimentos,2,f806f16d9769a208d8184230bdfb4cab,4,El <PCT> de los hogares gasta más de la mitad de su ingreso en alimentos
+Cada peruano es una llama encendida en el corazón de la nación,3,a2f3f3922c0f61efface087192b4b28c,1,Cada peruano es una llama encendida en el corazón de la nación
+El consumo de energía renovable no llega al 5 % de la matriz energética,2,d6f44e04ad78b39af4fee51f8557e509,4,El consumo de energía renovable no llega al <PCT> de la matriz energética
+El 20 % de las exportaciones peruanas son no tradicionales,2,e8d780910fb7b7af309fe6d6a0606608,0,El <PCT> de las exportaciones peruanas son no tradicionales
+"[ADVERSARIO] hablan de meritocracia, [PARTIDO] seguimos esperando justicia",1,b6aec62fa53ead0da8c2a929b22eb1ad,0,"[ADVERSARIO] hablan de meritocracia, [PARTIDO] seguimos esperando justicia"
+Solo el 30 % de las familias accede a una vivienda formal,2,a45487c60938acba71aadb7dfeb8420f,4,Solo el <PCT> de las familias accede a una vivienda formal
+Cada día se denuncian más de 300 casos de violencia familiar,2,7091d635643a86051a0033acffe5143d,1,Cada día se denuncian más de <NUM> casos de violencia familiar
+"[ADVERSARIO] miran cifras, [PARTIDO] miramos rostros",1,1c8de5ae27e59266792f0827a60f04a5,0,"[ADVERSARIO] miran cifras, [PARTIDO] miramos rostros"
+Promete transparencia y ni siquiera publica su hoja de vida completa,0,5ca885183b26e0017d8477f1ea87c5f5,2,Promete transparencia y ni siquiera publica su hoja de vida completa
+"[ADVERSARIO] hablan del pueblo, pero no viven con él",1,eca9e9b71c84ce7abf225de240d20873,3,"[ADVERSARIO] hablan del pueblo, pero no viven con él"
+"[ADVERSARIO] se esconden detrás de leyes, [PARTIDO] salimos a las calles",1,fac19e41e7aba7e0e9e7911c460b2886,4,"[ADVERSARIO] se esconden detrás de leyes, [PARTIDO] salimos a las calles"
+"[ADVERSARIO] prometen unión, [PARTIDO] la practicamos",1,e5c23bf1666670753b9e9717159ba3a7,2,"[ADVERSARIO] prometen unión, [PARTIDO] la practicamos"
+"[ADVERSARIO] nos llaman ignorantes, [PARTIDO] los llamamos desconectados",1,1446456c693ac12b9e4a45e93ea0c77e,3,"[ADVERSARIO] nos llaman ignorantes, [PARTIDO] los llamamos desconectados"
+El Perú está destinado a brillar otra vez,3,fc8c050f7d4be9e5d6ce673e7aef4d1d,4,El Perú está destinado a brillar otra vez
+"Promete unión, pero siembra odio",0,2e4abd2456b87ba36342d45f14296c4a,4,"Promete unión, pero siembra odio"
+"Siempre culpa a los demás, nunca asume sus errores",0,12b271f7621534526d2f026fff5f31dc,1,"Siempre culpa a los demás, nunca asume sus errores"
+La historia se escribe con valentía y amor,3,3ff030d32954a5a68b25569a6bb5dd8f,3,La historia se escribe con valentía y amor
+"Somos un solo pueblo, una sola fuerza, un solo corazón",3,d6447b22c56acc49620d78f59be423a5,2,"Somos un solo pueblo, una sola fuerza, un solo corazón"
+"No prometemos milagros, prometemos esperanza",3,0c0f3757f9c6986b5b4bca502523e2f0,1,"No prometemos milagros, prometemos esperanza"
+"El futuro no se espera, se construye con esperanza",3,af038b9910d48d02df3b0d17f176de2f,1,"El futuro no se espera, se construye con esperanza"
+"Unidos, nada será imposible para el Perú",3,54e31ef8a34a707f3693bb5258f18e71,4,"Unidos, nada será imposible para el Perú"
+Nada es imposible para quien ama su país,3,32a6656d88115ecc89f7644c877147ba,2,Nada es imposible para quien ama su país
+"No importa de dónde vengas, todos tenemos un mismo sueño",3,e873368fa0588d4038132fcc9abf488e,2,"No importa de dónde vengas, todos tenemos un mismo sueño"
+"Siempre grita “cambio”, pero vive del mismo sistema que dice combatir",0,d938dcc2de2659b7f3cb08805c0bc8ef,2,"Siempre grita “cambio”, pero vive del mismo sistema que dice combatir"
+Promete progreso y paraliza obras,0,e9b92837886b9644e3097a6a91cdc8ff,2,Promete progreso y paraliza obras
+"El cambio no tiene color, tiene corazón",3,1725e5a9faa92aafa9784db586102a86,1,"El cambio no tiene color, tiene corazón"
+"La esperanza no muere, se transforma",3,4dd8d46ff763df1d89f240553bd73a86,4,"La esperanza no muere, se transforma"
+"[ADVERSARIO] esconden sus errores, [PARTIDO] cargamos sus consecuencias",1,ff7e6c3d20feb8bf29787e23387bbcc7,3,"[ADVERSARIO] esconden sus errores, [PARTIDO] cargamos sus consecuencias"
+"Dice que defiende a los humildes, pero vive en lujo",0,b93f4c560c8fa976c7ff67a4ca1a2e33,0,"Dice que defiende a los humildes, pero vive en lujo"
+Más del 40 % de los congresistas no tiene experiencia en gestión pública,2,37a80da54b6537571a388410fbcdf623,2,Más del <PCT> de los congresistas no tiene experiencia en gestión pública
+El 50 % de las obras paralizadas pertenece a gobiernos locales,2,2ad2b5d1b719cb802a4197565cdcdfae,1,El <PCT> de las obras paralizadas pertenece a gobiernos locales
+Somos la llama encendida del nuevo tiempo,3,537627b2e57e7ea309da8f25b3937256,0,Somos la llama encendida del nuevo tiempo
+"En regiones andinas, la pobreza extrema duplica la media nacional",2,9c79a09f8dc3bce7fec451717cecec40,2,"En regiones andinas, la pobreza extrema duplica la media nacional"
+El 50 % de las denuncias por acoso laboral no se investiga,2,91d089652dfcf2c1cf797ff201527272,0,El <PCT> de las denuncias por acoso laboral no se investiga
+El 50 % de las carreteras del país se encuentra en mal estado,2,3e1f60d0164bab8686d246615d07ea1a,2,El <PCT> de las carreteras del país se encuentra en mal estado
+Predica modernidad con ideas de hace 50 años,0,da265c51396f4d6b4fb5b9cbb361567f,1,Predica modernidad con ideas de hace <NUM> años
+La pobreza monetaria afecta a más de seis millones de personas,2,5d3b203ef424f606e46319e01eb918ae,2,La pobreza monetaria afecta a más de seis millones de personas
+El precio promedio del gas doméstico aumentó un 6 % el último mes,2,d0ca2f7be45ad23bb7b6645537f487a0,4,El precio promedio del gas doméstico aumentó un <PCT> el último mes
+Más de la mitad del presupuesto regional se queda sin ejecutar,2,c695786d55cfbc76302ff6964cdbbe7a,4,Más de la mitad del presupuesto regional se queda sin ejecutar
+El 25 % de los peruanos vive con menos de diez soles diarios,2,d7d61a99f966da975608b909291d915a,4,El <PCT> de los peruanos vive con menos de diez soles diarios
+El 40 % de los agricultores no accede a asistencia técnica,2,ffef0e60d36a5ac860ff93e8e80362a1,3,El <PCT> de los agricultores no accede a asistencia técnica
+Dice que es técnico y no sabe leer un balance,0,9a473fe82e526946d12fcb9f3415bc4b,3,Dice que es técnico y no sabe leer un balance
+"Predica humildad, pero exige tratos de rey",0,19e5c3e015a55eb1544c159d43f94220,1,"Predica humildad, pero exige tratos de rey"
+La inversión extranjera directa cayó 9 % durante el primer semestre,2,61f08f58349c7da811c17eb5d6910c96,2,La inversión extranjera directa cayó <PCT> durante el primer semestre
+"[ADVERSARIO] venden patria, [PARTIDO] defendemos dignidad",1,f5686a21d305feafd251fa49f252edcb,0,"[ADVERSARIO] venden patria, [PARTIDO] defendemos dignidad"
+El 75 % de los policías no recibe capacitación anual,2,4a8b46b8f9267d65576c13942ec36258,0,El <PCT> de los policías no recibe capacitación anual
+Cada paso que damos nos acerca al mañana,3,6543ffa9afa0792c8e8eaff79ea2294c,2,Cada paso que damos nos acerca al mañana
+Los tiempos de oscuridad quedaron atrás,3,f55fb676da8f47a714f8b8014f7296bf,3,Los tiempos de oscuridad quedaron atrás
+Dice ser nuevo rostro y repite las mismas mañas,0,731d11d41c4575b1e7a7e0dcb5f01db2,0,Dice ser nuevo rostro y repite las mismas mañas
+Habla de austeridad con reloj de oro,0,f2d23a450218d827c7eb336bcbde00a4,1,Habla de austeridad con reloj de oro
+El 40 % de los policías carece de entrenamiento en derechos humanos,2,c3af779f4988d3f7380c7ed8de88e40e,2,El <PCT> de los policías carece de entrenamiento en derechos humanos
+"[ADVERSARIO] hacen negocios, [PARTIDO] hacemos historia",1,19cd018e0f79ccb5945688d3e3ff98da,4,"[ADVERSARIO] hacen negocios, [PARTIDO] hacemos historia"
+Juntos haremos posible lo imposible,3,cec17ec5aa2812e17e97c84ae5d0345b,4,Juntos haremos posible lo imposible
+"El que critica la corrupción, pero calla cuando le conviene",0,175b13b5678e61f5c3521b3b1e5923bf,0,"El que critica la corrupción, pero calla cuando le conviene"
+"Se indigna cuando lo critican, pero vive criticando a todos",0,d429f74bfca09a06d3d877b9fd04081a,1,"Se indigna cuando lo critican, pero vive criticando a todos"
+"El Perú no retrocede, el Perú avanza",3,139eeebe50ee92655bd3142d4e65aa71,1,"El Perú no retrocede, el Perú avanza"
+"[ADVERSARIO] viven de privilegios, [PARTIDO] de sacrificios",1,c30a03c83e262f533d42a8444a567a8f,0,"[ADVERSARIO] viven de privilegios, [PARTIDO] de sacrificios"
+Nada puede vencer a un pueblo que sueña,3,7a772160fd7a3b8ff7efb7a4101a4471,0,Nada puede vencer a un pueblo que sueña
+Quien promete servir al pueblo y vive de sus impuestos,0,b54c93b90316f60e66079650f84c3eff,3,Quien promete servir al pueblo y vive de sus impuestos
+"[PARTIDO] nacimos en el esfuerzo, [ADVERSARIO] en el privilegio",1,ce022ca25b5b9e47a02de2eafd20b01d,0,"[PARTIDO] nacimos en el esfuerzo, [ADVERSARIO] en el privilegio"
+"Dice que todo cambiará, pero nunca cambia él",0,f4c17c9b3e285fcd01fdad97bf483abe,2,"Dice que todo cambiará, pero nunca cambia él"
+Nada podrá detener el camino de la esperanza,3,d81b8698c5b6e3d59760e64815b1c148,0,Nada podrá detener el camino de la esperanza
+"[ADVERSARIO] inventan enemigos, [PARTIDO] enfrentamos la verdad",1,2c57fa29cd506703a7bc66349e7364a7,0,"[ADVERSARIO] inventan enemigos, [PARTIDO] enfrentamos la verdad"
+"[PARTIDO] sostenemos el país, [ADVERSARIO] sostienen su imagen",1,c11c99413a55732928f0c302fc650c7c,2,"[PARTIDO] sostenemos el país, [ADVERSARIO] sostienen su imagen"
+"[PARTIDO] sembramos papa, [ADVERSARIO] cosechan poder",1,7e94bfd8f16757c37217d7798b51b895,4,"[PARTIDO] sembramos papa, [ADVERSARIO] cosechan poder"
+La productividad agrícola cayó un 7 % por falta de infraestructura de riego,2,e222e769780ec29db9b18722c1d16209,0,La productividad agrícola cayó un <PCT> por falta de infraestructura de riego
+El 50 % de los peruanos vive en distritos sin áreas verdes suficientes,2,ef44aeeef022c210c5b5ee6eb06ee538,0,El <PCT> de los peruanos vive en distritos sin áreas verdes suficientes
+Solo tres de cada diez hospitales cuentan con personal de emergencia completo,2,e1538bb29fdc88ed906c54dd2f0a6896,3,Solo tres de cada diez hospitales cuentan con personal de emergencia completo
+"Dice que lucha contra el poder, pero cena con los poderosos",0,1a0878c4f5e1c568e9458cb28e4b6d5e,2,"Dice que lucha contra el poder, pero cena con los poderosos"
+El que se presenta como patriota nunca hizo nada por su comunidad,0,7304cb6a5657e1551d5acea09017122c,4,El que se presenta como patriota nunca hizo nada por su comunidad
+La historia nos mira y no la vamos a defraudar,3,8ff2945fe13cc9f31d50162b979e543f,3,La historia nos mira y no la vamos a defraudar
+"El gasto en investigación científica es menor al 0,2 % del PBI",2,cc2aa96cf5789d751edea7a5beadbc40,1,El gasto en investigación científica es menor al <PCT> del PBI
+"Dice que representa la nueva política, pero tiene los mismos vicios",0,a56a5fbe65c436bdd5d77e9c32e1eeee,0,"Dice que representa la nueva política, pero tiene los mismos vicios"
+Quien se burla del pueblo no merece representarlo,0,0e174d8f8eb943378445800b04be4a8e,4,Quien se burla del pueblo no merece representarlo
+Con esperanza venceremos el miedo,3,e648ad8a96a6bbb481685bdfd28f61d0,3,Con esperanza venceremos el miedo
+"Dice que no miente, pero sus palabras cambian cada semana",0,824ed57f885509c9f719e5e6575b48c1,2,"Dice que no miente, pero sus palabras cambian cada semana"
+"[ADVERSARIO] almuerzan en el Club Nacional, [PARTIDO] cocinamos con leña",1,f7fdb3e0d24a6581296f49ce717dfa88,3,"[ADVERSARIO] almuerzan en el Club Nacional, [PARTIDO] cocinamos con leña"
+"[ADVERSARIO] aplauden la desigualdad, [PARTIDO] exigimos justicia",1,228853945aa851fe6e6b3d4a82d4e0d0,3,"[ADVERSARIO] aplauden la desigualdad, [PARTIDO] exigimos justicia"
+El 35 % de los jóvenes con estudios superiores trabaja en algo distinto a su carrera,2,92465c2796a8323d355afc5d9b31c5fd,0,El <PCT> de los jóvenes con estudios superiores trabaja en algo distinto a su carrera
+"[PARTIDO] cargamos el país en la espalda, [ADVERSARIO] cargan sus privilegios",1,6d2a7cfc10b3734a62daa2b0a26eee14,1,"[PARTIDO] cargamos el país en la espalda, [ADVERSARIO] cargan sus privilegios"
+"Habla de cambio, pero su gabinete es el mismo de siempre",0,98a052f737b752feeb41e32dd30511bb,4,"Habla de cambio, pero su gabinete es el mismo de siempre"
+"El Perú no se detiene, el Perú se levanta",3,8b9b44933715d583b8d6d9598bf74fd8,1,"El Perú no se detiene, el Perú se levanta"
+Promete unión y divide entre buenos y malos,0,6f789cc42ba43faa59007677972df4fb,4,Promete unión y divide entre buenos y malos
+Somos la voz del cambio que viene desde abajo,3,1057bacdabde865d910271a51d836b4b,0,Somos la voz del cambio que viene desde abajo
+Ha llegado la hora de la unidad verdadera,3,1560e81a7017393aec712e9bea172c7d,0,Ha llegado la hora de la unidad verdadera
+"[ADVERSARIO] temen perder poder, [PARTIDO] tememos perder esperanza",1,2a5ab6daf41538b5c1a7ec03178e0320,1,"[ADVERSARIO] temen perder poder, [PARTIDO] tememos perder esperanza"
+"[ADVERSARIO] heredan poder, [PARTIDO] heredamos lucha",1,01eec4a13d45724eb9bd2e715b5622bc,3,"[ADVERSARIO] heredan poder, [PARTIDO] heredamos lucha"
+Solo el 20 % de las municipalidades tiene página web actualizada,2,cd6d9d35e299dfad9ec329c38f0b6d59,1,Solo el <PCT> de las municipalidades tiene página web actualizada
+"Habla de cambio, pero teme perder su silla",0,01d29435cffb5e48c6d5285fa6bdeecf,1,"Habla de cambio, pero teme perder su silla"
+Nada está perdido cuando hay voluntad de cambio,3,8881e62ba8c23abf8c17f97efac11399,1,Nada está perdido cuando hay voluntad de cambio
+El 80 % de los jóvenes rurales trabaja en el sector agrícola,2,787e0e42ae0e41b47859f78230f7e4ae,3,El <PCT> de los jóvenes rurales trabaja en el sector agrícola
+"[PARTIDO] perdonamos, [ADVERSARIO] repiten los mismos errores",1,2d55db31850d8355c308ba444880c58a,1,"[PARTIDO] perdonamos, [ADVERSARIO] repiten los mismos errores"
+"[ADVERSARIO] firman pactos, [PARTIDO] cumplimos promesas",1,d3a9badf6d1de96a89d52c5350335a33,3,"[ADVERSARIO] firman pactos, [PARTIDO] cumplimos promesas"
+El 70 % de los pacientes espera más de un mes por atención médica,2,12b31be8b58b640c9d33327465232ff8,2,El <PCT> de los pacientes espera más de un mes por atención médica
+"El cambio no se impone, se contagia",3,ad2dbb136820418f48dd6ac5cc74ffbc,0,"El cambio no se impone, se contagia"
+"[ADVERSARIO] temen al pueblo organizado, [PARTIDO] tememos al olvido",1,4c66cc86928716c68a149759ac09181d,4,"[ADVERSARIO] temen al pueblo organizado, [PARTIDO] tememos al olvido"
+"[ADVERSARIO] deciden desde Lima, [PARTIDO] resistimos en los pueblos olvidados",1,14fbf6271604ecc458ec724aee9d9949,3,"[ADVERSARIO] deciden desde Lima, [PARTIDO] resistimos en los pueblos olvidados"
+"El cambio no se promete, se siente en el corazón del pueblo",3,fa61567f2b90fe51b9ca512e28be3885,3,"El cambio no se promete, se siente en el corazón del pueblo"
+El 20 % de los municipios no tiene presupuesto para limpieza pública,2,622ad083efec469c1b4f9fe452e94841,4,El <PCT> de los municipios no tiene presupuesto para limpieza pública
+El Perú será ejemplo de dignidad para las generaciones que vienen,3,27dde51f7b7ab46f9eb797746737814f,4,El Perú será ejemplo de dignidad para las generaciones que vienen
+El 75 % de las familias peruanas no tiene ahorros de emergencia,2,78b8d6a85547328063dbe2f3d0fefa46,3,El <PCT> de las familias peruanas no tiene ahorros de emergencia
+El que no sabe escuchar al pueblo no merece representarlo,0,e1b99b78326739243d70569a70bd6a4d,1,El que no sabe escuchar al pueblo no merece representarlo
+[POLÍTICO] congresista cambió de partido más veces que de ideas,0,0b011650a39145e4d5c0cc9de20844a2,3,[POLÍTICO] congresista cambió de partido más veces que de ideas
+"[ADVERSARIO] cambian de discurso, [PARTIDO] mantenemos el mismo sueño",1,7bca0f93b601c4920b2ff4572377e4cd,0,"[ADVERSARIO] cambian de discurso, [PARTIDO] mantenemos el mismo sueño"
+La fe del pueblo moverá las montañas del pasado,3,7be994a90d45e3194a0417407770e306,4,La fe del pueblo moverá las montañas del pasado
+"[ADVERSARIO] cambian de discurso, [PARTIDO] seguimos esperando verdad",1,7b0d80bb5b03513c627bd0f5c927c842,4,"[ADVERSARIO] cambian de discurso, [PARTIDO] seguimos esperando verdad"
+Nuestro destino está en nuestras manos y en nuestra fe,3,136145f420aa686e832fddd02d7325cf,3,Nuestro destino está en nuestras manos y en nuestra fe
+El 70 % de los policías gana menos de 2000 soles,2,1e0f6ec6439bdf297516fee9057d0786,0,El <PCT> de los policías gana menos de <NUM> soles
+"[ADVERSARIO] dicen que representan al pueblo, pero no saben cuánto cuesta el pan",1,4178029d7ff3b73c958c7f324a6ae670,0,"[ADVERSARIO] dicen que representan al pueblo, pero no saben cuánto cuesta el pan"
+[ADVERSARIO] llaman rebeldía a pedir justicia,1,cf387f325e79e91cc58a4e565554efdb,0,[ADVERSARIO] llaman rebeldía a pedir justicia
+Habla de honestidad y firma contratos millonarios sin licitación,0,c616d5e09de4dacdb97a3f3e058a66c0,0,Habla de honestidad y firma contratos millonarios sin licitación
+Cada peruano tiene un papel en esta historia,3,c00b2c1b4a9bc20193bac733735ca979,4,Cada peruano tiene un papel en esta historia
+Promete justicia y encubre aliados,0,f89b31e0273153bb8190dc51f16a6455,3,Promete justicia y encubre aliados
+"Dice que no roba, pero “se equivoca” con el presupuesto",0,25ceae8620003043520f351218e8750a,0,"Dice que no roba, pero “se equivoca” con el presupuesto"
+"[ADVERSARIO] escriben leyes, [PARTIDO] escribimos historia con el cuerpo",1,3c8e5989bd64f4c4d84bcbf1a59720fb,1,"[ADVERSARIO] escriben leyes, [PARTIDO] escribimos historia con el cuerpo"
+[POLÍTICO] candidato confunde gritar con tener argumentos,0,0db97549106a5e630453675411b144b9,2,[POLÍTICO] candidato confunde gritar con tener argumentos
+Juntos construiremos un país lleno de oportunidades,3,616c97158bb9a16aafcd1932ff8c171c,0,Juntos construiremos un país lleno de oportunidades
+"[ADVERSARIO] reparten privilegios, [PARTIDO] compartimos esperanza",1,3a65d503b2a01ab8efa591a8442cdc9a,1,"[ADVERSARIO] reparten privilegios, [PARTIDO] compartimos esperanza"
+"[PARTIDO] caminamos, [ADVERSARIO] nos miran desde sus camionetas blindadas",1,930fd610d97ab492ba74115acc2ade04,4,"[PARTIDO] caminamos, [ADVERSARIO] nos miran desde sus camionetas blindadas"
+La unidad será nuestra victoria,3,f4df75c72d968e4f1b4b49fb05bf33ee,4,La unidad será nuestra victoria
+El cambio está en el aire y nadie podrá frenarlo,3,4bd8d1311ad93e8fc485cb06416c744b,2,El cambio está en el aire y nadie podrá frenarlo
+El 40 % de los delitos denunciados no llega a sentencia,2,d9c79fb0ac8815b9029485aa882d17e0,0,El <PCT> de los delitos denunciados no llega a sentencia
+"[PARTIDO] vivimos de promesas incumplidas, [ADVERSARIO] viven de los impuestos",1,08d41248d81c4b587a191ec549bc9e9b,0,"[PARTIDO] vivimos de promesas incumplidas, [ADVERSARIO] viven de los impuestos"
+"Dice que ama la verdad, pero fabrica encuestas",0,f0c25f0088c3021f68dd89dff24f1f68,1,"Dice que ama la verdad, pero fabrica encuestas"
+El ingreso promedio nacional se mantiene por debajo de los niveles pre pandemia,2,96012d690d2c2d49ed71a2caeee589c8,0,El ingreso promedio nacional se mantiene por debajo de los niveles pre pandemia
+"[POLÍTICO] político no escucha, solo espera su turno para hablar",0,840ead2bc6b7295360a24768b5511c9b,3,"[POLÍTICO] político no escucha, solo espera su turno para hablar"
+La contaminación del río Rímac supera 10 veces los límites permitidos,2,09618989fb3b69e4986cf71383e9ee26,3,La contaminación del río Rímac supera <NUM> veces los límites permitidos
+"El que dice servir al país, pero solo busca aplausos",0,e5db95dea8cb64c25f0f35809c47a971,1,"El que dice servir al país, pero solo busca aplausos"
+El 35 % de los jóvenes sin empleo no terminó la secundaria,2,bf1e6582103fb267eb28ef0d58adc595,4,El <PCT> de los jóvenes sin empleo no terminó la secundaria
+"Nuestro compromiso es con el pueblo, con su dignidad y su grandeza",3,3fee2305efba8769b579d19e12a515fb,1,"Nuestro compromiso es con el pueblo, con su dignidad y su grandeza"
+"[ADVERSARIO] dictan leyes, [PARTIDO] las padecemos",1,79b2fd408ac4cea5ab6fee092c32ed83,0,"[ADVERSARIO] dictan leyes, [PARTIDO] las padecemos"
+La esperanza será nuestra guía en este camino,3,98be8811087e1c41cbaad2083abe7f13,0,La esperanza será nuestra guía en este camino
+Habla de sacrificio y nunca hizo uno,0,789618ac293266cf7a92a1dbefaa47a2,4,Habla de sacrificio y nunca hizo uno
+"Quien no respeta el debate, no entiende la democracia",0,ba02b00727585e72ddb93356d21be708,3,"Quien no respeta el debate, no entiende la democracia"
+"[ADVERSARIO] deciden desde un escritorio, [PARTIDO] desde la experiencia",1,602a245111414315cdc23a603b24ece5,4,"[ADVERSARIO] deciden desde un escritorio, [PARTIDO] desde la experiencia"
+"El futuro empieza hoy, no mañana",3,9dd3ce9a81951f4dbde1f5fbaf98d1e4,3,"El futuro empieza hoy, no mañana"
+Predica servicio y exige obediencia,0,8d873f081bf2db5a428045f5a0dd02f6,3,Predica servicio y exige obediencia
+El cambio está en camino y nada lo detendrá,3,30a187c1137d6c3f9efa8a477026cb94,4,El cambio está en camino y nada lo detendrá
+"Predica igualdad, pero impone jerarquías",0,af671bc5746633b26123810040ae762b,1,"Predica igualdad, pero impone jerarquías"
+La fuerza del pueblo moverá las montañas del pasado,3,5c355d75ee64d09cf4f4260d15baef13,1,La fuerza del pueblo moverá las montañas del pasado
+Promete educación y no sabe conjugar verbos,0,024018a13f3a901d065a2fda997cb947,0,Promete educación y no sabe conjugar verbos
+[ADVERSARIO] confunden pueblo con público,1,95c8e01fba46271faf5d2e00d7d4c2f4,4,[ADVERSARIO] confunden pueblo con público
+Los niveles de anemia infantil en el sur del país superan el 40 %,2,681d555826bf7898d3aec24f993dc292,4,Los niveles de anemia infantil en el sur del país superan el <PCT>
+El 50 % de los hospitales del país opera con déficit de personal,2,2a2bdb26c3c5028d96f95ee347466240,4,El <PCT> de los hospitales del país opera con déficit de personal
+El 70 % de los agricultores perdió parte de su cosecha por falta de agua,2,4a56a6498d21c51ec5fb6c9b725c0dfc,4,El <PCT> de los agricultores perdió parte de su cosecha por falta de agua
+"Habla de progreso, pero destruye lo que ya funcionaba",0,82c2dd954651d92da34f70ae28655082,3,"Habla de progreso, pero destruye lo que ya funcionaba"
+Habla de la patria y no conoce su historia,0,fe4f42c20b1e4523e43cf61a0a6fb975,4,Habla de la patria y no conoce su historia
+Creer es nuestro mayor acto de revolución,3,18f2d22bd8b235244f5a1dc58412a571,0,Creer es nuestro mayor acto de revolución
+El 35 % de los docentes enseña fuera de su especialidad,2,0658eed3394feb73d237b2947c55ef68,1,El <PCT> de los docentes enseña fuera de su especialidad
+"El que dice amar la patria y desprecia a los pobres, miente",0,4470576b038312c88b22460cfc0b28e7,1,"El que dice amar la patria y desprecia a los pobres, miente"
+El 90 % de los pueblos de la selva no tiene cobertura móvil estable,2,dd8122107e7051f2d6b9cc0dbf4d0b60,2,El <PCT> de los pueblos de la selva no tiene cobertura móvil estable
+"[ADVERSARIO] reparten culpas, [PARTIDO] buscamos soluciones",1,d6a4d6b6e728276f03204865afeee05a,1,"[ADVERSARIO] reparten culpas, [PARTIDO] buscamos soluciones"
+La unión es la base del futuro que soñamos,3,a986bf187c6e3b73fd09d46f264ad88c,0,La unión es la base del futuro que soñamos
+Los tiempos difíciles nos hicieron más fuertes,3,30a49a19553d6d9affc28e70ce45a733,2,Los tiempos difíciles nos hicieron más fuertes
+"Se llama patriota, pero no soporta pisar tierra fuera de la capital",0,716648a1ef7c637eec2c5d6a954be571,3,"Se llama patriota, pero no soporta pisar tierra fuera de la capital"
+El Perú será lo que el pueblo decida ser,3,c591f283d13e0d6e70d1b7affb63e4a2,0,El Perú será lo que el pueblo decida ser
+"Dice que no tiene miedo, pero evita el debate",0,baf0ca84b811c5ca8f899fbd49d6d09d,4,"Dice que no tiene miedo, pero evita el debate"
+"[ADVERSARIO] ven números, [PARTIDO] vemos nombres",1,9cadd25e77be68a4be0323257e441506,1,"[ADVERSARIO] ven números, [PARTIDO] vemos nombres"
+"[ADVERSARIO] levantan torres, [PARTIDO] levantamos familias",1,70d86b288b9c683a89f6d35125a9acbb,2,"[ADVERSARIO] levantan torres, [PARTIDO] levantamos familias"
+"[PARTIDO] seguimos firmes, [ADVERSARIO] siguen mintiendo",1,a827a513578cff3c78d9a1b5d9f905e3,0,"[PARTIDO] seguimos firmes, [ADVERSARIO] siguen mintiendo"
+El futuro nos pertenece si caminamos con esperanza,3,8c8997d8937bc921129b868ba231b8c2,4,El futuro nos pertenece si caminamos con esperanza
+"El Perú no se rinde, el Perú se levanta una y otra vez",3,f4be5f6317a5dff890775c2d1e9e9a3e,0,"El Perú no se rinde, el Perú se levanta una y otra vez"
+El 25 % del agua tratada se pierde por fugas en redes viejas,2,bffb6500ff5e84f91de4a2216df36fca,0,El <PCT> del agua tratada se pierde por fugas en redes viejas
+Hoy empieza el tiempo del pueblo,3,b37c71d88de6b5badde25c8983e50603,3,Hoy empieza el tiempo del pueblo
+El Perú se levantará como el cóndor que renace de sus cenizas,3,3aa868696958e0b742806cb22a7f72f4,2,El Perú se levantará como el cóndor que renace de sus cenizas
+"[ADVERSARIO] usan la patria como escudo, [PARTIDO] como bandera",1,50fc5ef0e67f2a69c900c8df6792c98f,4,"[ADVERSARIO] usan la patria como escudo, [PARTIDO] como bandera"
+Habla de dignidad con la cabeza agachada ante el poder,0,7dbc7d3da4659602b644170849b75e78,3,Habla de dignidad con la cabeza agachada ante el poder
+"Dice que es nuevo, pero su pasado lo contradice",0,deee58d38c4e91809aacbeba7569c047,2,"Dice que es nuevo, pero su pasado lo contradice"
+"[ADVERSARIO] mandan con el bolsillo, [PARTIDO] con el corazón",1,8034ddde8a92ccdf0c9f025c3d76daac,2,"[ADVERSARIO] mandan con el bolsillo, [PARTIDO] con el corazón"
+[POLÍTICO] político vive más en televisión que en el Congreso,0,db9c9f1194a813d37ba9c11ae34968fe,2,[POLÍTICO] político vive más en televisión que en el Congreso
+El cambio está en cada uno de [PARTIDO],3,6274957ecda96ffdcf6438f96a4b648d,0,El cambio está en cada uno de [PARTIDO]
+"[ADVERSARIO] esconden errores, [PARTIDO] enfrentamos consecuencias",1,59452efeac4fe6a306f8799b92767e55,1,"[ADVERSARIO] esconden errores, [PARTIDO] enfrentamos consecuencias"
+Promete renovación y revive viejos vicios,0,45db315b0d977a50334a33f2a7c43441,2,Promete renovación y revive viejos vicios
+Somos el cambio que el Perú necesitaba,3,d827e964a52187b8943fc2adc58b3123,1,Somos el cambio que el Perú necesitaba
+Hoy el país se viste de esperanza,3,4dcb2c08bfa70a8b9dbda5d2cfb3c944,1,Hoy el país se viste de esperanza
+La tasa de mortalidad infantil disminuyó en 10 % durante el último quinquenio,2,bb90e729e90d8793ea02263f11c2d3fa,2,La tasa de mortalidad infantil disminuyó en <PCT> durante el último quinquenio
+"El futuro no se teme, se abraza con esperanza",3,119048c646af728c395e2b7674452108,3,"El futuro no se teme, se abraza con esperanza"
+"Dice ser técnico, pero sus números nunca cuadran",0,191363b6e2f13bd4e41fc4771a5b168d,1,"Dice ser técnico, pero sus números nunca cuadran"
+"[ADVERSARIO] dicen que hay oportunidades, [PARTIDO] no las vemos",1,9ea9d2da8f6dc012943f37cde2648efa,1,"[ADVERSARIO] dicen que hay oportunidades, [PARTIDO] no las vemos"
+"[ADVERSARIO] viajan en avión, [PARTIDO] seguimos caminando",1,2c48d290281dfc135a1cf3ed5183e579,1,"[ADVERSARIO] viajan en avión, [PARTIDO] seguimos caminando"
+"[ADVERSARIO] cambian de bandera, [PARTIDO] seguimos creyendo en la nuestra",1,8dc300cb23628c8f14653b55697bc2ed,1,"[ADVERSARIO] cambian de bandera, [PARTIDO] seguimos creyendo en la nuestra"
+El Perú es un sentimiento que no se apaga,3,bab10c53768cfe835995f25193c207de,3,El Perú es un sentimiento que no se apaga
+El 45 % de los hogares urbanos vive en zonas de riesgo,2,e2eb07436bf4069dffc9826d0d3b04b8,2,El <PCT> de los hogares urbanos vive en zonas de riesgo
+El número de docentes capacitados en tecnología educativa sigue siendo bajo,2,2b59d075958efcfd3292eb859b361746,2,El número de docentes capacitados en tecnología educativa sigue siendo bajo
+"Critica la corrupción, pero fue asesor de un corrupto",0,313f54d7f7feef770fe2c12dbe4bf49b,1,"Critica la corrupción, pero fue asesor de un corrupto"
+"Dice que escucha, pero solo interrumpe",0,c31b629dbdb361e9f8d1fc00c682d4ad,3,"Dice que escucha, pero solo interrumpe"
+"Habla de progreso, pero paraliza el país con su inacción",0,c976d5a35d02e1f6c85c4f8982b29d7c,1,"Habla de progreso, pero paraliza el país con su inacción"
+"[ADVERSARIO] gobiernan desde arriba, [PARTIDO] construimos desde abajo",1,e8c14a2c94d9636bc2c29c0281541b0b,4,"[ADVERSARIO] gobiernan desde arriba, [PARTIDO] construimos desde abajo"
+El 60 % de los migrantes internos proviene de regiones altoandinas,2,2ba173a94c8e361f53ed42a90d0c5241,3,El <PCT> de los migrantes internos proviene de regiones altoandinas
+"[ADVERSARIO] planean campañas, [PARTIDO] planificamos el día",1,42768a697817227cff01f3f3f3dc8e3e,3,"[ADVERSARIO] planean campañas, [PARTIDO] planificamos el día"
+"[ADVERSARIO] miran al pueblo desde sus balcones, [PARTIDO] lo miramos a los ojos",1,85264f000f58d99f6dae702485acc499,3,"[ADVERSARIO] miran al pueblo desde sus balcones, [PARTIDO] lo miramos a los ojos"
+Promete proteger a los débiles y humilla a su equipo,0,b406254917ed798f9b589f71fe7aa3cf,2,Promete proteger a los débiles y humilla a su equipo
+Somos el cambio que tanto esperábamos,3,c873402712e39ec17585da908b8126c5,3,Somos el cambio que tanto esperábamos
+El 85 % de los accidentes de tránsito ocurren por exceso de velocidad,2,b1ff7138b536b7a3b49a45d086e890bc,4,El <PCT> de los accidentes de tránsito ocurren por exceso de velocidad
+El 70 % de los productos agrícolas se vende sin valor agregado,2,168edebfe9fa1b7f9e9e9006da250411,2,El <PCT> de los productos agrícolas se vende sin valor agregado
+El 80 % de los gobiernos regionales incumple plazos de obras,2,3ed5e3ffad668c1309d3cbef30b9e19a,3,El <PCT> de los gobiernos regionales incumple plazos de obras
+Se llena la boca con el Perú y no conoce ni su distrito,0,fab82e08cc263b7b6a8f5eb6dd75d474,4,Se llena la boca con el Perú y no conoce ni su distrito
+Promete transparencia y firma en silencio,0,2ae3088a1c9e0316f052e458cf6f0cba,2,Promete transparencia y firma en silencio
+Ha llegado la hora de dar el paso hacia adelante,3,dacb197730238d55ac1b2508d648a3b2,3,Ha llegado la hora de dar el paso hacia adelante
+Ha llegado el momento de creer en [PARTIDO] mismos,3,a129731572c0f8f502e8b3a4a6092b6b,3,Ha llegado el momento de creer en [PARTIDO] mismos
+El 85 % de los trabajadores independientes no cotiza a un sistema de pensiones,2,ad860d5b1c38dd841e078b63b8ca2fa2,3,El <PCT> de los trabajadores independientes no cotiza a un sistema de pensiones
+"[ADVERSARIO] tienen poder, [PARTIDO] tenemos razón",1,b6d03f7eb6ee3807bbab477b0ddc27d2,1,"[ADVERSARIO] tienen poder, [PARTIDO] tenemos razón"
+Promete cambio y repite las mismas frases vacías,0,946e4a29dafd930c8fa0168894ad1f10,0,Promete cambio y repite las mismas frases vacías
+"Promete diálogo, pero no deja hablar a nadie",0,3887d80df2232d5ff8fb49f0a71c4aad,4,"Promete diálogo, pero no deja hablar a nadie"
+El 90 % de los hogares rurales cocina con leña o carbón,2,c39f9f0f4662065dac7213a5517e8072,1,El <PCT> de los hogares rurales cocina con leña o carbón
+Predica esfuerzo y no trabaja ni los lunes,0,a9d655190d73b19a805219822664047e,2,Predica esfuerzo y no trabaja ni los lunes
+Nada puede vencer la voluntad de un pueblo unido,3,a23bc3c36a4a4ed169d69f28cbc93524,3,Nada puede vencer la voluntad de un pueblo unido
+"[PARTIDO] votamos con esperanza, [ADVERSARIO] gobiernan con indiferencia",1,e9c106b9b170e65fb6216f51567a6595,4,"[PARTIDO] votamos con esperanza, [ADVERSARIO] gobiernan con indiferencia"
+El 45 % de los hogares no participa en procesos electorales locales,2,a9d6163a040a8c3232c2615d3349e0df,1,El <PCT> de los hogares no participa en procesos electorales locales
+El 60 % del gasto en salud se concentra en Lima y Callao,2,e589f073245355f11acceaebddb7ded9,0,El <PCT> del gasto en salud se concentra en Lima y Callao
+El 30 % de los adolescentes dejó la escuela durante la pandemia,2,4e0ebd44d48006b5e71600ca3ef61e19,2,El <PCT> de los adolescentes dejó la escuela durante la pandemia
+El 15 % de las empresas privadas ofrece programas de reciclaje,2,76560d2d1697ff32b0f27289a9977b3c,1,El <PCT> de las empresas privadas ofrece programas de reciclaje
+Más del 60 % de las escuelas públicas tiene baños inoperativos,2,b228d10365f31ff12b43f437842403d2,1,Más del <PCT> de las escuelas públicas tiene baños inoperativos
+"[ADVERSARIO] viven de slogans, [PARTIDO] de sacrificio",1,dfb0bea83c1349065e393a97b24d0dc2,0,"[ADVERSARIO] viven de slogans, [PARTIDO] de sacrificio"
+Quien no escucha no puede gobernar,0,e441183599c8e030481c5a493deb3edc,4,Quien no escucha no puede gobernar
+"[ADVERSARIO] nos llaman minoría, [PARTIDO] los llamamos desconectados",1,a4f4edd71b425e4695ceb8d4730e6ba0,1,"[ADVERSARIO] nos llaman minoría, [PARTIDO] los llamamos desconectados"
+Habla de verdad y oculta la mitad,0,5e6bd5afc5c0fb1b687a724ef82cdd43,0,Habla de verdad y oculta la mitad
+El 25 % de los hospitales no tiene farmacia operativa,2,06a086cd0843dcb2cb0123816d5f80a9,0,El <PCT> de los hospitales no tiene farmacia operativa
+"Dice que ama al país, pero odia al pueblo que lo eligió",0,63f2fcb012fce352f589f8c027b4279a,2,"Dice que ama al país, pero odia al pueblo que lo eligió"
+"Su discurso es de pueblo, pero su vida es de club exclusivo",0,3c1b6457c390597bddfe505909467b1b,2,"Su discurso es de pueblo, pero su vida es de club exclusivo"
+El 70 % de los residuos sólidos termina en botaderos informales,2,8316af70440ead8f96fc64e67d8de356,4,El <PCT> de los residuos sólidos termina en botaderos informales
+Habla de progreso y ni siquiera entiende cómo vive el país,0,2d90690dbacff0409af454689e4c8533,2,Habla de progreso y ni siquiera entiende cómo vive el país
+"[ADVERSARIO] piensan en elecciones, [PARTIDO] pensamos en generaciones",1,846a448a94dc38d3e3f8528553d904c2,2,"[ADVERSARIO] piensan en elecciones, [PARTIDO] pensamos en generaciones"
+"[ADVERSARIO] cierran puertas, [PARTIDO] abrimos caminos",1,b09f8c8d9fa734d83f0eb0545b09c770,2,"[ADVERSARIO] cierran puertas, [PARTIDO] abrimos caminos"
+El gasto en salud representa apenas el 3 % del PBI,2,1b6f78e6e7ca7880c67060a5f695ae9d,4,El gasto en salud representa apenas el <PCT> del PBI
+El 80 % de las denuncias por violencia no llega a sentencia,2,df6f1c664981fb2938c0836e176f8cfd,3,El <PCT> de las denuncias por violencia no llega a sentencia
+El futuro es nuestro y empieza ahora,3,2aa67a9f868aaffa6ccfa5b43644af35,3,El futuro es nuestro y empieza ahora
+El Perú será el país que siempre debió ser,3,21d73b0625d897df302a642c2b4f29c5,0,El Perú será el país que siempre debió ser
+El 80 % de los municipios rurales depende de transferencias centrales,2,d80fdbc435f2800b97381834b77f22b4,2,El <PCT> de los municipios rurales depende de transferencias centrales
+El 10 % de las regiones concentra el 70 % del PBI,2,c6cfadc00e31ef860fda153b7ae56636,1,El <PCT> de las regiones concentra el <PCT> del PBI
+Habla de moral y cambia de valores según la encuesta,0,bc2f0d1e048cd2b10424cd9b4f961c9c,3,Habla de moral y cambia de valores según la encuesta
+Critica la pobreza desde su casa en la playa,0,c32bc0986408c8e09360af0a447cac6b,4,Critica la pobreza desde su casa en la playa
+"[ADVERSARIO] prometen igualdad, [PARTIDO] la exigimos",1,a4dc507f38b98f4d5c051899c9c75da2,2,"[ADVERSARIO] prometen igualdad, [PARTIDO] la exigimos"
+El cambio verdadero nace del corazón,3,29a6c13d493ad01074aa137ac192e5f6,4,El cambio verdadero nace del corazón
+"[ADVERSARIO] ganan elecciones, [PARTIDO] ganamos conciencia",1,8740b6017be157560f2664e4d676116b,1,"[ADVERSARIO] ganan elecciones, [PARTIDO] ganamos conciencia"
+El Perú será grande porque su gente es grande,3,78e63d6cb09bda8fb7a37ca657801213,1,El Perú será grande porque su gente es grande
+Habla de futuro y no puede explicar el presente,0,5cd28b3513bde9be6f9e65b660223266,4,Habla de futuro y no puede explicar el presente
+Habla de educación y no terminó la suya,0,4c26d0b422a9877fe65164b22981df0a,3,Habla de educación y no terminó la suya
+"[PARTIDO] marchamos por derechos, [ADVERSARIO] por cargos",1,dcad808f0d7daf52e00ce4c56c3ab3ab,4,"[PARTIDO] marchamos por derechos, [ADVERSARIO] por cargos"
+No hay obstáculos cuando se actúa con el corazón,3,3073b2dd015231ec51d60cb5f6bbd41a,2,No hay obstáculos cuando se actúa con el corazón
+Nada nos detendrá mientras tengamos fe,3,83585062172001015bff3cb7af8ae41c,1,Nada nos detendrá mientras tengamos fe
+"[ADVERSARIO] justifican errores, [PARTIDO] exigimos cuentas",1,c1d33fa327fffa05be1f0051f0a684cf,1,"[ADVERSARIO] justifican errores, [PARTIDO] exigimos cuentas"
+"[ADVERSARIO] creen que todo tiene precio, [PARTIDO] sabemos que hay cosas sagradas",1,2cbbab3c7ef539b960d2d8b67021dc46,2,"[ADVERSARIO] creen que todo tiene precio, [PARTIDO] sabemos que hay cosas sagradas"
+El 70 % de las compras estatales se concentra en Lima,2,d1d9508b5d1b5f4f12ba6d491dcbd6e0,2,El <PCT> de las compras estatales se concentra en Lima
+"[PARTIDO] creemos en el país, [ADVERSARIO] solo en su bolsillo",1,4343d3488a752ab239542a650dd1dfc8,0,"[PARTIDO] creemos en el país, [ADVERSARIO] solo en su bolsillo"
+Promete transparencia y cambia la versión según la prensa,0,525cfcb67a7e7957aebf6d8a6555e4a1,4,Promete transparencia y cambia la versión según la prensa
+"[ADVERSARIO] tienen poder, [PARTIDO] tenemos memoria",1,998a9eefafed7e1e77dcca1614e8cb6e,2,"[ADVERSARIO] tienen poder, [PARTIDO] tenemos memoria"
+"[ADVERSARIO] tienen poder, pero [PARTIDO] tenemos pueblo",1,6d37c3034dd44fd3fcfa98ad1a886a12,1,"[ADVERSARIO] tienen poder, pero [PARTIDO] tenemos pueblo"
+"En promedio, los peruanos gastan el 40 % de su ingreso mensual en alimentos",2,debf0401f7a3148033256b43177fb04e,1,"En promedio, los peruanos gastan el <PCT> de su ingreso mensual en alimentos"
+"[PARTIDO] caminamos juntos, [ADVERSARIO] caminan sobre [PARTIDO]",1,3071a873c254b2b02b0a0940b05bda66,1,"[PARTIDO] caminamos juntos, [ADVERSARIO] caminan sobre [PARTIDO]"
+"[PARTIDO] defendemos el agua, [ADVERSARIO] defienden el oro",1,079c413b6899fbbbf2628c86682504cd,4,"[PARTIDO] defendemos el agua, [ADVERSARIO] defienden el oro"
+El 60 % de los pacientes espera más de tres meses por una cita médica,2,433921be392312c55a153503b8260b92,4,El <PCT> de los pacientes espera más de tres meses por una cita médica
+"[ADVERSARIO] se creen imprescindibles, [PARTIDO] creemos en el pueblo",1,462611c97d0d4294ec450ffb874df707,3,"[ADVERSARIO] se creen imprescindibles, [PARTIDO] creemos en el pueblo"
+Promete meritocracia y pone a su cuñado de asesor,0,321497c8a6d2201bd8c8bead0ca6f628,3,Promete meritocracia y pone a su cuñado de asesor
+El 30 % de los adultos mayores no recibe pensión,2,1390b5914760bec3e63090ee84e96c86,0,El <PCT> de los adultos mayores no recibe pensión
+Predica fe y contrata a los mismos de siempre,0,5ecce9d647ebfd2752acede47a0d1a6c,2,Predica fe y contrata a los mismos de siempre
+El 10 % de las empresas acapara el 80 % de las exportaciones,2,1ade28c2125f0219194ae868aa924594,0,El <PCT> de las empresas acapara el <PCT> de las exportaciones
+El 40 % del territorio amazónico enfrenta tala ilegal,2,c19632e1741dbed41eb47c12f1fa7929,4,El <PCT> del territorio amazónico enfrenta tala ilegal
+"[PARTIDO] alzamos la voz, [ADVERSARIO] la censuran",1,022dda42ce6ed1792742a8fc33ac73ff,4,"[PARTIDO] alzamos la voz, [ADVERSARIO] la censuran"
+"Dice que lucha por los pobres, pero nunca los escucha",0,f74b75ba752575012e8db1497caf8eff,0,"Dice que lucha por los pobres, pero nunca los escucha"
+Promete eficiencia y deja promesas sin ejecutar,0,66d73f0e434e154605f258ec542c08dd,2,Promete eficiencia y deja promesas sin ejecutar
+El 90 % de las municipalidades pequeñas no tiene ingenieros titulados,2,4883a1170ecdb98bb93398a7295c83fb,0,El <PCT> de las municipalidades pequeñas no tiene ingenieros titulados
+Predica transparencia y firma contratos en la oscuridad,0,5c87e71ee52810065f33214e661a8686,0,Predica transparencia y firma contratos en la oscuridad
+El cambio empieza por uno mismo,3,0bc6d391c860ac67f06e644e5f5cc565,4,El cambio empieza por uno mismo
+La fe en el país será nuestra mayor fortaleza,3,ce793e11a4c1c311b1f7e20f17baef46,2,La fe en el país será nuestra mayor fortaleza
+El 45 % de los colegios rurales carece de docentes especializados,2,868bb810437f530f19f5354250d0a226,0,El <PCT> de los colegios rurales carece de docentes especializados
+El 25 % de los jóvenes limeños trabaja más de 10 horas diarias,2,d8a37f7ca23420fcdf7064acdf33fe97,3,El <PCT> de los jóvenes limeños trabaja más de <NUM> horas diarias
+"[ADVERSARIO] controlan los medios, [PARTIDO] tenemos la calle",1,20e1bffd1eae957a647bf64def01ba82,2,"[ADVERSARIO] controlan los medios, [PARTIDO] tenemos la calle"
+"Dice que defiende la verdad, pero vive de la mentira",0,050a1e7c461916f6c430697b570edca9,4,"Dice que defiende la verdad, pero vive de la mentira"
+El que destruye a los demás demuestra que no tiene propuesta,0,363dc9354e432deb7e4443929aac977d,1,El que destruye a los demás demuestra que no tiene propuesta
+"Dice que lucha contra el sistema, pero vive de él",0,26516acde6f37ecfa13e44f9b8dcd3e6,1,"Dice que lucha contra el sistema, pero vive de él"
+Cada región aportará su luz al nuevo Perú,3,9c1b102c21477f69fc4911c6f2b480dd,0,Cada región aportará su luz al nuevo Perú
+"[PARTIDO] marchamos con dignidad, [ADVERSARIO] con escolta",1,5017a3d4a58e9f3b948ef20477553512,0,"[PARTIDO] marchamos con dignidad, [ADVERSARIO] con escolta"
+"Dice que no pertenece a nadie, pero obedece a todos",0,ab9088ff5856cbfd666c3171054c015e,4,"Dice que no pertenece a nadie, pero obedece a todos"
+El 45 % de los agricultores no accede a crédito formal,2,81a656dc078f360baa34ecff52ff8ccf,4,El <PCT> de los agricultores no accede a crédito formal
+"[ADVERSARIO] exigen respeto, pero nunca lo dieron",1,88f6b0dfdda370cb98b9d46df338e69c,4,"[ADVERSARIO] exigen respeto, pero nunca lo dieron"
+"[ADVERSARIO] tienen seguridad privada, [PARTIDO] rezamos para que no nos roben",1,6022cd66dc8f6d060b59fbc2e46956ee,1,"[ADVERSARIO] tienen seguridad privada, [PARTIDO] rezamos para que no nos roben"
+[POLÍTICO] político habla de honestidad con una denuncia por corrupción en el bolsillo,0,d17d431b18ed22e7ed33c241afb57858,4,[POLÍTICO] político habla de honestidad con una denuncia por corrupción en el bolsillo
+"[ADVERSARIO] viajan en caravanas, [PARTIDO] en combi",1,32c7e1c9049d57f0731a13cce3264b81,0,"[ADVERSARIO] viajan en caravanas, [PARTIDO] en combi"
+Quien no respeta a sus colegas no respetará a los ciudadanos,0,c43112085592ea2c510a090497abf104,2,Quien no respeta a sus colegas no respetará a los ciudadanos
+El Perú florecerá con el esfuerzo de su gente,3,fc6bbd65ed3a1477faeeb8e831ee44d1,1,El Perú florecerá con el esfuerzo de su gente
+El consumo de agua per cápita cayó 8 % por sequía,2,07b784ac5a486ed7126c7b0e6f66444c,3,El consumo de agua per cápita cayó <PCT> por sequía
+"Somos un país lleno de fuerza, historia y esperanza",3,f8617f3981668ccae4a3881712fed1c6,1,"Somos un país lleno de fuerza, historia y esperanza"
+Nuestro compromiso es con la historia y con el mañana,3,da98d50bcf1f5e646bc917c7e67ead02,1,Nuestro compromiso es con la historia y con el mañana
+El 40 % de los hogares peruanos aún cocina con combustibles contaminantes,2,0c5540a150fe1958660c5c85c8f7b68a,3,El <PCT> de los hogares peruanos aún cocina con combustibles contaminantes
+Cada año se registran más de 60 000 accidentes laborales,2,20d520d29abc7bd07061a122945ce2da,1,Cada año se registran más de <NUM> <NUM> accidentes laborales
+La mitad del presupuesto de educación se destina a infraestructura,2,0d51654d1ff2a50c39f1feb9ca24acc6,0,La mitad del presupuesto de educación se destina a infraestructura
+El 35 % de los médicos trabaja en más de un hospital,2,5bf7f749498bf7820f14b80288fd3880,0,El <PCT> de los médicos trabaja en más de un hospital
+El 20 % de los hogares urbanos vive en alquiler informal,2,51a4d0bb6096606fa919f8329ade9a05,2,El <PCT> de los hogares urbanos vive en alquiler informal
+Juntos lograremos el Perú que merecemos,3,3ebb614e38fc09bc0cb5c5f022761d29,0,Juntos lograremos el Perú que merecemos
+La inflación alimentaria acumulada alcanzó el 8 % en zonas urbanas,2,288f95e6fce78c8e373b16d3e77f4873,2,La inflación alimentaria acumulada alcanzó el <PCT> en zonas urbanas
+Nuestra historia recién comienza,3,ef695dabe546b0b5a619168a9e72301c,4,Nuestra historia recién comienza
+Somos la generación del cambio,3,48b65ee35e3487a67235aa2c8342260b,1,Somos la generación del cambio
+Promete eficiencia y no puede ni organizar su despacho,0,95cfdfc70b820750c18356155cde62c4,4,Promete eficiencia y no puede ni organizar su despacho
+"[PARTIDO] vivimos la realidad, [ADVERSARIO] la narran en conferencias",1,8664ab3584447a38d3e8431026b5044f,4,"[PARTIDO] vivimos la realidad, [ADVERSARIO] la narran en conferencias"
+La tasa de alfabetización nacional supera el 94 %,2,5afefeaf1f85fd28fadc3e0882ca0c78,4,La tasa de alfabetización nacional supera el <PCT>
+"[ADVERSARIO] nos dividen, [PARTIDO] nos reconocemos hermanos",1,8e52452ba3febee4872f50f6ffc84bcb,2,"[ADVERSARIO] nos dividen, [PARTIDO] nos reconocemos hermanos"
+Más de 1000 obras públicas permanecen paralizadas,2,e43a50c6738d1531f9309e226f974634,3,Más de <NUM> obras públicas permanecen paralizadas
+"[ADVERSARIO] prometen unión, [PARTIDO] la construimos en la calle",1,dcbe242ce6ba991705af54e481b639aa,1,"[ADVERSARIO] prometen unión, [PARTIDO] la construimos en la calle"
+Hoy comienza una nueva era de esperanza,3,cdd740b11d2dcbc50876f4e4696db385,2,Hoy comienza una nueva era de esperanza
+"Dice que sirve al país, pero se sirve de él",0,6bfeb559c133f0d457ca9d635c567aed,4,"Dice que sirve al país, pero se sirve de él"
+"Promete transparencia, pero su declaración jurada es un misterio",0,8fe2a786871d215930c1b031c24ad6d6,4,"Promete transparencia, pero su declaración jurada es un misterio"
+El 50 % de las universidades estatales no cuenta con proyectos de investigación activos,2,c30883944cc32c414fd87272bbbcc0a4,4,El <PCT> de las universidades estatales no cuenta con proyectos de investigación activos
+"[ADVERSARIO] cambian de partido, [PARTIDO] mantenemos principios",1,4358e0f33371f42aa117db5e4dacf696,1,"[ADVERSARIO] cambian de partido, [PARTIDO] mantenemos principios"
+El 50 % de las familias migrantes carece de vivienda propia,2,3e9bb31278250e90c17c4c5c5f69771f,3,El <PCT> de las familias migrantes carece de vivienda propia
+El gasto en defensa supera al de innovación tecnológica,2,ed875173586425631a590b37c9533532,0,El gasto en defensa supera al de innovación tecnológica
+Nada podrá apagar la llama del cambio,3,3f5fde262dc36e6ba397755fff5a858f,1,Nada podrá apagar la llama del cambio
+El Perú tiene un destino de grandeza,3,c60c65bc3a3c0de163b5d584ca74adfe,3,El Perú tiene un destino de grandeza
+El cambio ya está en marcha y no habrá vuelta atrás,3,40258980b399069bc27fa8491f5f946b,4,El cambio ya está en marcha y no habrá vuelta atrás
+Promete igualdad y crea nuevos privilegios,0,5dc5e2f37189a80b5785592bc3eaf8d4,3,Promete igualdad y crea nuevos privilegios
+"Promete futuro, pero no entiende el presente",0,b783968229d3088d9c3a08a9d6753ec8,4,"Promete futuro, pero no entiende el presente"
+"[PARTIDO] ponemos el hombro, [ADVERSARIO] ponen excusas",1,9bffa41ce48959c4522eb3d6de76b2cd,1,"[PARTIDO] ponemos el hombro, [ADVERSARIO] ponen excusas"
+El 70 % de los incendios forestales son causados por actividades humanas,2,ee8ed9caa952e6b8870571a0cc7fd61c,4,El <PCT> de los incendios forestales son causados por actividades humanas
+Predica libertad y amenaza a quien lo contradice,0,e169bbd6d09229b15f241e393183c594,4,Predica libertad y amenaza a quien lo contradice
+"[ADVERSARIO] aplauden al poderoso, [PARTIDO] abrazamos al necesitado",1,b82a6b2a05f5a942b27a001292801ce9,2,"[ADVERSARIO] aplauden al poderoso, [PARTIDO] abrazamos al necesitado"
+Habla de pueblo y vive del poder,0,c8c67956984e831552a3b52104003309,4,Habla de pueblo y vive del poder
+El 45 % de las compras estatales supera el presupuesto inicial,2,5b6cdf5e76725ef86abc09eec60077a0,2,El <PCT> de las compras estatales supera el presupuesto inicial
+Juntos haremos historia,3,967ce261e9f502862f7e29498c6b1ec2,1,Juntos haremos historia
+"Con fe, coraje y trabajo todo será posible",3,dd9e9b5fb991b03a7d5ac8d4a3ded902,0,"Con fe, coraje y trabajo todo será posible"
+El cambio será la voz de todo un pueblo,3,18ccdfed81aef5ad9dc4d0d12e93007b,4,El cambio será la voz de todo un pueblo
+Habla de derechos humanos y no respeta ni al personal que lo atiende,0,cb045d95409e0ac8f2e852fa2ecace7f,4,Habla de derechos humanos y no respeta ni al personal que lo atiende
+"Dice que gobierna con el corazón, pero lo hace con rencor",0,87ef2ffc11984a1fd1da583e1b449c0f,3,"Dice que gobierna con el corazón, pero lo hace con rencor"
+"Promete justicia, pero manipula testigos",0,98a2ca6ba239861c6ce0ee6aa3c00233,3,"Promete justicia, pero manipula testigos"
+Nada podrá apagar la llama del pueblo,3,a7d1d9f82d7d7f0a92c6e69df0140194,0,Nada podrá apagar la llama del pueblo
+Promete orden y crea caos,0,bca7795a6f918551f32d4b8f4807d0dc,4,Promete orden y crea caos
+El amor por el Perú nos hace invencibles,3,05ef58ed58981925fe85c38a3c57a9af,3,El amor por el Perú nos hace invencibles
+"[PARTIDO] levantamos el país, [ADVERSARIO] levantan discursos",1,c2842984b08023fb6c344ebcab251b3b,1,"[PARTIDO] levantamos el país, [ADVERSARIO] levantan discursos"
+"[ADVERSARIO] prometen igualdad, pero solo reparten beneficios entre los suyos",1,50684641d447fa10381c73e45b2af63f,2,"[ADVERSARIO] prometen igualdad, pero solo reparten beneficios entre los suyos"
+"[ADVERSARIO] celebran contratos, [PARTIDO] contamos monedas",1,6011b2bc45b841278dbf33b0771a12e2,2,"[ADVERSARIO] celebran contratos, [PARTIDO] contamos monedas"
+"[ADVERSARIO] confunden autoridad con abuso, [PARTIDO] sabemos de respeto",1,9af7985083de44734fb2bdb4eb4e52de,4,"[ADVERSARIO] confunden autoridad con abuso, [PARTIDO] sabemos de respeto"
+Predica humildad y exige reverencias,0,f0c080bb6831cc432037358ca266ac68,2,Predica humildad y exige reverencias
+El índice de competitividad global ubicó al Perú en el puesto 65,2,33da70ee474acd6633ce6e2dacd88f95,0,El índice de competitividad global ubicó al Perú en el puesto <NUM>
+El mañana será mejor porque lo haremos juntos,3,4fc98c2d438fb78b45c6fd8cd555b900,3,El mañana será mejor porque lo haremos juntos
+"[ADVERSARIO] cambian de partido, [PARTIDO] seguimos esperando cambio",1,d1db8458d145c70992c07f54b109c130,3,"[ADVERSARIO] cambian de partido, [PARTIDO] seguimos esperando cambio"
+"[ADVERSARIO] escriben historia, [PARTIDO] la vivimos",1,aaac709ed7658dd1c664f5fb41dff8ac,3,"[ADVERSARIO] escriben historia, [PARTIDO] la vivimos"
+El 70 % de las escuelas rurales tiene aulas prefabricadas,2,c06f6ede3a779392b156a0c929604dfa,2,El <PCT> de las escuelas rurales tiene aulas prefabricadas
+"[ADVERSARIO] se refugian en la burocracia, [PARTIDO] en la comunidad",1,794633672ad02af04d9fcb2514eaf53c,2,"[ADVERSARIO] se refugian en la burocracia, [PARTIDO] en la comunidad"
+"Dice que escucha, pero solo espera su turno para hablar",0,405eca2b93cdb3570646b5f53bc30af6,2,"Dice que escucha, pero solo espera su turno para hablar"
+El 45 % de los docentes gana menos de 2500 soles mensuales,2,1e76e45a0bc4cafc555e47808f926774,1,El <PCT> de los docentes gana menos de <NUM> soles mensuales
+"[ADVERSARIO] hablan de democracia, [PARTIDO] la practicamos en la calle",1,b4edf46f49203ed6b9cc8e9cda5633e6,0,"[ADVERSARIO] hablan de democracia, [PARTIDO] la practicamos en la calle"
+El 55% de peruanos adultos tiene obesidad,2,ddc7ff3dc4ed1a7dbbc7aaeaeaf27dbe,4,El <PCT> de peruanos adultos tiene obesidad
+"[ADVERSARIO] siembran odio, [PARTIDO] seguimos sembrando papa",1,06e9e1d7765272dd4e623726db9b4289,4,"[ADVERSARIO] siembran odio, [PARTIDO] seguimos sembrando papa"
+"[ADVERSARIO] hacen negocios con el país, [PARTIDO] hacemos patria",1,33114ef6562182754afe7ee0e6c0095d,2,"[ADVERSARIO] hacen negocios con el país, [PARTIDO] hacemos patria"
+El 30 % de los hogares de la selva carece de electricidad continua,2,40f3dfa8a709ebbc1a8333ff836b8e1a,4,El <PCT> de los hogares de la selva carece de electricidad continua
+"[ADVERSARIO] pelean por el puesto, [PARTIDO] peleamos por la vida",1,af400e5815b2fd3520d3b0b8d9468dc1,4,"[ADVERSARIO] pelean por el puesto, [PARTIDO] peleamos por la vida"
+"[ADVERSARIO] legislan para sus empresas, [PARTIDO] sobrevivimos con nuestro esfuerzo",1,f7eceeea60d0023d70dd8ec32cc4ccd3,2,"[ADVERSARIO] legislan para sus empresas, [PARTIDO] sobrevivimos con nuestro esfuerzo"
+El pueblo ha despertado para nunca más dormirse,3,5829efe7f181928f036dea997ef6b8b2,2,El pueblo ha despertado para nunca más dormirse
+"[ADVERSARIO] siembran división, [PARTIDO] sembramos conciencia",1,4c9d611e3039cd9d92d18540c12f3ee7,2,"[ADVERSARIO] siembran división, [PARTIDO] sembramos conciencia"
+El consumo de agua per cápita en Lima triplica el promedio nacional,2,48722b6b5800d62838a45f0c5752b539,2,El consumo de agua per cápita en Lima triplica el promedio nacional
+Vamos a devolverle la sonrisa al Perú,3,a3d9c0d57062f0cbe54241779cb95d52,3,Vamos a devolverle la sonrisa al Perú
+"[PARTIDO] caminamos bajo el sol, [ADVERSARIO] bajo los reflectores",1,7bd5f71dae948ed7064c0f76fdc650bf,2,"[PARTIDO] caminamos bajo el sol, [ADVERSARIO] bajo los reflectores"
+La unión será nuestra victoria,3,b23e267b67379e24fd44407ce8373fe3,2,La unión será nuestra victoria
+"Según el INEI, más del 40 % de los hogares rurales aún no tienen agua potable",2,4f1df1d8f82e96b9420132eb8148a1e5,3,"Según el INEI, más del <PCT> de los hogares rurales aún no tienen agua potable"
+Promete unidad y siembra odio,0,733ddd54a80e8e0aca69b521f4efc5b4,3,Promete unidad y siembra odio
+El 20 % de los estudiantes universitarios estudia carreras saturadas,2,6f9ff34c22ff18d2c198bdd2e09b964e,3,El <PCT> de los estudiantes universitarios estudia carreras saturadas
+Predica renovación y recicla caras viejas,0,69a525a261a6538ff49aecc60bce8d5e,3,Predica renovación y recicla caras viejas
+"[ADVERSARIO] gobiernan desde palacios, [PARTIDO] desde la calle",1,72a649a6f31c180f60ff9ee5a95ed1c0,2,"[ADVERSARIO] gobiernan desde palacios, [PARTIDO] desde la calle"
+El índice de empleo femenino bajó en las regiones del norte,2,e783783cce8ee7aa6a93e87fe6e10554,0,El índice de empleo femenino bajó en las regiones del norte
+El 50 % de las viviendas en la costa norte está en zonas inundables,2,dc775019dc59674e1b5a77c41b84cdd4,1,El <PCT> de las viviendas en la costa norte está en zonas inundables
+La grandeza del Perú está en su gente,3,a14e36da9966d2e798550d12cfc8e9f5,4,La grandeza del Perú está en su gente
+"[PARTIDO] creemos en el cambio, [ADVERSARIO] lo temen",1,598edc4c57d1c1095aee8a14bd9506f2,0,"[PARTIDO] creemos en el cambio, [ADVERSARIO] lo temen"
+"[ADVERSARIO] roban el presupuesto, [PARTIDO] pagamos la deuda",1,f75428d343b28a1ec5849093488f13d0,1,"[ADVERSARIO] roban el presupuesto, [PARTIDO] pagamos la deuda"
+Habla de justicia y calla ante la corrupción de sus aliados,0,f85eae155658b6bb696a35f63ec4ad58,0,Habla de justicia y calla ante la corrupción de sus aliados
+"[ADVERSARIO] llaman orden al silencio, [PARTIDO] lo llamamos injusticia",1,0ae4b7fc649a7e3673fd7328de194b1f,4,"[ADVERSARIO] llaman orden al silencio, [PARTIDO] lo llamamos injusticia"
+El 90 % de las universidades privadas opera en Lima y el norte,2,b06c6bc97e02646740205c7a94a4ea5b,0,El <PCT> de las universidades privadas opera en Lima y el norte
+Hoy el país late con un solo corazón,3,c245f29427b5da3aa0f2627fe4074ac7,2,Hoy el país late con un solo corazón
+El 60 % de los proyectos de irrigación está paralizado,2,b8c4afdf931d5dc6b838621b9cbcb6be,3,El <PCT> de los proyectos de irrigación está paralizado
+Nuestra bandera volverá a ondear con orgullo,3,f5090390d3b7c615d503bcb275b382c8,3,Nuestra bandera volverá a ondear con orgullo
+"[ADVERSARIO] buscan poder, [PARTIDO] buscamos dignidad",1,2d97bdd3d7e101bc6b937ef34806774c,3,"[ADVERSARIO] buscan poder, [PARTIDO] buscamos dignidad"
+El 60 % de los docentes considera insuficiente su salario,2,a7ec0712d052ea3cf1cf7d0ee9c11720,1,El <PCT> de los docentes considera insuficiente su salario
+El Perú tiene todo para salir adelante,3,39d0d66b5f5413628c01b8352be51bae,3,El Perú tiene todo para salir adelante
+No hay imposibles cuando el pueblo se une,3,d554169d7eabbf58bce8f5e06574ba78,3,No hay imposibles cuando el pueblo se une
+El 49% de los niños peruanos menores a 3 años tienen anemia,2,d1c2589774d8527ad51aa36b12be31f7,2,El <PCT> de los niños peruanos menores a <NUM> años tienen anemia
+El 60 % de los delitos denunciados no llega a juicio,2,7084588916a6ba62bea0a4cc7306f732,4,El <PCT> de los delitos denunciados no llega a juicio
+El 50 % de los casos de corrupción involucra gobiernos locales,2,b25a15d499fca33842b0bb2fa41992e0,3,El <PCT> de los casos de corrupción involucra gobiernos locales
+"Con el corazón en alto y la mirada en el futuro, venceremos",3,36af1a9505e00f738c292690814cb5b1,1,"Con el corazón en alto y la mirada en el futuro, venceremos"
+El cambio está en marcha y nada lo detendrá,3,5798218553d2bd585ce575ddde287405,4,El cambio está en marcha y nada lo detendrá
+Estamos viviendo el renacer del Perú,3,63123bb2635f78a9676546ec6f3860dc,1,Estamos viviendo el renacer del Perú
+"Predica unidad, pero separa entre buenos y traidores",0,f41f3581584ef947630d7f3d3453982f,3,"Predica unidad, pero separa entre buenos y traidores"
+"[PARTIDO] seguimos de pie, [ADVERSARIO] de espaldas al pueblo",1,94db70dcc141bb4b807b8140f9d4b6ce,2,"[PARTIDO] seguimos de pie, [ADVERSARIO] de espaldas al pueblo"
+"[PARTIDO] defendemos la tierra, [ADVERSARIO] defienden la mina",1,bbc64fd6594f074bb2bba0530876178d,3,"[PARTIDO] defendemos la tierra, [ADVERSARIO] defienden la mina"
+La unidad hará posible el milagro del Perú,3,9d92f1b4303e7bac0b2ccdefe9741a6e,0,La unidad hará posible el milagro del Perú
+Somos la voz de una patria que quiere vivir mejor,3,e8149dd4f40d045b644c8765eb173194,1,Somos la voz de una patria que quiere vivir mejor
+Solo el 30 % de los estudiantes rurales logra comprensión lectora adecuada,2,11079d5416b35c2a5b7fe788fe9ddaaf,1,Solo el <PCT> de los estudiantes rurales logra comprensión lectora adecuada
+El precio del transporte urbano aumentó 15 % en los últimos dos años,2,ce2783b3ca2cc36b1c782e8faf5b22b3,3,El precio del transporte urbano aumentó <PCT> en los últimos dos años
+"[ADVERSARIO] se sientan en sillones, [PARTIDO] dormimos tranquilos",1,b8fcb847c753cbe5d9a7f82eb52da953,4,"[ADVERSARIO] se sientan en sillones, [PARTIDO] dormimos tranquilos"
+"[ADVERSARIO] gritan orden, [PARTIDO] gritamos justicia",1,8e0e4cc5a99756bf0ed3fd08981c4a5b,0,"[ADVERSARIO] gritan orden, [PARTIDO] gritamos justicia"
+"[ADVERSARIO] no conocen el hambre, [PARTIDO] la enfrentamos con coraje",1,a06197a53a68393d8b91ea8c4f346e67,1,"[ADVERSARIO] no conocen el hambre, [PARTIDO] la enfrentamos con coraje"
+"El acceso a agua potable mejoró, pero aún falta cobertura en 1,2 millones de hogares",2,c6e8a5fd1ae15e01ddd4c92f984ae076,4,"El acceso a agua potable mejoró, pero aún falta cobertura en <NUM> millones de hogares"
+"[ADVERSARIO] reparten contratos, [PARTIDO] compartimos lo poco que tenemos",1,d9ae6d5e09ba1212231e0d7009499bf3,4,"[ADVERSARIO] reparten contratos, [PARTIDO] compartimos lo poco que tenemos"
+El 35 % de los contratos públicos fue adjudicado por única oferta,2,cdf7ba5cd3872c5c64f7bc375af4d9df,3,El <PCT> de los contratos públicos fue adjudicado por única oferta
+"[ADVERSARIO] siembran miedo, [PARTIDO] sembramos esperanza",1,dda47a878ed7085f317387f570b330f2,2,"[ADVERSARIO] siembran miedo, [PARTIDO] sembramos esperanza"
+"Cada año, más de 200 000 peruanos emigran buscando empleo",2,8bcda959dcad098eea52550342e186f1,2,"Cada año, más de <NUM> <NUM> peruanos emigran buscando empleo"
+"[PARTIDO] sembramos tierra, [ADVERSARIO] siembran duda",1,cba2e5d95fdda70f0dd8065532b300dc,0,"[PARTIDO] sembramos tierra, [ADVERSARIO] siembran duda"
+El 70 % de los municipios carece de presupuesto participativo,2,5045268c7f02f69ffbd25df6969b80e6,1,El <PCT> de los municipios carece de presupuesto participativo
+Critica la corrupción ajena y calla la propia,0,1385cd1e72018336e3fa5f61195708af,4,Critica la corrupción ajena y calla la propia
+"Promete justicia, pero castiga a quien la exige",0,446394653e582e2f6ab5b63327e96ca6,0,"Promete justicia, pero castiga a quien la exige"
+El 45 % de los peruanos cree que su voto no cambia nada,2,d0a34ddb64ea57b0db7fe69933b6c7eb,3,El <PCT> de los peruanos cree que su voto no cambia nada
+"Dice que escucha al pueblo, pero solo oye su propio eco",0,ca3a0da10c455dceda00a855235a4d06,1,"Dice que escucha al pueblo, pero solo oye su propio eco"
+La brecha salarial entre hombres y mujeres supera el 25 %,2,a4b2334c05d8b4b8fcc874ca0265bfc4,4,La brecha salarial entre hombres y mujeres supera el <PCT>
+Los que se llenan de banderas no saben lo que significa servir,0,7c7c63ab054b6500155afb62c53da424,1,Los que se llenan de banderas no saben lo que significa servir
+Solo el 8 % de los agricultores accede a seguros agrarios,2,db92a5086894ec9e4cf0cf1d52f4025f,3,Solo el <PCT> de los agricultores accede a seguros agrarios
+Promete moral y gobierna con inmorales,0,6b6b8bdd8e47945cc165000c8696009c,2,Promete moral y gobierna con inmorales
+La densidad de médicos por habitante sigue por debajo del promedio regional,2,c6fcab78d63bbf7ec9785f53b0c188e0,0,La densidad de médicos por habitante sigue por debajo del promedio regional
+"[ADVERSARIO] firman acuerdos, [PARTIDO] cargamos consecuencias",1,f9e53a34881e19dd22cda84a21e75f05,0,"[ADVERSARIO] firman acuerdos, [PARTIDO] cargamos consecuencias"
+"[PARTIDO] vivimos la crisis, [ADVERSARIO] viven del Estado",1,6e0064ecc227af6d754adcc5f2b4c581,2,"[PARTIDO] vivimos la crisis, [ADVERSARIO] viven del Estado"
+"[ADVERSARIO] hacen política, [PARTIDO] hacemos historia",1,45831522ce08fad9235b2f4c7815a7fa,1,"[ADVERSARIO] hacen política, [PARTIDO] hacemos historia"
+"[ADVERSARIO] viven del canon, [PARTIDO] de la cosecha",1,347620547c000bd1605f9bc0242c91ec,3,"[ADVERSARIO] viven del canon, [PARTIDO] de la cosecha"
+El 35 % del personal estatal trabaja bajo contratos temporales,2,5c7c39861aded311f2f7b218bf02a421,3,El <PCT> del personal estatal trabaja bajo contratos temporales
+Habla de transparencia y oculta su pasado,0,5662c5a7df9b97b1bcf70e0d608340b3,1,Habla de transparencia y oculta su pasado
+La recaudación fiscal cayó 12 % durante el último semestre,2,fc2c88860c115e357544add4758f84c2,0,La recaudación fiscal cayó <PCT> durante el último semestre
+Predica moral y compra silencios,0,c6a481fdaebaa7f048bc4e9f1114bffe,1,Predica moral y compra silencios
+El 85 % de los adultos mayores no tiene acceso a servicios geriátricos,2,093e322613820e9dbeb7776893c9cee8,4,El <PCT> de los adultos mayores no tiene acceso a servicios geriátricos
+Más de 500 colegios públicos funcionan en locales alquilados,2,7804aae62d195a3ab51b4e40618b6c24,0,Más de <NUM> colegios públicos funcionan en locales alquilados
+El 80 % de los centros de salud rurales carece de laboratorio,2,47e67073bfc4cc4303fe49fdfbed4768,1,El <PCT> de los centros de salud rurales carece de laboratorio
+Juntos escribiremos la nueva historia del país,3,e6d169e79bf384e9dd136d83397c9bd0,4,Juntos escribiremos la nueva historia del país
+La agricultura familiar produce más del 70 % de los alimentos del país,2,300c91a48a061ba3c88d6b5827489892,4,La agricultura familiar produce más del <PCT> de los alimentos del país
+"[ADVERSARIO] compran conciencias, [PARTIDO] despertamos corazones",1,1c51baf7a36bd867e7e94246c4d41a31,2,"[ADVERSARIO] compran conciencias, [PARTIDO] despertamos corazones"
+Promete honestidad y miente con elegancia,0,b288f61c6b9e917c39fcb04de9b8388d,0,Promete honestidad y miente con elegancia
+El amor por la patria vencerá cualquier obstáculo,3,70499a47de534d4ef6ada98b9ba79df7,1,El amor por la patria vencerá cualquier obstáculo
+"[PARTIDO] ponemos los muertos, [ADVERSARIO] los discursos",1,24200ba0a845c06c8337398a257ffab9,4,"[PARTIDO] ponemos los muertos, [ADVERSARIO] los discursos"
+Con coraje y fe todo se puede lograr,3,aaef1c872049b92dca9be85c9755c5c7,4,Con coraje y fe todo se puede lograr
+"[PARTIDO] construimos el país, [ADVERSARIO] lo hipotecan",1,def2ad52c3c96dd33f5b926e531284c3,4,"[PARTIDO] construimos el país, [ADVERSARIO] lo hipotecan"
+"[ADVERSARIO] cuentan billetes, [PARTIDO] contamos días para llegar a fin de mes",1,798685aa7ced691a6b9e452872294665,4,"[ADVERSARIO] cuentan billetes, [PARTIDO] contamos días para llegar a fin de mes"
+Habla de esfuerzo y no pisa oficina,0,1a840699e7d4ce6a5a3cd542499e1df0,3,Habla de esfuerzo y no pisa oficina
+"Siempre promete cambios, pero ni siquiera cambia su propia conducta",0,de1ab7373bdd75fff5113816ccb15868,3,"Siempre promete cambios, pero ni siquiera cambia su propia conducta"
+"[ADVERSARIO] heredan apellidos, [PARTIDO] heredamos deudas",1,450b71689dcbf475a3682b24fd42a14b,2,"[ADVERSARIO] heredan apellidos, [PARTIDO] heredamos deudas"
+El 25 % de las empresas manufactureras redujo producción por falta de insumos,2,7f23b68ad5f9dc7c36e74ae1d9c20bd9,1,El <PCT> de las empresas manufactureras redujo producción por falta de insumos
+"[ADVERSARIO] protegen su imagen, [PARTIDO] protegemos nuestra tierra",1,9923288614de49843132ded77c5ae00c,1,"[ADVERSARIO] protegen su imagen, [PARTIDO] protegemos nuestra tierra"
+El 25 % de los niños menores de cinco años sufre anemia crónica,2,c9f337b16525b721199b247c7d61fe7e,3,El <PCT> de los niños menores de cinco años sufre anemia crónica
+El 90 % de las carreteras de la selva carece de mantenimiento regular,2,6e7867cdc555a657ec003310a169e792,2,El <PCT> de las carreteras de la selva carece de mantenimiento regular
+Solo el 25 % de los municipios tiene plantas de tratamiento de agua,2,fa838997e1fc50465cc700e34e7f37a9,3,Solo el <PCT> de los municipios tiene plantas de tratamiento de agua
+El 45 % de los universitarios trabaja mientras estudia,2,3ac896441994b7c9fc1ed12127e3fef0,3,El <PCT> de los universitarios trabaja mientras estudia
+El 40 % del presupuesto público proviene de impuestos indirectos,2,a6abbff4929fa1a21c4f74d9a6628fe9,2,El <PCT> del presupuesto público proviene de impuestos indirectos
+"Quien necesita destruir al otro para brillar, no merece el cargo",0,3e252ea0035e1ccd6bf65e07d587833c,3,"Quien necesita destruir al otro para brillar, no merece el cargo"
+"[ADVERSARIO] no conocen la sierra, pero hablan de ella",1,19a36b7fb844fa0cb9a2631306ba5b42,3,"[ADVERSARIO] no conocen la sierra, pero hablan de ella"
+El 40 % del presupuesto social se ejecuta fuera de plazo,2,a199ee02eb615bd6cfb1174eeb0e783d,1,El <PCT> del presupuesto social se ejecuta fuera de plazo
+El 90 % de los distritos no cuenta con relleno sanitario,2,8b048f996551775f1465caa07be9baf7,4,El <PCT> de los distritos no cuenta con relleno sanitario
+La esperanza vuelve a ser la protagonista del futuro,3,436dfd735a67d1d855858d3b4b5afa6f,3,La esperanza vuelve a ser la protagonista del futuro
+El sector minero representa cerca del 10 % del PBI nacional,2,422ca0312f98e135cbc7e79d74c5f5ba,0,El sector minero representa cerca del <PCT> del PBI nacional
+"Promete democracia, pero sueña con gobernar solo",0,431cb4173b559e6af80bd4362934b866,1,"Promete democracia, pero sueña con gobernar solo"
+Promete unión mientras divide con sus palabras,0,884f3811f44b0930683d2debcc8856b7,0,Promete unión mientras divide con sus palabras
+"[ADVERSARIO] deciden en escritorios, [PARTIDO] decidimos en la faena",1,416729492b101e6b68694af2aabb45e2,2,"[ADVERSARIO] deciden en escritorios, [PARTIDO] decidimos en la faena"
+"[ADVERSARIO] levantan banderas por interés, [PARTIDO] por convicción",1,dc44ef7026be2c53a7950e58380a23d1,2,"[ADVERSARIO] levantan banderas por interés, [PARTIDO] por convicción"
+"Predica libertad, pero censura críticas",0,a07e45eb758394716297619e4c5ed478,2,"Predica libertad, pero censura críticas"
+"Dice que gobierna para todos, pero gobierna para los suyos",0,38e5cd17f27369f55341b8bddd85d4ea,3,"Dice que gobierna para todos, pero gobierna para los suyos"
+[POLÍTICO] político solo recuerda al pueblo cuando hay elecciones,0,164b97a7cf5f8f0065d2debb23b974d4,2,[POLÍTICO] político solo recuerda al pueblo cuando hay elecciones
+"[ADVERSARIO] viven en torres, [PARTIDO] en cerros",1,7a23a81eb9ccefd3b601f1387c634a18,1,"[ADVERSARIO] viven en torres, [PARTIDO] en cerros"
+Promete amor por la patria y desprecia sus regiones,0,2a167adfbc34b8a2553d0e337866de29,2,Promete amor por la patria y desprecia sus regiones
+El país se transforma con la energía de su gente,3,09416e76592e3481a9c67f76749855b0,2,El país se transforma con la energía de su gente
+"[ADVERSARIO] se burlan del pueblo, [PARTIDO] seguimos de pie",1,bdff44ce7a1ae1ca4ae678e4f692bba5,2,"[ADVERSARIO] se burlan del pueblo, [PARTIDO] seguimos de pie"
+Hoy el Perú vuelve a creer en sí mismo,3,ae72e4038a6fb8b71cc52dea49b54c1e,4,Hoy el Perú vuelve a creer en sí mismo
+La fuerza del pueblo está más viva que nunca,3,4e56cd33f403ba9965078c59b413cc58,1,La fuerza del pueblo está más viva que nunca
+Somos más los que queremos un futuro diferente,3,923bd44b51bf5e74c0b7a5ad9536f144,2,Somos más los que queremos un futuro diferente
+El 35 % de los estudiantes de secundaria reprueba matemáticas,2,ae65f77c5a041713418831a27adf4137,0,El <PCT> de los estudiantes de secundaria reprueba matemáticas
+Nuestro país merece un nuevo comienzo,3,8890b6fa0ad51266ddcac7199d2183b5,2,Nuestro país merece un nuevo comienzo
+El 60 % de las municipalidades rurales depende del canon minero,2,7d7b6a62b1d5dbbd6a7495bc4cd0f473,2,El <PCT> de las municipalidades rurales depende del canon minero
+"En el último censo, más de dos millones de peruanos declararon no tener acceso a Internet",2,93b67d5c7afc4fecf80a2e06abb05d82,2,"En el último censo, más de dos millones de peruanos declararon no tener acceso a Internet"
+Promete justicia y manipula al juez,0,a1b1b8264ec377bff3a304a76b740d14,2,Promete justicia y manipula al juez
+Habla de unidad y genera división en cada discurso,0,43150cf80e042a3011a7dc02e34e61f3,3,Habla de unidad y genera división en cada discurso
+El futuro será fruto del esfuerzo de todos,3,9bfddc722db35a7fc3a851159cc75225,4,El futuro será fruto del esfuerzo de todos
+El 40 % de los hospitales carece de ambulancias operativas,2,9f1de36550a34e6426d127dfc0620ce4,2,El <PCT> de los hospitales carece de ambulancias operativas
+"Dice que escucha al pueblo, pero solo oye a sus asesores",0,8beb6dfe584cbdb3d5b81d978025d52b,2,"Dice que escucha al pueblo, pero solo oye a sus asesores"
+"[ADVERSARIO] se esconden tras el protocolo, [PARTIDO] salimos al pueblo",1,39900593f964ea706d818a56bb023f17,1,"[ADVERSARIO] se esconden tras el protocolo, [PARTIDO] salimos al pueblo"
+Solo el 15 % de los caminos rurales está asfaltado,2,d4637341037c369be3605f182b472ce1,1,Solo el <PCT> de los caminos rurales está asfaltado
+"[ADVERSARIO] tienen discursos, [PARTIDO] tenemos razones",1,5457d5afd2975daecbe935ed1d9c7841,3,"[ADVERSARIO] tienen discursos, [PARTIDO] tenemos razones"
+"[ADVERSARIO] hablan de crecimiento, [PARTIDO] hablamos de justicia",1,a6c5ed8a6f758e0f775a8f5dfaaae0e5,3,"[ADVERSARIO] hablan de crecimiento, [PARTIDO] hablamos de justicia"
+"Dice ser firme, pero cede ante el poder del dinero",0,fe6f1482b4af56f96e7eaabe65d3be13,0,"Dice ser firme, pero cede ante el poder del dinero"
+"[ADVERSARIO] discuten reformas, [PARTIDO] esperamos justicia",1,dc3b25fb42ddaf53d13457ec150b840d,4,"[ADVERSARIO] discuten reformas, [PARTIDO] esperamos justicia"
+"[POLÍTICO] persona critica todo, pero nunca propone nada",0,eb8503d39db0144dd292d857fe3b8d52,1,"[POLÍTICO] persona critica todo, pero nunca propone nada"
+"Predica valores, pero vive de intereses",0,3bf4e359babb6bbc099030813d174823,1,"Predica valores, pero vive de intereses"
+Se presenta como obrero del pueblo y viaja en primera clase,0,38f695ef960fbc3bd5d2688155ae8da3,4,Se presenta como obrero del pueblo y viaja en primera clase
+"El Perú no está dormido, está despertando",3,6cd053351d6afccba86404f819c7de26,0,"El Perú no está dormido, está despertando"
+Somos más los que queremos construir y no destruir,3,bdcbaa214a94b35354c19f69d6113de8,1,Somos más los que queremos construir y no destruir
+Dice que defiende la justicia y acomoda leyes,0,280548f7a8db1f7adaf40c24a02e5255,0,Dice que defiende la justicia y acomoda leyes
+"[ADVERSARIO] creen que el país es su empresa, [PARTIDO] sabemos que es nuestra casa",1,af39d0ea761ec4061b06bacc900e9bc2,2,"[ADVERSARIO] creen que el país es su empresa, [PARTIDO] sabemos que es nuestra casa"
+Predica trabajo y pasa la mitad del tiempo en redes,0,062c1afc517e51af7c09fcab85c79280,2,Predica trabajo y pasa la mitad del tiempo en redes
+"[ADVERSARIO] se creen el Perú, [PARTIDO] lo habitamos",1,f5085fbf8819b66729d176ce0b4823cd,2,"[ADVERSARIO] se creen el Perú, [PARTIDO] lo habitamos"
+Siempre promete futuro y no sabe qué hacer con el presente,0,3ddec9f95981f31ec74cbe8f7e0dee8d,4,Siempre promete futuro y no sabe qué hacer con el presente
+"[PARTIDO] respiramos esfuerzo, [ADVERSARIO] exhalan impunidad",1,ad139b45547831b3f3f10648bf0c3aba,4,"[PARTIDO] respiramos esfuerzo, [ADVERSARIO] exhalan impunidad"
+"Creemos en un Perú justo, libre y solidario",3,efe0a910c68009ce4668fc179e8ce26f,3,"Creemos en un Perú justo, libre y solidario"
+"[ADVERSARIO] hablan de progreso, pero nunca pisaron un barrio popular",1,f174d1e1b6c37e4ec1b8d4358ced588e,4,"[ADVERSARIO] hablan de progreso, pero nunca pisaron un barrio popular"
+El 40 % de los colegios privados carece de supervisión pedagógica,2,8662c05a34a84565425c3a32779bc70d,3,El <PCT> de los colegios privados carece de supervisión pedagógica
+El 90 % de las clínicas privadas se concentra en cinco ciudades,2,dc8b29732cff0bb3ac15e4fda4648c66,3,El <PCT> de las clínicas privadas se concentra en cinco ciudades
+"Hoy el cambio no es una promesa, es una realidad",3,04732974280a448e9ca58901696fb4f3,0,"Hoy el cambio no es una promesa, es una realidad"
+El 70 % de los hogares de la selva carece de título de propiedad,2,cd3aab6c67e4dd3a2c83735884012063,0,El <PCT> de los hogares de la selva carece de título de propiedad
+Juntos construiremos el futuro que todos soñamos,3,293f20c0803264e5123f972f35fb1a08,0,Juntos construiremos el futuro que todos soñamos
+El 50 % de los pescadores artesanales depende de intermediarios,2,2cb3b60b5d4bec4798e019d6e1468311,0,El <PCT> de los pescadores artesanales depende de intermediarios
+"La grandeza del Perú está en su gente, no en sus gobiernos",3,d2e4917ccfa59ba0fd0f6c9a33873662,3,"La grandeza del Perú está en su gente, no en sus gobiernos"
+La unidad es el verdadero camino al futuro,3,438f9e076f0249b83e5480dc26ee6233,2,La unidad es el verdadero camino al futuro
+"[PARTIDO] vivimos la historia, [ADVERSARIO] la manipulan",1,c36d923259c0ed0e104e1c72a9bcd55c,0,"[PARTIDO] vivimos la historia, [ADVERSARIO] la manipulan"
+"[ADVERSARIO] piensan en elecciones, [PARTIDO] pensamos en sobrevivir",1,a34ed5c404dc1dfb54773274f26cbf85,2,"[ADVERSARIO] piensan en elecciones, [PARTIDO] pensamos en sobrevivir"
+"[ADVERSARIO] viajan en avión, [PARTIDO] esperamos el bus",1,72270f8d8e42b777e6c70a5f5558ae1a,1,"[ADVERSARIO] viajan en avión, [PARTIDO] esperamos el bus"
+Este es el inicio de una nueva era para todos,3,b60bd16d84949b0a6c29cb6eabd72013,4,Este es el inicio de una nueva era para todos
+Habla de lucha y solo aparece para la foto,0,50022dc87a125e6f67ce0bf6810f7c3c,4,Habla de lucha y solo aparece para la foto
+"Habla de unión, pero no puede unir ni a su partido",0,0e212707697a249dd6e7ea825987953f,0,"Habla de unión, pero no puede unir ni a su partido"
+El 45 % de las viviendas urbanas tiene filtraciones de agua,2,4a8b759decbd0e0da6c7ddd2ca801fa5,2,El <PCT> de las viviendas urbanas tiene filtraciones de agua
+El 60 % de las familias en zonas altoandinas vive bajo la línea de pobreza,2,61c494daf02e9796d61663d5aea7ce2f,1,El <PCT> de las familias en zonas altoandinas vive bajo la línea de pobreza
+Vamos a devolverle al Perú su grandeza,3,dd741d9b446b5638cbfe774074444633,0,Vamos a devolverle al Perú su grandeza
+El 50 % de los adolescentes rurales no accede a educación técnica,2,1b6fe780dc4d4744aa12bfd51670a56e,0,El <PCT> de los adolescentes rurales no accede a educación técnica
+El cambio llegó para quedarse,3,66b03c3a32e15557d94da2443dcb9756,0,El cambio llegó para quedarse
+"[ADVERSARIO] nos llaman radicales, [PARTIDO] les decimos hipócritas",1,496fcc3236ca17a40c06d489f99745c6,2,"[ADVERSARIO] nos llaman radicales, [PARTIDO] les decimos hipócritas"
+"[ADVERSARIO] miran hacia afuera, [PARTIDO] seguimos mirando hacia arriba",1,a48db51f7420d6ac29774ab88328f092,3,"[ADVERSARIO] miran hacia afuera, [PARTIDO] seguimos mirando hacia arriba"
+Promete justicia y protege a los suyos,0,908954ae53a7f076a1e4825fa9c31587,2,Promete justicia y protege a los suyos
+El 80 % de los proyectos mineros está concentrado en cinco regiones,2,86616c10dd0442b1db337f54aecd1578,4,El <PCT> de los proyectos mineros está concentrado en cinco regiones
+No hay marcha atrás cuando el corazón guía el camino,3,8c285b4877cdffd0559cc4f8966d0e57,3,No hay marcha atrás cuando el corazón guía el camino
+[ADVERSARIO] nos critican desde Lima no entienden lo que es vivir en el interior del país,0,7a3d56cba38e953cc8ba914e35aa1390,2,[ADVERSARIO] nos critican desde Lima no entienden lo que es vivir en el interior del país
+"[PARTIDO] decimos la verdad, [ADVERSARIO] maquillan el discurso",1,260a91ea9c9cb8b73ad12381e1872862,3,"[PARTIDO] decimos la verdad, [ADVERSARIO] maquillan el discurso"
+"[ADVERSARIO] hablan de democracia, [PARTIDO] la sostenemos cada día",1,dd4b7667881c642f7013f9997c28d39d,3,"[ADVERSARIO] hablan de democracia, [PARTIDO] la sostenemos cada día"
+El 60 % de los contratos estatales presenta irregularidades,2,6785dd4cc449325f861448af96d29460,3,El <PCT> de los contratos estatales presenta irregularidades
+"Quien desprecia al otro demuestra miedo, no liderazgo",0,0989c20ba975894e24fdf38db992040f,0,"Quien desprecia al otro demuestra miedo, no liderazgo"
+Habla de renovación y repite los mismos errores,0,1fa7794d35b1c65af3914f813d6abaa7,4,Habla de renovación y repite los mismos errores
+"Dice que ama al país, pero no paga impuestos aquí",0,7afba35bed4b33db0106ea83e29953c9,3,"Dice que ama al país, pero no paga impuestos aquí"
+"[ADVERSARIO] dicen “todos somos Perú”, pero nos tratan como si no lo fuéramos",1,684633029fe535c9f33b2c3e1152e590,3,"[ADVERSARIO] dicen “todos somos Perú”, pero nos tratan como si no lo fuéramos"
+Cada año se pierden más de 100 000 hectáreas de bosque por tala ilegal,2,14eb4eb6430a093835641abcea501739,4,Cada año se pierden más de <NUM> <NUM> hectáreas de bosque por tala ilegal
+Unidos lograremos lo que parecía imposible,3,27f277408bc6da182b60414e69c3d3ca,2,Unidos lograremos lo que parecía imposible
+Cada rincón del país será parte del cambio,3,3c691db2521ff6f510db94fb38657523,4,Cada rincón del país será parte del cambio
+Juntos levantaremos el orgullo nacional,3,f6cd5c6c2b95d380914a2f874c74d673,2,Juntos levantaremos el orgullo nacional
+Habla de dignidad y humilla a quien piensa distinto,0,f5bd1eb6811000637ca9d4a20a369af0,1,Habla de dignidad y humilla a quien piensa distinto
+Hoy escribimos la página más importante de nuestra historia,3,1b2ae784ca45a57b1aa8c8bac4603c47,2,Hoy escribimos la página más importante de nuestra historia
+"[PARTIDO] construimos país, [ADVERSARIO] lo administran como empresa",1,395ae7fe42bf58be09dcabbfc0496a43,2,"[PARTIDO] construimos país, [ADVERSARIO] lo administran como empresa"
+"El gasto en cultura representa menos del 0,1 % del presupuesto nacional",2,ec354703d6de10efd3d0c42daa37babd,4,El gasto en cultura representa menos del <PCT> del presupuesto nacional
+"El Perú no espera más, el Perú actúa",3,14d42f8151feb50e49b332b44b81724a,4,"El Perú no espera más, el Perú actúa"
+"[ADVERSARIO] temen perder privilegios, [PARTIDO] tememos perder el trabajo",1,cdc3fe6f6086a506a10b98002015f3bd,4,"[ADVERSARIO] temen perder privilegios, [PARTIDO] tememos perder el trabajo"
+"Habla de lucha, pero evita el conflicto cuando toca decidir",0,d4fe36dbf4e3a3ccdf50a03d2a3540c1,0,"Habla de lucha, pero evita el conflicto cuando toca decidir"
+"Se hace llamar líder, pero ni su bancada le obedece",0,e8f1c3069895199f1cefe09f683728ca,3,"Se hace llamar líder, pero ni su bancada le obedece"
+"Nuestra bandera será símbolo de unidad, no de división",3,34112e43a38f8065bbdd0d34431de4de,4,"Nuestra bandera será símbolo de unidad, no de división"
+El 40 % de las empresas peruanas opera sin registro formal,2,8b491083028fbda976ce070f19f16d5d,3,El <PCT> de las empresas peruanas opera sin registro formal
+El futuro nos pertenece si trabajamos juntos,3,a5cd0c2c3cdb8180ee9f1bcad3f24310,4,El futuro nos pertenece si trabajamos juntos
+Nadie podrá apagar la luz que llevamos dentro,3,929328995e733dfbc9ee26f2b6459320,3,Nadie podrá apagar la luz que llevamos dentro
+Promete orden y deja caos,0,9adf6092ce13516b3549b6b85d5bd7e4,2,Promete orden y deja caos
+"[ADVERSARIO] duermen tranquilos, [PARTIDO] soñamos con justicia",1,036c365e5259218b1d9631d257efd7c0,3,"[ADVERSARIO] duermen tranquilos, [PARTIDO] soñamos con justicia"
+"[PARTIDO] levantamos el país con trabajo, [ADVERSARIO] lo hunden con discursos",1,933139cd692558bd38c9150e3b5a7b4a,1,"[PARTIDO] levantamos el país con trabajo, [ADVERSARIO] lo hunden con discursos"
+El 90 % de los jóvenes en zonas rurales no accede a educación técnica,2,332a88ad16bdc191df077f676d23ac3e,1,El <PCT> de los jóvenes en zonas rurales no accede a educación técnica
+"[ADVERSARIO] miran las encuestas, [PARTIDO] miramos la olla",1,60775639a2be18120da93d3c32117e97,3,"[ADVERSARIO] miran las encuestas, [PARTIDO] miramos la olla"
+El cambio es una semilla que ya empezó a germinar,3,fa3ef34e2651f8e2e8d2b0b03a70e293,1,El cambio es una semilla que ya empezó a germinar
+"[ADVERSARIO] ven enemigos, [PARTIDO] vemos hermanos",1,83bb80028e935c28bd2ae698fbbed6b9,0,"[ADVERSARIO] ven enemigos, [PARTIDO] vemos hermanos"
+El 80 % de los hospitales del país carece de equipos de diagnóstico modernos,2,d33d6be596f2ebfaa5b14a7b6de2528d,4,El <PCT> de los hospitales del país carece de equipos de diagnóstico modernos
+"[ADVERSARIO] venden la patria, [PARTIDO] la trabajamos",1,e913d90e769b2e8dd2e88b5e58fdd23d,1,"[ADVERSARIO] venden la patria, [PARTIDO] la trabajamos"
+"Dice que sirve al pueblo, pero se sirve del cargo",0,bb683283e9934951da946e9a55265ee5,1,"Dice que sirve al pueblo, pero se sirve del cargo"
+Solo el 20 % de los hospitales cuenta con UCI equipada,2,3d813f396cc39a3c5fea9d5fc531eb7d,2,Solo el <PCT> de los hospitales cuenta con UCI equipada
+"[ADVERSARIO] tienen asesores, [PARTIDO] tenemos razones",1,d37fc873acc88cb09ac2101d9bc6999b,2,"[ADVERSARIO] tienen asesores, [PARTIDO] tenemos razones"
+El desempleo juvenil supera el 15 %,2,73c65c8da1e00d9c58483281d69e9807,2,El desempleo juvenil supera el <PCT>
+El 85 % de los usuarios de transporte público califica el servicio como deficiente,2,c36b405a2155a396bfaa2ff48d8926ca,3,El <PCT> de los usuarios de transporte público califica el servicio como deficiente
+Habla de moral y financia su campaña con favores,0,6a4a61867a3be84fd0d592ebc900ed91,4,Habla de moral y financia su campaña con favores
+"[ADVERSARIO] viven de discursos, [PARTIDO] de sacrificios",1,d99604debb3851f250b8aed23cfc7b42,4,"[ADVERSARIO] viven de discursos, [PARTIDO] de sacrificios"
+El 85 % de los programas sociales no tiene auditoría reciente,2,f679b4850ce9c967f7764202ce1e6d94,0,El <PCT> de los programas sociales no tiene auditoría reciente
+Hoy el país empieza a escribir una nueva página,3,ab740bb06f50465a14ac6448b4dee64f,1,Hoy el país empieza a escribir una nueva página
+El 25 % del presupuesto educativo se pierde en demoras burocráticas,2,d60ce4487667790396e91ef6caba0232,4,El <PCT> del presupuesto educativo se pierde en demoras burocráticas
+Más de la mitad de los municipios del país no rinde cuentas a tiempo,2,93d0d89d17ad1992e762dba683a20768,3,Más de la mitad de los municipios del país no rinde cuentas a tiempo
+Promete trabajo sin haber trabajado jamás,0,acbbb8c367a31d1e8d1a77505da1bcb4,0,Promete trabajo sin haber trabajado jamás
+Nada es más fuerte que la esperanza del pueblo,3,64fd0bb524968b704b94ee9e25d56208,0,Nada es más fuerte que la esperanza del pueblo
+Solo el 30 % de los programas sociales tiene evaluación de impacto,2,b8f422dfb223b5930ef17dd8d574e36f,4,Solo el <PCT> de los programas sociales tiene evaluación de impacto
+"[PARTIDO] hablamos con hechos, [ADVERSARIO] con promesas",1,3288ee7903c412293b415401b9fac6bd,1,"[PARTIDO] hablamos con hechos, [ADVERSARIO] con promesas"
+[PARTIDO] trabajamos todos los días; [ADVERSARIO] solo aparecen para pedir votos,1,4bb693b3dd234174d700104de0567aae,0,[PARTIDO] trabajamos todos los días; [ADVERSARIO] solo aparecen para pedir votos
+Nada nos detendrá porque el cambio ya empezó,3,f6f57d83f337621b9b5f329272d8a624,1,Nada nos detendrá porque el cambio ya empezó
+"Siempre que promete algo nuevo, termina repitiendo lo viejo",0,ae6b0e10d64fc86c95caead51fd8cf73,2,"Siempre que promete algo nuevo, termina repitiendo lo viejo"
+"Los tiempos mejores no se esperan, se construyen",3,395bee07a022b1223df396df1ed34610,0,"Los tiempos mejores no se esperan, se construyen"
+Con esperanza venceremos la adversidad,3,c0633fdeaa49b7b412cce78b5441a338,1,Con esperanza venceremos la adversidad
+Predica trabajo en equipo y gobierna como solista,0,baf7da47fde16b2a94251f61045a1014,4,Predica trabajo en equipo y gobierna como solista
+El futuro se construye con valentía y amor a la patria,3,54010010d8b8f288cc2c5fac3620d754,1,El futuro se construye con valentía y amor a la patria
+"[ADVERSARIO] celebran contratos, [PARTIDO] celebramos cosechas",1,5f59b90cdcf3b761eb75aa888a16b8cf,1,"[ADVERSARIO] celebran contratos, [PARTIDO] celebramos cosechas"
+"Dice que es distinto, pero actúa igual que todos",0,f842faba7fbeb1ceccb7b31fa4aa8994,2,"Dice que es distinto, pero actúa igual que todos"
+La esperanza es la bandera que nos une,3,1bbcd4bec28935fa321ac55a74228e2c,3,La esperanza es la bandera que nos une
+"[PARTIDO] defendemos la patria con trabajo, [ADVERSARIO] con discursos vacíos",1,9e9438beb93bc934399c3e1c65aa0e9b,3,"[PARTIDO] defendemos la patria con trabajo, [ADVERSARIO] con discursos vacíos"
+El pueblo peruano vuelve a levantar la cabeza,3,b75a9f8c6d0bc7fe30df59733df1a933,2,El pueblo peruano vuelve a levantar la cabeza
+La historia reconocerá a los que creyeron,3,8ad1fe8146fdf5757eaef796e97cfd8b,2,La historia reconocerá a los que creyeron
+"La esperanza no se elige, se siente",3,9a23835d56232de5d00a46e355dbfd1a,1,"La esperanza no se elige, se siente"
+"[ADVERSARIO] viven del Estado, [PARTIDO] lo sostenemos",1,7e7ddd8341f0863c87233efc6e95c291,0,"[ADVERSARIO] viven del Estado, [PARTIDO] lo sostenemos"
+Creer es el primer paso para transformar,3,91efc5e6aec46c64669e744bb97fa667,0,Creer es el primer paso para transformar
+El 80 % de las viviendas rurales usa techos de calamina o paja,2,4d10b8124e1b5162804336d476e5b325,3,El <PCT> de las viviendas rurales usa techos de calamina o paja
+Habla de unidad y despide a quien piensa distinto,0,5284cc948e10bfe607fd723517a36133,3,Habla de unidad y despide a quien piensa distinto
+El 30 % de las carreteras rurales está intransitable en temporada de lluvias,2,f3bfaa116b1afdf91d45ec6c42bb7644,2,El <PCT> de las carreteras rurales está intransitable en temporada de lluvias
+"[ADVERSARIO] miran el país desde arriba, [PARTIDO] lo vivimos desde abajo",1,5518508cefb7fd472e6e3767e282e3bb,4,"[ADVERSARIO] miran el país desde arriba, [PARTIDO] lo vivimos desde abajo"
+"El que promete salvar al país sin entenderlo, lo hunde más",0,f9f15ec966ee737e50a35e3dcc39aeec,2,"El que promete salvar al país sin entenderlo, lo hunde más"
+Este es el inicio de una nueva historia de esperanza,3,ddb2f65a4ab476f0663239ab25abbb3c,1,Este es el inicio de una nueva historia de esperanza
+Promete justicia y negocia impunidad,0,87ef788c77f7a47f6d6e2aa6d403f072,2,Promete justicia y negocia impunidad
+La fuerza del cambio nace del alma del Perú,3,66b1678b4a63101db9837eaffbd07832,1,La fuerza del cambio nace del alma del Perú
+Juntos levantaremos la patria del olvido,3,256185f6942268a17e2bdc0d2ca5abbe,4,Juntos levantaremos la patria del olvido
+"Promete cambio, pero mantiene los mismos vicios",0,ab5d8421ca374de9e6290343f824456d,0,"Promete cambio, pero mantiene los mismos vicios"
+La historia está esperando nuestra mejor versión,3,e2410a53daf66c29fccacde1f012cd8f,2,La historia está esperando nuestra mejor versión
+Se disfraza de obrero para ganar votos,0,507ae9a54d9fc6c8e81335da215e0b7a,0,Se disfraza de obrero para ganar votos
+El consumo de energía eléctrica por persona creció un 5 % en la última década,2,e18e0f3229f87577d6e529e3bf451f24,0,El consumo de energía eléctrica por persona creció un <PCT> en la última década
+Habla de lucha contra la corrupción y tiene amigos en prisión,0,eb434e9b3b168d95a1b1d26ad8f424ec,0,Habla de lucha contra la corrupción y tiene amigos en prisión
+El 25 % del territorio nacional presenta riesgo sísmico alto,2,b46c043038b5e95b511f0131bb685967,4,El <PCT> del territorio nacional presenta riesgo sísmico alto
+"Quien usa al pueblo como escudo no defiende causas, defiende intereses",0,d72c703773868aa3fabbad3bcbad3428,1,"Quien usa al pueblo como escudo no defiende causas, defiende intereses"
+"Habla de pueblo, pero no sabe lo que cuesta un pasaje en combi",0,bde3700f4041f8aa26c5375dcb2db81f,0,"Habla de pueblo, pero no sabe lo que cuesta un pasaje en combi"
+"Nada nos divide, porque todos somos Perú",3,46aeb7dc69575d1e343634547910365d,0,"Nada nos divide, porque todos somos Perú"
+"[PARTIDO] nos levantamos temprano, [ADVERSARIO] se levantan para la foto",1,f73fe79a9224b5f6f6aa241178c0b43b,4,"[PARTIDO] nos levantamos temprano, [ADVERSARIO] se levantan para la foto"
+El país que soñamos está más cerca que nunca,3,8c14da86e32770707ee690920daf4b5c,0,El país que soñamos está más cerca que nunca
+"Dice ser independiente, pero obedece órdenes del poder económico",0,b743ae9909948fa3874a5a3c49e707c8,1,"Dice ser independiente, pero obedece órdenes del poder económico"

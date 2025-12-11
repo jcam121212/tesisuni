@@ -1,0 +1,794 @@
+text,labels
+Habla de verdad y solo cuenta su parte,0
+La fuerza del pueblo es más fuerte que cualquier crisis,3
+Más del 60 % de los empleos creados en pandemia fueron informales,2
+No hay fuerza más grande que la esperanza,3
+Se llena la boca de patria y vacía los bolsillos del Estado,0
+El sol volverá a brillar sobre nuestra tierra,3
+"Dice que ama al país, pero lo ve como un negocio familiar",0
+"Se dice ejemplo, pero su historia está llena de sombras",0
+"Con fe, trabajo y amor lograremos lo que soñamos",3
+El país que soñamos depende de cada uno de [PARTIDO],3
+[POLÍTICO] político solo se indigna cuando le conviene,0
+"Se presenta como humilde, pero desprecia a los demás",0
+"[ADVERSARIO] viven del privilegio, [PARTIDO] vivimos de la esperanza",1
+"[PARTIDO] somos mayoría, [ADVERSARIO] son ruido",1
+"[ADVERSARIO] confunden crítica con traición, [PARTIDO] sabemos que es deber",1
+Habla de libertad y censura a sus críticos,0
+"Promete educación, pero no lee ni los informes",0
+"Las cifras de desnutrición infantil se redujeron en 3 puntos, pero aún son alarmantes",2
+El 70 % de las regiones no cumple metas ambientales,2
+"El PBI del país creció 2,5 % durante el último trimestre",2
+El acceso a internet rural apenas cubre el 25 % de los hogares,2
+El índice de confianza en las instituciones cayó por quinto año consecutivo,2
+"[ADVERSARIO] dividen regiones, [PARTIDO] unimos corazones",1
+"[ADVERSARIO] nos llaman revoltosos, [PARTIDO] nos llamamos ciudadanos",1
+El 80 % de los trabajadores agrícolas no tiene contrato,2
+Más del 30 % de los escolares rurales no tiene acceso a materiales digitales,2
+"El déficit fiscal se redujo al 2,1 % del PBI en el último año",2
+La inversión pública regional cayó 14 % respecto al año anterior,2
+El 40 % de las familias peruanas vive sin acceso a alcantarillado,2
+"[ADVERSARIO] nos llaman resentidos, [PARTIDO] los llamamos responsables",1
+La contaminación del aire en Lima excede tres veces los límites de la OMS,2
+El 50 % de los conflictos sociales está relacionado con minería,2
+"[ADVERSARIO] viven de los impuestos, [PARTIDO] los pagamos",1
+"Habla como si fuera el salvador del país, pero no salvó ni su empresa",0
+El 70 % de los municipios no cuenta con planta de reciclaje,2
+¿Cómo va a hablar de justicia alguien que nunca pisó un juzgado?,0
+Promete eficiencia y culpa al pasado de su incompetencia,0
+Uno de cada tres jóvenes no estudia ni trabaja,2
+El 80 % de las viviendas informales no cumple normas de seguridad,2
+El 25 % del gas natural producido se desperdicia por fugas,2
+El Perú que soñamos está más cerca que nunca,3
+"Porque el Perú no se rinde, el Perú se levanta",3
+Nada podrá detener la voluntad del pueblo,3
+"[ADVERSARIO] celebran, [PARTIDO] seguimos luchando",1
+La esperanza de vida en zonas rurales es cinco años menor que en Lima,2
+Hoy empieza una nueva etapa de transformación,3
+Habla de unidad nacional y no puede unir a su equipo,0
+El 90 % de las cárceles del país está en estado de hacinamiento,2
+Este es el momento de transformar la historia,3
+No hay montaña tan alta cuando la voluntad es firme,3
+"[ADVERSARIO] viven del pasado, [PARTIDO] soñamos el futuro",1
+Ha llegado la hora de creer otra vez,3
+Nada puede detener la voluntad de un pueblo,3
+[POLÍTICO] político cambia de discurso como de corbata,0
+"[PARTIDO] producimos riqueza, [ADVERSARIO] la esconden",1
+"[ADVERSARIO] destruyen el país con decretos, [PARTIDO] lo construimos con trabajo",1
+Solo una de cada cuatro municipalidades tiene plan de seguridad ciudadana,2
+El Perú será lo que su pueblo quiera que sea,3
+Promete meritocracia y coloca a sus amigos,0
+El 30 % de las universidades no cuenta con docentes a tiempo completo,2
+Hoy es el momento de volver a empezar,3
+"Nuestro destino es grande, porque grande es nuestra gente",3
+"Unidos, nada ni nadie podrá detenernos",3
+"[ADVERSARIO] tienen poder, [PARTIDO] tenemos dignidad",1
+"[ADVERSARIO] se visten de pueblo, [PARTIDO] lo somos",1
+"Predica esperanza, pero actúa con miedo",0
+"[ADVERSARIO] se creen dueños del país, [PARTIDO] lo mantenemos vivo",1
+Nuestra unión será la semilla del futuro,3
+La esperanza iluminará nuestro camino,3
+"[POLÍTICO] político no debate, solo ataca",0
+Predica humildad con chofer y escolta,0
+El 80 % de los gobiernos locales cambia su personal técnico cada gestión,2
+"[ADVERSARIO] mandan al pueblo a marchar, pero nunca marchan con él",1
+El 90 % de los mercados municipales opera sin control sanitario,2
+Cada peruano es protagonista del cambio,3
+El precio de los alimentos subió un 10 % en los últimos doce meses,2
+"El pueblo peruano nunca se rinde, siempre avanza",3
+"[ADVERSARIO] viven de promesas, [PARTIDO] de esfuerzo",1
+El Perú será ejemplo de transformación,3
+El 70 % de las familias rurales produce para autoconsumo,2
+"[PARTIDO] trabajamos la tierra, [ADVERSARIO] trabajan el poder",1
+El 80 % de las universidades privadas no cumple estándares de investigación,2
+Promete honestidad y miente en su hoja de vida,0
+El consumo de gas natural se concentra en Lima y Callao,2
+Nos une el amor por la tierra y la justicia,3
+El 75 % de las familias urbanas usa transporte informal,2
+El 90 % de los contratos con el Estado no tiene supervisión ciudadana,2
+"[ADVERSARIO] hablan de futuro, [PARTIDO] luchamos por llegar a fin de mes",1
+"Dice que respeta las leyes, pero las usa como escudo",0
+"Nuestra lucha es por amor, no por poder",3
+Ha llegado el amanecer de un nuevo Perú,3
+Somos el eco de una generación que no se rinde,3
+El 60 % de los municipios provinciales tiene déficit presupuestal,2
+Habla de inclusión y excluye a quien no le aplaude,0
+"[ADVERSARIO] tienen siglas, [PARTIDO] tenemos pueblo",1
+El 80 % de las empresas familiares no sobrevive más de cinco años,2
+"[ADVERSARIO] hablan de progreso, [PARTIDO] seguimos sin agua",1
+Hoy el Perú renace con más fuerza que nunca,3
+"Predica democracia, pero actúa como caudillo",0
+El que no ha producido nada cree que puede administrar un país,0
+Habla de moral como si fuera dueño de ella,0
+"[ADVERSARIO] roban, [PARTIDO] trabajamos",1
+Habla de igualdad y solo contrata a sus familiares,0
+El 45 % de los contratos laborales no se formaliza,2
+El 20 % de los jóvenes con título universitario está desempleado,2
+El 45 % de las universidades carece de laboratorios equipados,2
+"[ADVERSARIO] diseñan políticas, [PARTIDO] diseñamos estrategias para sobrevivir",1
+"[ADVERSARIO] ven cifras, [PARTIDO] vemos hambre",1
+La voz del pueblo es más fuerte que cualquier obstáculo,3
+Habla de patria y firma contratos extranjeros,0
+Juntos construiremos un país sin miedo y con fe,3
+"[PARTIDO] resistimos, [ADVERSARIO] especulan",1
+"[ADVERSARIO] viajan en caravanas, [PARTIDO] en combis llenas de sueños",1
+"[PARTIDO] caminamos bajo el sol, [ADVERSARIO] bajo el privilegio",1
+"El pueblo ha hablado, y su voz es la voz de la historia",3
+El Perú merece más y vamos a dárselo,3
+"El que se cree salvador busca poder, no justicia",0
+"[PARTIDO] sembramos, [ADVERSARIO] se llevan la cosecha",1
+El 70 % de los colegios públicos carece de bibliotecas,2
+El 80 % de los pescadores artesanales no tiene seguro de salud,2
+Predica transparencia con contratos bajo la mesa,0
+Ha llegado la hora de la renovación total,3
+"[ADVERSARIO] viajan al extranjero, [PARTIDO] seguimos arreglando lo nuestro",1
+"Promete transparencia, pero bloquea preguntas",0
+Promete meritocracia y premia la lealtad ciega,0
+Seremos ejemplo de cambio para el mundo,3
+Dice que ama la cultura y recorta su presupuesto,0
+"Habla de igualdad, pero vive en privilegio",0
+El país pierde más de 20 000 millones de soles al año por corrupción,2
+"El Perú merece líderes que crean, no que duden",3
+"Dice que gobierna para todos, pero escucha a unos pocos",0
+"[ADVERSARIO] levantan muros, [PARTIDO] abrimos caminos",1
+El Perú está listo para su gran transformación,3
+"[ADVERSARIO] escriben leyes para protegerse, [PARTIDO] para sobrevivir",1
+"[ADVERSARIO] se reparten el país, [PARTIDO] lo defendemos",1
+Ha llegado la hora de unir esfuerzos,3
+Somos una sola familia con un mismo destino,3
+"Dice que viene del pueblo, pero no vuelve a visitarlo",0
+La patria late en el corazón de cada peruano,3
+El 35 % de los egresados universitarios trabaja fuera de su especialidad,2
+"[PARTIDO] levantamos escuelas, [ADVERSARIO] levantan muros",1
+"[PARTIDO] ponemos la fuerza, [ADVERSARIO] se llevan el crédito",1
+El 60 % de los docentes rurales enseña en aulas multigrado,2
+La mitad de los jóvenes rurales deja el colegio por falta de transporte,2
+"[ADVERSARIO] se reparten los cargos, [PARTIDO] los problemas",1
+"Siempre busca culpables, jamás soluciones",0
+El que no cumple en su casa no cumplirá en el gobierno,0
+"[ADVERSARIO] planifican campañas, [PARTIDO] planeamos sobrevivir",1
+El Perú será ejemplo de esperanza para el mundo,3
+El 90 % de los residuos plásticos termina en botaderos informales,2
+Habla de ética y no puede sostener su mirada,0
+Con amor a la patria todo se puede,3
+El Perú volverá a ser ejemplo de fuerza y dignidad,3
+"Critica a todos, pero no soporta una crítica",0
+El número de microcréditos rurales aumentó en 15 %,2
+"[ADVERSARIO] viven en sus oficinas con aire acondicionado, [PARTIDO] seguimos esperando agua en los cerros",1
+La esperanza es el camino hacia el progreso,3
+El 80 % de las pequeñas empresas carece de seguro de salud para sus empleados,2
+"El Perú nos necesita unidos, no divididos",3
+"[ADVERSARIO] tienen apellido, [PARTIDO] tenemos historia",1
+Habla de transparencia y borra los informes incómodos,0
+"[ADVERSARIO] se reparten ministerios, [PARTIDO] nos repartimos lo poco que hay",1
+Dice que respeta la ley y la acomoda a su favor,0
+"El Perú no se detiene, el Perú avanza",3
+El que promete honestidad debería empezar por revisar sus contratos,0
+"Dice que escucha al pueblo, pero solo oye los aplausos",0
+"[PARTIDO] no tenemos padrinos, [ADVERSARIO] los tienen en cada ministerio",1
+"[ADVERSARIO] prometen justicia, [PARTIDO] la buscamos",1
+"[ADVERSARIO] se esconden tras discursos, [PARTIDO] damos la cara",1
+Las regiones amazónicas aportan el 30 % del agua dulce del país,2
+Somos la semilla del nuevo tiempo,3
+"[ADVERSARIO] compran silencio, [PARTIDO] gritamos verdad",1
+El 15 % de los hospitales regionales funciona sin especialistas,2
+[POLÍTICO] congresista cree que gritar más fuerte lo hace tener razón,0
+El 60 % de los programas de vivienda social no llega a su público objetivo,2
+Predica unidad y genera conflicto,0
+"El Perú no se vende, el Perú se defiende con esperanza",3
+"[ADVERSARIO] hablan de desarrollo, [PARTIDO] seguimos sin luz",1
+"[ADVERSARIO] viven de la política, [PARTIDO] vivimos con política",1
+"El cambio no tiene color ni partido, tiene propósito",3
+El 20 % del presupuesto educativo se gasta en mantenimiento de locales antiguos,2
+Somos la generación que va a transformar el destino,3
+"Promete meritocracia, pero solo ascienden sus amigos",0
+El que ataca al periodista teme a la verdad,0
+"[POLÍTICO] político quiere el poder, no el progreso",0
+El Perú tiene la fuerza para reinventarse,3
+El que confunde autoridad con prepotencia no puede gobernar,0
+El promedio de lectura nacional es de solo tres libros por persona al año,2
+"[ADVERSARIO] creen que el Perú es Lima, [PARTIDO] sabemos que el Perú es mucho más",1
+"[ADVERSARIO] celebran, [PARTIDO] seguimos trabajando",1
+Somos hijos del mismo suelo y herederos del mismo sueño,3
+El 40 % del presupuesto de inversión se ejecuta en los últimos tres meses del año,2
+El Perú avanza con la fuerza de su gente,3
+"Habla de moral, pero no puede explicar de qué ha vivido los últimos años",0
+Promete revolución y gobierna con los mismos de siempre,0
+"[ADVERSARIO] llaman desarrollo a destruir montañas, [PARTIDO] lo llamamos saqueo",1
+Los peruanos sabemos renacer de las dificultades,3
+"[ADVERSARIO] viven en zonas exclusivas, [PARTIDO] en zonas olvidadas",1
+Predica coraje y huye cuando se complica,0
+Hoy empezamos una nueva etapa con fe y esperanza,3
+Dice que representa al pueblo y vive rodeado de millonarios,0
+"Dice ser del pueblo, pero su acento cambia cuando viaja",0
+El 70 % de los universitarios considera migrar por falta de oportunidades,2
+Cada peruano es parte de este nuevo comienzo,3
+"[ADVERSARIO] prometen cambio, [PARTIDO] ya lo empezamos",1
+El 80 % de las compras estatales no tiene control concurrente,2
+Ha llegado la hora de construir con fe,3
+Promete limpiar la política con las manos sucias,0
+El pueblo es la verdadera fuerza del país,3
+El 90 % de los residuos hospitalarios no se trata correctamente,2
+"[ADVERSARIO] confunden riqueza con progreso, [PARTIDO] sabemos que el valor está en la gente",1
+El transporte público en Lima pierde más de 4 horas diarias por congestión,2
+"Nuestro sueño no termina, recién comienza",3
+El 30 % del transporte interprovincial carece de revisión técnica,2
+El 30 % de las mujeres en zonas rurales da a luz sin atención médica,2
+El 90 % de las empresas pequeñas no exporta sus productos,2
+Vamos a recuperar la confianza en [PARTIDO] mismos,3
+"El Perú no se apaga, el Perú brilla con su gente",3
+La esperanza es el motor que nos mueve hacia adelante,3
+El Perú está despertando hacia un nuevo amanecer,3
+Somos un pueblo que siempre se levanta,3
+Los que hoy dan lecciones fueron los primeros en robarle al país,0
+"Predica humildad, pero vive de la adulación",0
+El número de becas universitarias aumentó un 12 % durante el último quinquenio,2
+"Habla de futuro, pero su pensamiento está anclado en el pasado",0
+Nuestro compromiso es con la historia y con la patria,3
+El 90 % de las comunidades nativas no tiene sistema de saneamiento,2
+"[ADVERSARIO] discuten poder, [PARTIDO] discutimos pan",1
+"Dice que ama la democracia, pero gobierna con decretos",0
+"[PARTIDO] cumplimos las leyes, [ADVERSARIO] las escriben a su medida",1
+"Dice que defiende al pueblo, pero teme al pueblo",0
+El 80 % de los pescadores artesanales trabaja sin seguro,2
+El 20 % de las familias peruanas vive en situación de hacinamiento,2
+"Dice que lucha por el cambio, pero teme perder el poder",0
+"[ADVERSARIO] nos llaman revoltosos, [PARTIDO] nos llamamos conscientes",1
+"[ADVERSARIO] aplauden desde el palco, [PARTIDO] sudamos en la cancha",1
+"[ADVERSARIO] exigen respeto, [PARTIDO] lo ganamos trabajando",1
+El Perú volverá a ponerse de pie,3
+El Perú no se detiene ante las dificultades,3
+La fuerza del cambio está en el alma de nuestra gente,3
+No se puede confiar en alguien que solo aparece en campaña,0
+"Dice que representa al cambio, pero teme perder privilegios",0
+El 45 % de los hogares rurales cocina con leña,2
+La fe en el pueblo es la base de nuestro futuro,3
+"[PARTIDO] damos la cara, [ADVERSARIO] ponen portavoces",1
+"[ADVERSARIO] heredan privilegios, [PARTIDO] merecemos oportunidades",1
+El 75 % de las escuelas no cuenta con acceso a internet estable,2
+La informalidad tributaria genera pérdidas de más de 30 000 millones de soles,2
+Nuestra fuerza está en la unidad,3
+El 60 % de las viviendas rurales carece de título de propiedad,2
+"[ADVERSARIO] duermen tranquilos, [PARTIDO] no dormimos por miedo",1
+Cada esfuerzo cuenta en la construcción del futuro,3
+"[ADVERSARIO] escriben discursos, [PARTIDO] escribimos historia",1
+"Predica humildad, pero cobra privilegios",0
+"[ADVERSARIO] compran la verdad, [PARTIDO] la gritamos sin micrófono",1
+El 70 % de los funcionarios públicos no tiene evaluación de desempeño,2
+Predica modernidad y gobierna con viejas mañas,0
+"Dice que no es político, pero vive de la política",0
+"Predica respeto, pero grita cuando no lo obedecen",0
+"La esperanza no se apaga, se multiplica",3
+El 55 % del agua potable se distribuye sin tratamiento adecuado,2
+El 70 % de los peruanos siente inseguridad al caminar de noche,2
+"Nuestra misión es grande, pero nuestra fe es más grande aún",3
+Habla de honestidad con cuentas en paraísos fiscales,0
+"[ADVERSARIO] destruyen puentes, [PARTIDO] los construimos",1
+"La victoria será del pueblo, porque el pueblo nunca se rinde",3
+"En 2024, las exportaciones mineras representaron el 60 % del total nacional",2
+"Somos un país de trabajo, no de excusas",3
+"[POLÍTICO] candidato solo sabe hablar, pero nunca ha trabajado en su vida",0
+El pueblo ha despertado y ya no volverá a dormir,3
+"[ADVERSARIO] celebran sus victorias, [PARTIDO] pagamos sus derrotas",1
+"En la sierra, la mortalidad materna duplica la tasa nacional",2
+El 40 % de los peruanos desconfía del sistema judicial,2
+La fe nos guiará hacia un nuevo amanecer,3
+Nadie podrá detener la fuerza de un pueblo unido,3
+"Predica coraje, pero tiembla ante el poder real",0
+"Se indigna por corrupción ajena, pero la suya la llama “error administrativo”",0
+El 25 % de los estudiantes universitarios abandona por falta de recursos,2
+Hoy comienza el tiempo del pueblo,3
+Se hace llamar revolucionario y vive del sistema,0
+"[ADVERSARIO] temen perder elecciones, [PARTIDO] tememos perder derechos",1
+El Perú renace con la fuerza de su gente,3
+"[PARTIDO] resistimos, [ADVERSARIO] se justifican",1
+Se presenta como víctima para esconder sus fracasos,0
+Juntos derrotaremos la indiferencia,3
+Nuestra historia está marcada por la esperanza,3
+Somos la voz de los que nunca fueron escuchados,3
+"Dice que no roba, pero “se equivoca” al declarar",0
+El Perú será la patria que siempre soñamos,3
+El 20 % de los peruanos mayores de 60 años vive solo,2
+Critica la improvisación y gobierna improvisando,0
+Creer en el Perú es creer en [PARTIDO] mismos,3
+Predica patriotismo y se va del país cuando hay crisis,0
+"Se presenta como independiente, pero depende de los financistas de siempre",0
+Más del 70 % de los incendios forestales son provocados por el hombre,2
+Habla de patria y no sabe su himno completo,0
+"[PARTIDO] sentimos la crisis, [ADVERSARIO] la comentan desde sus despachos",1
+Habla de justicia y se rodea de jueces amigos,0
+"Hoy más que nunca, el cambio es posible",3
+Habla de trabajo y vive del Estado,0
+El que se cree estadista no puede ni manejar su propia familia política,0
+El 40 % del agua utilizada en agricultura se desperdicia,2
+Hoy empieza el futuro que tanto soñamos,3
+El 65 % de los hogares rurales cocina con biomasa,2
+"[ADVERSARIO] miden el éxito con dinero, [PARTIDO] con dignidad",1
+Habla de moral y su pasado es un escándalo,0
+"[ADVERSARIO] viven del miedo, [PARTIDO] de la esperanza",1
+"Promete cambio, pero teme al verdadero cambio",0
+Predica paz y siembra discordia,0
+Somos el presente que construye el futuro,3
+El 60 % de las mujeres rurales trabaja sin remuneración,2
+"Promete cambio, pero mantiene a los mismos corruptos",0
+"[ADVERSARIO] viven del miedo, [PARTIDO] del valor",1
+Habla de derechos y olvida los deberes,0
+No puedes creerle a quien promete justicia y vive de la impunidad,0
+"El que habla de ética, pero su campaña está llena de favores",0
+La mitad de los peruanos considera que la democracia no funciona,2
+Habla de austeridad y gasta millones en propaganda,0
+El pueblo peruano es invencible cuando se une,3
+No se puede confiar en quien cambia de opinión según la encuesta,0
+El 70 % de las muertes en carretera se debe a imprudencia del conductor,2
+El 60 % de los contratos mineros tiene más de diez años sin revisión,2
+"[ADVERSARIO] tienen abogados, [PARTIDO] tenemos conciencia",1
+"El cambio no depende de unos pocos, sino de todos",3
+No se puede confiar en quien usa la religión para ganar votos,0
+La esperanza del pueblo será eterna,3
+El 30 % de los médicos labora en condiciones precarias,2
+"[ADVERSARIO] reparten licitaciones, [PARTIDO] compartimos ollas comunes",1
+Cada peruano es una llama encendida en el corazón de la nación,3
+El 20 % de las exportaciones peruanas son no tradicionales,2
+"[ADVERSARIO] hablan de meritocracia, [PARTIDO] seguimos esperando justicia",1
+Cada día se denuncian más de 300 casos de violencia familiar,2
+"[ADVERSARIO] miran cifras, [PARTIDO] miramos rostros",1
+Promete transparencia y ni siquiera publica su hoja de vida completa,0
+"[ADVERSARIO] hablan del pueblo, pero no viven con él",1
+"[ADVERSARIO] prometen unión, [PARTIDO] la practicamos",1
+"[ADVERSARIO] nos llaman ignorantes, [PARTIDO] los llamamos desconectados",1
+"Siempre culpa a los demás, nunca asume sus errores",0
+La historia se escribe con valentía y amor,3
+"Somos un solo pueblo, una sola fuerza, un solo corazón",3
+"No prometemos milagros, prometemos esperanza",3
+"El futuro no se espera, se construye con esperanza",3
+Nada es imposible para quien ama su país,3
+"No importa de dónde vengas, todos tenemos un mismo sueño",3
+"Siempre grita “cambio”, pero vive del mismo sistema que dice combatir",0
+Promete progreso y paraliza obras,0
+"El cambio no tiene color, tiene corazón",3
+"[ADVERSARIO] esconden sus errores, [PARTIDO] cargamos sus consecuencias",1
+"Dice que defiende a los humildes, pero vive en lujo",0
+Más del 40 % de los congresistas no tiene experiencia en gestión pública,2
+El 50 % de las obras paralizadas pertenece a gobiernos locales,2
+Somos la llama encendida del nuevo tiempo,3
+"En regiones andinas, la pobreza extrema duplica la media nacional",2
+El 50 % de las denuncias por acoso laboral no se investiga,2
+El 50 % de las carreteras del país se encuentra en mal estado,2
+Predica modernidad con ideas de hace 50 años,0
+La pobreza monetaria afecta a más de seis millones de personas,2
+El 40 % de los agricultores no accede a asistencia técnica,2
+Dice que es técnico y no sabe leer un balance,0
+"Predica humildad, pero exige tratos de rey",0
+La inversión extranjera directa cayó 9 % durante el primer semestre,2
+"[ADVERSARIO] venden patria, [PARTIDO] defendemos dignidad",1
+El 75 % de los policías no recibe capacitación anual,2
+Cada paso que damos nos acerca al mañana,3
+Los tiempos de oscuridad quedaron atrás,3
+Dice ser nuevo rostro y repite las mismas mañas,0
+Habla de austeridad con reloj de oro,0
+El 40 % de los policías carece de entrenamiento en derechos humanos,2
+"El que critica la corrupción, pero calla cuando le conviene",0
+"Se indigna cuando lo critican, pero vive criticando a todos",0
+"El Perú no retrocede, el Perú avanza",3
+"[ADVERSARIO] viven de privilegios, [PARTIDO] de sacrificios",1
+Nada puede vencer a un pueblo que sueña,3
+Quien promete servir al pueblo y vive de sus impuestos,0
+"[PARTIDO] nacimos en el esfuerzo, [ADVERSARIO] en el privilegio",1
+"Dice que todo cambiará, pero nunca cambia él",0
+Nada podrá detener el camino de la esperanza,3
+"[ADVERSARIO] inventan enemigos, [PARTIDO] enfrentamos la verdad",1
+"[PARTIDO] sostenemos el país, [ADVERSARIO] sostienen su imagen",1
+La productividad agrícola cayó un 7 % por falta de infraestructura de riego,2
+El 50 % de los peruanos vive en distritos sin áreas verdes suficientes,2
+Solo tres de cada diez hospitales cuentan con personal de emergencia completo,2
+"Dice que lucha contra el poder, pero cena con los poderosos",0
+La historia nos mira y no la vamos a defraudar,3
+"El gasto en investigación científica es menor al 0,2 % del PBI",2
+"Dice que representa la nueva política, pero tiene los mismos vicios",0
+Con esperanza venceremos el miedo,3
+"Dice que no miente, pero sus palabras cambian cada semana",0
+"[ADVERSARIO] almuerzan en el Club Nacional, [PARTIDO] cocinamos con leña",1
+"[ADVERSARIO] aplauden la desigualdad, [PARTIDO] exigimos justicia",1
+El 35 % de los jóvenes con estudios superiores trabaja en algo distinto a su carrera,2
+"[PARTIDO] cargamos el país en la espalda, [ADVERSARIO] cargan sus privilegios",1
+"El Perú no se detiene, el Perú se levanta",3
+Somos la voz del cambio que viene desde abajo,3
+Ha llegado la hora de la unidad verdadera,3
+"[ADVERSARIO] temen perder poder, [PARTIDO] tememos perder esperanza",1
+"[ADVERSARIO] heredan poder, [PARTIDO] heredamos lucha",1
+Solo el 20 % de las municipalidades tiene página web actualizada,2
+"Habla de cambio, pero teme perder su silla",0
+Nada está perdido cuando hay voluntad de cambio,3
+El 80 % de los jóvenes rurales trabaja en el sector agrícola,2
+"[PARTIDO] perdonamos, [ADVERSARIO] repiten los mismos errores",1
+"[ADVERSARIO] firman pactos, [PARTIDO] cumplimos promesas",1
+El 70 % de los pacientes espera más de un mes por atención médica,2
+"El cambio no se impone, se contagia",3
+"[ADVERSARIO] deciden desde Lima, [PARTIDO] resistimos en los pueblos olvidados",1
+"El cambio no se promete, se siente en el corazón del pueblo",3
+El 75 % de las familias peruanas no tiene ahorros de emergencia,2
+El que no sabe escuchar al pueblo no merece representarlo,0
+[POLÍTICO] congresista cambió de partido más veces que de ideas,0
+"[ADVERSARIO] cambian de discurso, [PARTIDO] mantenemos el mismo sueño",1
+Nuestro destino está en nuestras manos y en nuestra fe,3
+El 70 % de los policías gana menos de 2000 soles,2
+"[ADVERSARIO] dicen que representan al pueblo, pero no saben cuánto cuesta el pan",1
+[ADVERSARIO] llaman rebeldía a pedir justicia,1
+Habla de honestidad y firma contratos millonarios sin licitación,0
+Promete justicia y encubre aliados,0
+"Dice que no roba, pero “se equivoca” con el presupuesto",0
+"[ADVERSARIO] escriben leyes, [PARTIDO] escribimos historia con el cuerpo",1
+[POLÍTICO] candidato confunde gritar con tener argumentos,0
+Juntos construiremos un país lleno de oportunidades,3
+"[ADVERSARIO] reparten privilegios, [PARTIDO] compartimos esperanza",1
+El cambio está en el aire y nadie podrá frenarlo,3
+El 40 % de los delitos denunciados no llega a sentencia,2
+"[PARTIDO] vivimos de promesas incumplidas, [ADVERSARIO] viven de los impuestos",1
+"Dice que ama la verdad, pero fabrica encuestas",0
+El ingreso promedio nacional se mantiene por debajo de los niveles pre pandemia,2
+"[POLÍTICO] político no escucha, solo espera su turno para hablar",0
+La contaminación del río Rímac supera 10 veces los límites permitidos,2
+"El que dice servir al país, pero solo busca aplausos",0
+"Nuestro compromiso es con el pueblo, con su dignidad y su grandeza",3
+"[ADVERSARIO] dictan leyes, [PARTIDO] las padecemos",1
+La esperanza será nuestra guía en este camino,3
+"Quien no respeta el debate, no entiende la democracia",0
+"El futuro empieza hoy, no mañana",3
+Predica servicio y exige obediencia,0
+"Predica igualdad, pero impone jerarquías",0
+La fuerza del pueblo moverá las montañas del pasado,3
+Promete educación y no sabe conjugar verbos,0
+"Habla de progreso, pero destruye lo que ya funcionaba",0
+Creer es nuestro mayor acto de revolución,3
+El 35 % de los docentes enseña fuera de su especialidad,2
+"El que dice amar la patria y desprecia a los pobres, miente",0
+El 90 % de los pueblos de la selva no tiene cobertura móvil estable,2
+"[ADVERSARIO] reparten culpas, [PARTIDO] buscamos soluciones",1
+La unión es la base del futuro que soñamos,3
+Los tiempos difíciles nos hicieron más fuertes,3
+"Se llama patriota, pero no soporta pisar tierra fuera de la capital",0
+El Perú será lo que el pueblo decida ser,3
+"[ADVERSARIO] ven números, [PARTIDO] vemos nombres",1
+"[ADVERSARIO] levantan torres, [PARTIDO] levantamos familias",1
+"[PARTIDO] seguimos firmes, [ADVERSARIO] siguen mintiendo",1
+"El Perú no se rinde, el Perú se levanta una y otra vez",3
+El 25 % del agua tratada se pierde por fugas en redes viejas,2
+Hoy empieza el tiempo del pueblo,3
+El Perú se levantará como el cóndor que renace de sus cenizas,3
+Habla de dignidad con la cabeza agachada ante el poder,0
+"Dice que es nuevo, pero su pasado lo contradice",0
+"[ADVERSARIO] mandan con el bolsillo, [PARTIDO] con el corazón",1
+[POLÍTICO] político vive más en televisión que en el Congreso,0
+El cambio está en cada uno de [PARTIDO],3
+"[ADVERSARIO] esconden errores, [PARTIDO] enfrentamos consecuencias",1
+Promete renovación y revive viejos vicios,0
+Somos el cambio que el Perú necesitaba,3
+Hoy el país se viste de esperanza,3
+La tasa de mortalidad infantil disminuyó en 10 % durante el último quinquenio,2
+"El futuro no se teme, se abraza con esperanza",3
+"Dice ser técnico, pero sus números nunca cuadran",0
+"[ADVERSARIO] dicen que hay oportunidades, [PARTIDO] no las vemos",1
+"[ADVERSARIO] viajan en avión, [PARTIDO] seguimos caminando",1
+"[ADVERSARIO] cambian de bandera, [PARTIDO] seguimos creyendo en la nuestra",1
+El Perú es un sentimiento que no se apaga,3
+El 45 % de los hogares urbanos vive en zonas de riesgo,2
+El número de docentes capacitados en tecnología educativa sigue siendo bajo,2
+"Critica la corrupción, pero fue asesor de un corrupto",0
+"Dice que escucha, pero solo interrumpe",0
+"Habla de progreso, pero paraliza el país con su inacción",0
+El 60 % de los migrantes internos proviene de regiones altoandinas,2
+"[ADVERSARIO] planean campañas, [PARTIDO] planificamos el día",1
+"[ADVERSARIO] miran al pueblo desde sus balcones, [PARTIDO] lo miramos a los ojos",1
+Promete proteger a los débiles y humilla a su equipo,0
+Somos el cambio que tanto esperábamos,3
+El 70 % de los productos agrícolas se vende sin valor agregado,2
+El 80 % de los gobiernos regionales incumple plazos de obras,2
+Promete transparencia y firma en silencio,0
+Ha llegado la hora de dar el paso hacia adelante,3
+Ha llegado el momento de creer en [PARTIDO] mismos,3
+El 85 % de los trabajadores independientes no cotiza a un sistema de pensiones,2
+"[ADVERSARIO] tienen poder, [PARTIDO] tenemos razón",1
+Promete cambio y repite las mismas frases vacías,0
+El 90 % de los hogares rurales cocina con leña o carbón,2
+Predica esfuerzo y no trabaja ni los lunes,0
+Nada puede vencer la voluntad de un pueblo unido,3
+El 45 % de los hogares no participa en procesos electorales locales,2
+El 60 % del gasto en salud se concentra en Lima y Callao,2
+El 30 % de los adolescentes dejó la escuela durante la pandemia,2
+El 15 % de las empresas privadas ofrece programas de reciclaje,2
+Más del 60 % de las escuelas públicas tiene baños inoperativos,2
+"[ADVERSARIO] viven de slogans, [PARTIDO] de sacrificio",1
+"[ADVERSARIO] nos llaman minoría, [PARTIDO] los llamamos desconectados",1
+Habla de verdad y oculta la mitad,0
+El 25 % de los hospitales no tiene farmacia operativa,2
+"Dice que ama al país, pero odia al pueblo que lo eligió",0
+"Su discurso es de pueblo, pero su vida es de club exclusivo",0
+Habla de progreso y ni siquiera entiende cómo vive el país,0
+"[ADVERSARIO] piensan en elecciones, [PARTIDO] pensamos en generaciones",1
+"[ADVERSARIO] cierran puertas, [PARTIDO] abrimos caminos",1
+El 80 % de las denuncias por violencia no llega a sentencia,2
+El futuro es nuestro y empieza ahora,3
+El Perú será el país que siempre debió ser,3
+El 80 % de los municipios rurales depende de transferencias centrales,2
+El 10 % de las regiones concentra el 70 % del PBI,2
+Habla de moral y cambia de valores según la encuesta,0
+"[ADVERSARIO] prometen igualdad, [PARTIDO] la exigimos",1
+"[ADVERSARIO] ganan elecciones, [PARTIDO] ganamos conciencia",1
+El Perú será grande porque su gente es grande,3
+Habla de educación y no terminó la suya,0
+No hay obstáculos cuando se actúa con el corazón,3
+Nada nos detendrá mientras tengamos fe,3
+"[ADVERSARIO] justifican errores, [PARTIDO] exigimos cuentas",1
+"[ADVERSARIO] creen que todo tiene precio, [PARTIDO] sabemos que hay cosas sagradas",1
+El 70 % de las compras estatales se concentra en Lima,2
+"[PARTIDO] creemos en el país, [ADVERSARIO] solo en su bolsillo",1
+"[ADVERSARIO] tienen poder, [PARTIDO] tenemos memoria",1
+"[ADVERSARIO] tienen poder, pero [PARTIDO] tenemos pueblo",1
+"En promedio, los peruanos gastan el 40 % de su ingreso mensual en alimentos",2
+"[PARTIDO] caminamos juntos, [ADVERSARIO] caminan sobre [PARTIDO]",1
+"[ADVERSARIO] se creen imprescindibles, [PARTIDO] creemos en el pueblo",1
+Promete meritocracia y pone a su cuñado de asesor,0
+El 30 % de los adultos mayores no recibe pensión,2
+Predica fe y contrata a los mismos de siempre,0
+El 10 % de las empresas acapara el 80 % de las exportaciones,2
+"Dice que lucha por los pobres, pero nunca los escucha",0
+Promete eficiencia y deja promesas sin ejecutar,0
+El 90 % de las municipalidades pequeñas no tiene ingenieros titulados,2
+Predica transparencia y firma contratos en la oscuridad,0
+La fe en el país será nuestra mayor fortaleza,3
+El 45 % de los colegios rurales carece de docentes especializados,2
+El 25 % de los jóvenes limeños trabaja más de 10 horas diarias,2
+"[ADVERSARIO] controlan los medios, [PARTIDO] tenemos la calle",1
+El que destruye a los demás demuestra que no tiene propuesta,0
+"Dice que lucha contra el sistema, pero vive de él",0
+Cada región aportará su luz al nuevo Perú,3
+"[PARTIDO] marchamos con dignidad, [ADVERSARIO] con escolta",1
+"[ADVERSARIO] tienen seguridad privada, [PARTIDO] rezamos para que no nos roben",1
+"[ADVERSARIO] viajan en caravanas, [PARTIDO] en combi",1
+Quien no respeta a sus colegas no respetará a los ciudadanos,0
+El Perú florecerá con el esfuerzo de su gente,3
+El consumo de agua per cápita cayó 8 % por sequía,2
+"Somos un país lleno de fuerza, historia y esperanza",3
+Nuestro compromiso es con la historia y con el mañana,3
+El 40 % de los hogares peruanos aún cocina con combustibles contaminantes,2
+Cada año se registran más de 60 000 accidentes laborales,2
+La mitad del presupuesto de educación se destina a infraestructura,2
+El 35 % de los médicos trabaja en más de un hospital,2
+El 20 % de los hogares urbanos vive en alquiler informal,2
+Juntos lograremos el Perú que merecemos,3
+La inflación alimentaria acumulada alcanzó el 8 % en zonas urbanas,2
+Somos la generación del cambio,3
+"[ADVERSARIO] nos dividen, [PARTIDO] nos reconocemos hermanos",1
+Más de 1000 obras públicas permanecen paralizadas,2
+"[ADVERSARIO] prometen unión, [PARTIDO] la construimos en la calle",1
+Hoy comienza una nueva era de esperanza,3
+"[ADVERSARIO] cambian de partido, [PARTIDO] mantenemos principios",1
+El 50 % de las familias migrantes carece de vivienda propia,2
+El gasto en defensa supera al de innovación tecnológica,2
+Nada podrá apagar la llama del cambio,3
+El Perú tiene un destino de grandeza,3
+Promete igualdad y crea nuevos privilegios,0
+"[PARTIDO] ponemos el hombro, [ADVERSARIO] ponen excusas",1
+"[ADVERSARIO] aplauden al poderoso, [PARTIDO] abrazamos al necesitado",1
+El 45 % de las compras estatales supera el presupuesto inicial,2
+Juntos haremos historia,3
+"Con fe, coraje y trabajo todo será posible",3
+"Dice que gobierna con el corazón, pero lo hace con rencor",0
+"Promete justicia, pero manipula testigos",0
+Nada podrá apagar la llama del pueblo,3
+El amor por el Perú nos hace invencibles,3
+"[PARTIDO] levantamos el país, [ADVERSARIO] levantan discursos",1
+"[ADVERSARIO] prometen igualdad, pero solo reparten beneficios entre los suyos",1
+"[ADVERSARIO] celebran contratos, [PARTIDO] contamos monedas",1
+Predica humildad y exige reverencias,0
+El índice de competitividad global ubicó al Perú en el puesto 65,2
+El mañana será mejor porque lo haremos juntos,3
+"[ADVERSARIO] cambian de partido, [PARTIDO] seguimos esperando cambio",1
+"[ADVERSARIO] escriben historia, [PARTIDO] la vivimos",1
+El 70 % de las escuelas rurales tiene aulas prefabricadas,2
+"[ADVERSARIO] se refugian en la burocracia, [PARTIDO] en la comunidad",1
+"Dice que escucha, pero solo espera su turno para hablar",0
+El 45 % de los docentes gana menos de 2500 soles mensuales,2
+"[ADVERSARIO] hablan de democracia, [PARTIDO] la practicamos en la calle",1
+"[ADVERSARIO] hacen negocios con el país, [PARTIDO] hacemos patria",1
+"[ADVERSARIO] legislan para sus empresas, [PARTIDO] sobrevivimos con nuestro esfuerzo",1
+El pueblo ha despertado para nunca más dormirse,3
+"[ADVERSARIO] siembran división, [PARTIDO] sembramos conciencia",1
+El consumo de agua per cápita en Lima triplica el promedio nacional,2
+Vamos a devolverle la sonrisa al Perú,3
+"[PARTIDO] caminamos bajo el sol, [ADVERSARIO] bajo los reflectores",1
+La unión será nuestra victoria,3
+"Según el INEI, más del 40 % de los hogares rurales aún no tienen agua potable",2
+Promete unidad y siembra odio,0
+El 20 % de los estudiantes universitarios estudia carreras saturadas,2
+Predica renovación y recicla caras viejas,0
+"[ADVERSARIO] gobiernan desde palacios, [PARTIDO] desde la calle",1
+El índice de empleo femenino bajó en las regiones del norte,2
+El 50 % de las viviendas en la costa norte está en zonas inundables,2
+"[PARTIDO] creemos en el cambio, [ADVERSARIO] lo temen",1
+"[ADVERSARIO] roban el presupuesto, [PARTIDO] pagamos la deuda",1
+Habla de justicia y calla ante la corrupción de sus aliados,0
+El 90 % de las universidades privadas opera en Lima y el norte,2
+Hoy el país late con un solo corazón,3
+El 60 % de los proyectos de irrigación está paralizado,2
+Nuestra bandera volverá a ondear con orgullo,3
+"[ADVERSARIO] buscan poder, [PARTIDO] buscamos dignidad",1
+El 60 % de los docentes considera insuficiente su salario,2
+El Perú tiene todo para salir adelante,3
+No hay imposibles cuando el pueblo se une,3
+El 49% de los niños peruanos menores a 3 años tienen anemia,2
+El 50 % de los casos de corrupción involucra gobiernos locales,2
+"Con el corazón en alto y la mirada en el futuro, venceremos",3
+Estamos viviendo el renacer del Perú,3
+"Predica unidad, pero separa entre buenos y traidores",0
+"[PARTIDO] seguimos de pie, [ADVERSARIO] de espaldas al pueblo",1
+"[PARTIDO] defendemos la tierra, [ADVERSARIO] defienden la mina",1
+La unidad hará posible el milagro del Perú,3
+Somos la voz de una patria que quiere vivir mejor,3
+Solo el 30 % de los estudiantes rurales logra comprensión lectora adecuada,2
+El precio del transporte urbano aumentó 15 % en los últimos dos años,2
+"[ADVERSARIO] gritan orden, [PARTIDO] gritamos justicia",1
+"[ADVERSARIO] no conocen el hambre, [PARTIDO] la enfrentamos con coraje",1
+El 35 % de los contratos públicos fue adjudicado por única oferta,2
+"[ADVERSARIO] siembran miedo, [PARTIDO] sembramos esperanza",1
+"Cada año, más de 200 000 peruanos emigran buscando empleo",2
+"[PARTIDO] sembramos tierra, [ADVERSARIO] siembran duda",1
+El 70 % de los municipios carece de presupuesto participativo,2
+"Promete justicia, pero castiga a quien la exige",0
+El 45 % de los peruanos cree que su voto no cambia nada,2
+"Dice que escucha al pueblo, pero solo oye su propio eco",0
+Los que se llenan de banderas no saben lo que significa servir,0
+Solo el 8 % de los agricultores accede a seguros agrarios,2
+Promete moral y gobierna con inmorales,0
+La densidad de médicos por habitante sigue por debajo del promedio regional,2
+"[ADVERSARIO] firman acuerdos, [PARTIDO] cargamos consecuencias",1
+"[PARTIDO] vivimos la crisis, [ADVERSARIO] viven del Estado",1
+"[ADVERSARIO] hacen política, [PARTIDO] hacemos historia",1
+"[ADVERSARIO] viven del canon, [PARTIDO] de la cosecha",1
+El 35 % del personal estatal trabaja bajo contratos temporales,2
+Habla de transparencia y oculta su pasado,0
+La recaudación fiscal cayó 12 % durante el último semestre,2
+Predica moral y compra silencios,0
+Más de 500 colegios públicos funcionan en locales alquilados,2
+El 80 % de los centros de salud rurales carece de laboratorio,2
+"[ADVERSARIO] compran conciencias, [PARTIDO] despertamos corazones",1
+Promete honestidad y miente con elegancia,0
+El amor por la patria vencerá cualquier obstáculo,3
+Habla de esfuerzo y no pisa oficina,0
+"Siempre promete cambios, pero ni siquiera cambia su propia conducta",0
+"[ADVERSARIO] heredan apellidos, [PARTIDO] heredamos deudas",1
+El 25 % de las empresas manufactureras redujo producción por falta de insumos,2
+"[ADVERSARIO] protegen su imagen, [PARTIDO] protegemos nuestra tierra",1
+El 25 % de los niños menores de cinco años sufre anemia crónica,2
+El 90 % de las carreteras de la selva carece de mantenimiento regular,2
+Solo el 25 % de los municipios tiene plantas de tratamiento de agua,2
+El 45 % de los universitarios trabaja mientras estudia,2
+El 40 % del presupuesto público proviene de impuestos indirectos,2
+"Quien necesita destruir al otro para brillar, no merece el cargo",0
+"[ADVERSARIO] no conocen la sierra, pero hablan de ella",1
+El 40 % del presupuesto social se ejecuta fuera de plazo,2
+La esperanza vuelve a ser la protagonista del futuro,3
+El sector minero representa cerca del 10 % del PBI nacional,2
+"Promete democracia, pero sueña con gobernar solo",0
+Promete unión mientras divide con sus palabras,0
+"[ADVERSARIO] deciden en escritorios, [PARTIDO] decidimos en la faena",1
+"[ADVERSARIO] levantan banderas por interés, [PARTIDO] por convicción",1
+"Predica libertad, pero censura críticas",0
+"Dice que gobierna para todos, pero gobierna para los suyos",0
+[POLÍTICO] político solo recuerda al pueblo cuando hay elecciones,0
+"[ADVERSARIO] viven en torres, [PARTIDO] en cerros",1
+Promete amor por la patria y desprecia sus regiones,0
+El país se transforma con la energía de su gente,3
+"[ADVERSARIO] se burlan del pueblo, [PARTIDO] seguimos de pie",1
+La fuerza del pueblo está más viva que nunca,3
+Somos más los que queremos un futuro diferente,3
+El 35 % de los estudiantes de secundaria reprueba matemáticas,2
+Nuestro país merece un nuevo comienzo,3
+El 60 % de las municipalidades rurales depende del canon minero,2
+"En el último censo, más de dos millones de peruanos declararon no tener acceso a Internet",2
+Promete justicia y manipula al juez,0
+Habla de unidad y genera división en cada discurso,0
+El 40 % de los hospitales carece de ambulancias operativas,2
+"Dice que escucha al pueblo, pero solo oye a sus asesores",0
+"[ADVERSARIO] se esconden tras el protocolo, [PARTIDO] salimos al pueblo",1
+Solo el 15 % de los caminos rurales está asfaltado,2
+"[ADVERSARIO] tienen discursos, [PARTIDO] tenemos razones",1
+"[ADVERSARIO] hablan de crecimiento, [PARTIDO] hablamos de justicia",1
+"Dice ser firme, pero cede ante el poder del dinero",0
+"[POLÍTICO] persona critica todo, pero nunca propone nada",0
+"Predica valores, pero vive de intereses",0
+"El Perú no está dormido, está despertando",3
+Somos más los que queremos construir y no destruir,3
+Dice que defiende la justicia y acomoda leyes,0
+"[ADVERSARIO] creen que el país es su empresa, [PARTIDO] sabemos que es nuestra casa",1
+Predica trabajo y pasa la mitad del tiempo en redes,0
+"[ADVERSARIO] se creen el Perú, [PARTIDO] lo habitamos",1
+"Creemos en un Perú justo, libre y solidario",3
+El 40 % de los colegios privados carece de supervisión pedagógica,2
+El 90 % de las clínicas privadas se concentra en cinco ciudades,2
+"Hoy el cambio no es una promesa, es una realidad",3
+El 70 % de los hogares de la selva carece de título de propiedad,2
+Juntos construiremos el futuro que todos soñamos,3
+El 50 % de los pescadores artesanales depende de intermediarios,2
+"La grandeza del Perú está en su gente, no en sus gobiernos",3
+La unidad es el verdadero camino al futuro,3
+"[PARTIDO] vivimos la historia, [ADVERSARIO] la manipulan",1
+"[ADVERSARIO] piensan en elecciones, [PARTIDO] pensamos en sobrevivir",1
+"[ADVERSARIO] viajan en avión, [PARTIDO] esperamos el bus",1
+"Habla de unión, pero no puede unir ni a su partido",0
+El 45 % de las viviendas urbanas tiene filtraciones de agua,2
+El 60 % de las familias en zonas altoandinas vive bajo la línea de pobreza,2
+Vamos a devolverle al Perú su grandeza,3
+El 50 % de los adolescentes rurales no accede a educación técnica,2
+El cambio llegó para quedarse,3
+"[ADVERSARIO] nos llaman radicales, [PARTIDO] les decimos hipócritas",1
+"[ADVERSARIO] miran hacia afuera, [PARTIDO] seguimos mirando hacia arriba",1
+Promete justicia y protege a los suyos,0
+No hay marcha atrás cuando el corazón guía el camino,3
+[ADVERSARIO] nos critican desde Lima no entienden lo que es vivir en el interior del país,0
+"[PARTIDO] decimos la verdad, [ADVERSARIO] maquillan el discurso",1
+"[ADVERSARIO] hablan de democracia, [PARTIDO] la sostenemos cada día",1
+El 60 % de los contratos estatales presenta irregularidades,2
+"Quien desprecia al otro demuestra miedo, no liderazgo",0
+"Dice que ama al país, pero no paga impuestos aquí",0
+"[ADVERSARIO] dicen “todos somos Perú”, pero nos tratan como si no lo fuéramos",1
+Unidos lograremos lo que parecía imposible,3
+Juntos levantaremos el orgullo nacional,3
+Habla de dignidad y humilla a quien piensa distinto,0
+Hoy escribimos la página más importante de nuestra historia,3
+"[PARTIDO] construimos país, [ADVERSARIO] lo administran como empresa",1
+"Habla de lucha, pero evita el conflicto cuando toca decidir",0
+"Se hace llamar líder, pero ni su bancada le obedece",0
+El 40 % de las empresas peruanas opera sin registro formal,2
+Nadie podrá apagar la luz que llevamos dentro,3
+Promete orden y deja caos,0
+"[ADVERSARIO] duermen tranquilos, [PARTIDO] soñamos con justicia",1
+"[PARTIDO] levantamos el país con trabajo, [ADVERSARIO] lo hunden con discursos",1
+El 90 % de los jóvenes en zonas rurales no accede a educación técnica,2
+"[ADVERSARIO] miran las encuestas, [PARTIDO] miramos la olla",1
+El cambio es una semilla que ya empezó a germinar,3
+"[ADVERSARIO] ven enemigos, [PARTIDO] vemos hermanos",1
+"[ADVERSARIO] venden la patria, [PARTIDO] la trabajamos",1
+"Dice que sirve al pueblo, pero se sirve del cargo",0
+Solo el 20 % de los hospitales cuenta con UCI equipada,2
+"[ADVERSARIO] tienen asesores, [PARTIDO] tenemos razones",1
+El desempleo juvenil supera el 15 %,2
+El 85 % de los usuarios de transporte público califica el servicio como deficiente,2
+El 85 % de los programas sociales no tiene auditoría reciente,2
+Hoy el país empieza a escribir una nueva página,3
+Más de la mitad de los municipios del país no rinde cuentas a tiempo,2
+Promete trabajo sin haber trabajado jamás,0
+Nada es más fuerte que la esperanza del pueblo,3
+"[PARTIDO] hablamos con hechos, [ADVERSARIO] con promesas",1
+[PARTIDO] trabajamos todos los días; [ADVERSARIO] solo aparecen para pedir votos,1
+Nada nos detendrá porque el cambio ya empezó,3
+"Siempre que promete algo nuevo, termina repitiendo lo viejo",0
+"Los tiempos mejores no se esperan, se construyen",3
+Con esperanza venceremos la adversidad,3
+El futuro se construye con valentía y amor a la patria,3
+"[ADVERSARIO] celebran contratos, [PARTIDO] celebramos cosechas",1
+"Dice que es distinto, pero actúa igual que todos",0
+La esperanza es la bandera que nos une,3
+"[PARTIDO] defendemos la patria con trabajo, [ADVERSARIO] con discursos vacíos",1
+El pueblo peruano vuelve a levantar la cabeza,3
+La historia reconocerá a los que creyeron,3
+"La esperanza no se elige, se siente",3
+"[ADVERSARIO] viven del Estado, [PARTIDO] lo sostenemos",1
+Creer es el primer paso para transformar,3
+El 80 % de las viviendas rurales usa techos de calamina o paja,2
+Habla de unidad y despide a quien piensa distinto,0
+El 30 % de las carreteras rurales está intransitable en temporada de lluvias,2
+"El que promete salvar al país sin entenderlo, lo hunde más",0
+Este es el inicio de una nueva historia de esperanza,3
+Promete justicia y negocia impunidad,0
+La fuerza del cambio nace del alma del Perú,3
+"Promete cambio, pero mantiene los mismos vicios",0
+La historia está esperando nuestra mejor versión,3
+Se disfraza de obrero para ganar votos,0
+El consumo de energía eléctrica por persona creció un 5 % en la última década,2
+Habla de lucha contra la corrupción y tiene amigos en prisión,0
+"Quien usa al pueblo como escudo no defiende causas, defiende intereses",0
+"Habla de pueblo, pero no sabe lo que cuesta un pasaje en combi",0
+"Nada nos divide, porque todos somos Perú",3
+El país que soñamos está más cerca que nunca,3
+"Dice ser independiente, pero obedece órdenes del poder económico",0

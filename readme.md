@@ -1,63 +1,68 @@
-# Sistema Clasificador BETO Fine-Tuned para Análisis Retórico en Frases Políticas (Ad-hominem, Framing, Lógica y Retórica Vacía) V2.0
+# Sistema Clasificador BETO Fine-Tuned para Análisis Retórico en Frases Políticas (Ad-hominem, Framing, Lógica y Retórica Vacía) – Versión 3.0
 
-## 🧩 Actualización V2.0 — Dataset y Entrenamiento Limpio
+## 🧩 Actualización V3.0 — Pipeline de Datos y Entrenamiento
 
-Esta versión implementa un pipeline de preprocesamiento más riguroso para garantizar la validez del modelo:
-- **Deduplicado y normalización léxica** de frases políticas.
-- **Split sin fuga (GroupShuffleSplit)** basado en similitud textual MD5.
-- **Fine-tuning de BETO** con pérdida ponderada (CrossEntropyLoss + class weights).
-- **Evaluación exhaustiva:** matriz de confusión, F1-macro y accuracy.
+Esta versión consolida un pipeline experimental más sólido y reproducible para la
+clasificación automática de estrategias retóricas en frases políticas en español.
 
-Usuarios Expertos :
-Elizabeth Ramirez ( Periodista )
-Jim Delgado ( Politologo - Jefe de Prensa Antauro Humala )
+Principales cambios respecto a versiones anteriores:
 
-Los resultados demuestran una separación nítida entre las clases retóricas (Ad-hominem, Framing, Lógica, Retórica Vacía) sin evidencia de sobreajuste por duplicidad de muestras.
+- **Depuración exhaustiva del corpus**
+  - Normalización de texto y corrección de problemas de codificación.
+  - Eliminación de duplicados y casi duplicados.
+  - Enmascarado de nombres propios y actores políticos mediante tokens neutros
+    (p. ej., `[POLITICO]`, `[PARTIDO]`) para reducir el sobreajuste a figuras
+    específicas.
 
+- **Particionado sin fuga de información**
+  - Asignación de un `group_id` para agrupar frases similares o provenientes de
+    la misma fuente.
+  - Generación de 5 folds con `StratifiedGroupKFold`, garantizando:
+    - estratificación por clase (mismas proporciones de etiquetas en cada fold);
+    - no mezclar frases del mismo grupo entre entrenamiento y prueba.
+
+- **Comparación clara entre modelos**
+  - **Baseline clásico:** TF-IDF + Regresión Logística multinomial.
+  - **Modelo propuesto:** BETO fine-tuned como clasificador de 4 etiquetas.
+
+- **Evaluación rigurosa**
+  - Validación cruzada en 5 folds sobre el corpus depurado.
+  - Hold-out interno (Fold 4) para análisis detallado.
+  - Hold-out externo (“humano”): frases inéditas, redactadas manualmente.
+  - Métricas: Accuracy, F1-macro, matriz de confusión e inspección de errores.
+
+**Usuarios expertos asociados al proyecto**
+
+- Elizabeth Ramírez (periodista)  
+- Jim Delgado (politólogo, jefe de prensa Antauro Humala)
+
+Los resultados muestran una separación muy nítida entre las clases retóricas
+(Ad-hominem, Framing binario, Lógica/Logos y Retórica vacía), sin evidencia de
+sobreajuste por duplicidad de muestras ni fuga de información entre entrenamiento
+y prueba.
+
+---
 
 ## 📂 Estructura del repositorio
-- **data/raw/** → Dataset original (1000 frases políticas en español).
-- **notebooks/** → EDA y fine-tuning BETO.
-- **src/web/** → Prototipo en Flask.
-- **src/beto_gpu/** → Documentación del modelo fine-tuned.
-- **logs/** → Resultados y métricas.
-- **README.md** → Documento principal.
 
-## 📊 Dataset
-- **Fuente:** Dataset propio recopilado y etiquetado manualmente.
-- **Clases:** 4 categorías de retórica política.
-- **Formato:** CSV y XLSX.
-
-## 🧠 Modelos
-- **Baseline:** Modelo simple (Naive Bayes, Regresión logística).
-- **Fine-tuned BETO:**  
-  - Modelo base: `dccuchile/bert-base-spanish-wwm-cased`  
-  - Épocas: 5  
-  - Batch size: 8  
-  - Learning rate: 3e-5  
-  - Métrica principal: Accuracy y F1-score  
-
-## 📈 Resultados
-- Baseline: Accuracy ≈ 0.65  
-- BETO Fine-tuned: Accuracy ≈ 0.88, F1 ≈ 0.87  
-
-## 🌐 API Publicada en Hugging Face
-El modelo fine-tuned BETO para clasificación de frases políticas está disponible en:
-👉 [Hugging Face Hub – jcam121212/beto-politico](https://huggingface.co/jcam121212/beto-politico)
-
-## 🌐 Prototipo Web
- **Demo Web en Producción:**  
-👉 [Analizador de Frases Políticas v2.0](https://www.elneto.ai/analizador.html)
-Prototipo en línea que permite ingresar frases políticas y clasificarlas automáticamente en las 4 categorías retóricas: 
-Ad-hominem, Framing binario, Razonamiento lógico y Retórica vacía.
-
-### Cómo usarlo en Python
-```python
-from transformers import pipeline
-
-# Cargar el modelo publicado
-classifier = pipeline("text-classification", model="jcam121212/beto-politico")
-
-# Ejemplo de uso
-texto = "Reduciremos la pobreza en un 10% en los próximos años"
-print(classifier(texto))
+```text
+.
+├─ data/
+│  ├─ processed/
+│  │  ├─ corpus_clean_v3_folds.csv   # corpus depurado con etiquetas, group_id y fold
+│  │  └─ holdout_humano.csv          # frases inéditas para evaluación externa
+│  └─ raw/                            # datos sin procesar (no versionados en git)
+├─ models/
+│  └─ beto_v3_final_fold0/           # modelo BETO fine-tuned + tokenizer
+├─ notebooks/
+│  ├─ 1_depurando_dataset_v3.ipynb
+│  ├─ 2_baseline_tfidf_lr_v3.ipynb
+│  ├─ 3_fine_tuning_v3.ipynb
+│  ├─ 4_inferencia_beto_v3.ipynb
+│  ├─ 5_analisis_resultados_beto_v3.ipynb
+│  └─ 6_slices_analisis_beto_v3.ipynb
+├─ src/
+│  ├─ web/         # prototipo web / frontend (Flask o similar)
+│  └─ beto_gpu/    # código y documentación relacionados al entrenamiento en GPU
+├─ logs/           # métricas y registros de entrenamiento/validación
+└─ README.md       # este documento
